@@ -1,0 +1,50 @@
+baseurl = "/"
+languageCode = "fr-fr"
+theme = "terminal"
+paginate = 5
+
+[params]
+  # dir name of your blog content (default is `content/posts`)
+  contentTypeName = "posts"
+  # ["orange", "blue", "red", "green", "pink"]
+  themeColor = "green"
+  # if you set this to 0, only submenu trigger will be visible
+  showMenuItems = 3
+  # show selector to switch language
+  showLanguageSelector = false
+  # set theme to full screen width
+  fullWidthTheme = false
+  # center theme with default width
+  centerTheme = false
+  # set a custom favicon (default is a `themeColor` square)
+  # favicon = "favicon.ico"
+
+[languages]
+  [languages.en]
+    languageName = "Français"
+    title = "Mon carnet de blog | Simplicité et Efficacité"
+    keywords = ""
+    copyright = "2020 | Jean-Marc Leresche"
+    menuMore = "autres"
+    readMore = "continuer"
+    readOtherPosts = "à lire aussi"
+
+    [languages.en.params.logo]
+      logoText = "Mon carnet de blog | Simplicité et Efficacité"
+      logoHomeLink = "/"
+
+    [languages.en.menu]
+      [[languages.en.menu.main]]
+        identifier = "auteur"
+        name = "auteur"
+        url = "/about"
+      
+      [[languages.en.menu.main]]
+        identifier = "philosophie"
+        name = "philosophie"
+        url = "/philosophie" 
+
+      [[languages.en.menu.main]]
+        identifier = "parcours"
+        name = "parcours"
+        url = "/mon-parcours"      
