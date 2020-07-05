@@ -13,6 +13,9 @@ Elle sera sans doute enlevée ou réécrite.
 
 Je la laisse, mais j'ai changé son contenu. Elle traite maintenant des perspectives de ce blog.
 
+![Un ordinateur pour bloguer](/img/ordinateur.png)
+
+
 ## Pourquoi un autre blog ?
 
 J'ai déjà un blog qui tourne sous Wordpress et cela me convient très bien. Je pourrais, et devrais, m'en contenter, puisque cela marche...
