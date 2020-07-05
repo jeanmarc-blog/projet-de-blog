@@ -1,7 +1,7 @@
 ---
 title: "Mon Parcours"
 date: 2020-06-29T14:57:48+02:00
-draft: true
+draft: false
 ---
 
 Quelques repères pour mieux situer qui je suis et d'où je viens.

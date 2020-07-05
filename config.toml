@@ -49,7 +49,7 @@ paginate = 5
         name = "parcours"
         url = "/mon-parcours"
 
- 	[[languages.en.menu.main]]
+ 	    [[languages.en.menu.main]]
         identifier = "perspectives"
         name = "perspectives"
         url = "/perspectives"
