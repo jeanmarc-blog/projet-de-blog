@@ -2,7 +2,7 @@
 title = "Ma petite boîte à outils"
 date = "2020-06-26"
 author = "Jean-Marc"
-tags = ["blog", "outils", "pratique"]
+tags = ["blog", "outils", "code", "pratique"]
 +++
 
 À la mi-mars, Philippe Golaz a publié sur son blog [L’Eglise sur internet à l’heure du coronavirus](https://philippegolaz.ch/faire-eglise-sur-internet-a-lheure-du-coronavirus/). Il y présente réflexions personnelles, plate-formes, outils et matériels pour *être Église autrement*.

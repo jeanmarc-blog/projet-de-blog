@@ -15,7 +15,7 @@ paginate = 5
   # set theme to full screen width
   fullWidthTheme = false
   # center theme with default width
-  centerTheme = false
+  centerTheme = true
   # set a custom favicon (default is a `themeColor` square)
   # favicon = "favicon.ico"
 
@@ -24,7 +24,7 @@ paginate = 5
     languageName = "Français"
     title = "Mon carnet de blog | Simplicité et Efficacité"
     keywords = ""
-    copyright = "2020 | Jean-Marc Leresche"
+    copyright = ""
     menuMore = "autres"
     readMore = "continuer"
     readOtherPosts = "à lire aussi"
