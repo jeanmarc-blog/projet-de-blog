@@ -5,6 +5,8 @@ author = "Jean-Marc"
 tags = ["blog", "outils", "code", "pratique"]
 +++
 
+{{< image src="/img/outils.jpg" alt="Quelques outils pour commencer à bloguer" position="center" style="border-radius: 8px;" >}}
+
 À la mi-mars, Philippe Golaz a publié sur son blog [L’Eglise sur internet à l’heure du coronavirus](https://philippegolaz.ch/faire-eglise-sur-internet-a-lheure-du-coronavirus/). Il y présente réflexions personnelles, plate-formes, outils et matériels pour *être Église autrement*.
 
 En relisant ce billet, j'ai eu envie de partager ma **boîte à outils**, celle du (modeste) blogueur que je suis.
@@ -41,9 +43,6 @@ Connaître quelques codes simples et le tour est joué. Juste être concentré s
 
 Cet outil me sera aussi utile dans mes rédactions futures, également pour les textes destinés à être formatés, puis imprimés souvent au format A4.
 
-
-![](https://cdn.pixabay.com/photo/2019/03/26/04/30/influencer-4081842_960_720.jpg)
-
  
 Ensuite, je copie ces textes dans [WordPress](https://fr.wordpress.com/) qui me sert à animer [mon blog *"officiel"*](https://jeanmarcleresche.ch).
 
@@ -51,7 +50,6 @@ Ensuite, je copie ces textes dans [WordPress](https://fr.wordpress.com/) qui me 
 
 J'ai ouvert [un podcast chez Anchor.fm](https://anchor.fm/jean-marc-leresche). J'y dépose mes enregistrements de méditations et prédications. Avant publication, je fais un peu de montage audio basique au moyen d'[Audacity](https://www.audacityteam.org/) : amplifier, normaliser, couper, mixer. C'est vraiment du basique.
 
-![](https://cdn.pixabay.com/photo/2017/08/01/00/18/people-2562222_960_720.jpg)
 
 [J'ai tenté la vidéo](https://jeanmarcleresche.ch/le-theo-logis/) au moyen de QuickTime. Je n'ai pas tenu le rythme d'une vidéo par mois. Je dépose mes vidéos et celles de collègues, envoyées pour [les cultes à l'emporter de la paroisse de La Neuveville](https://paref2520.ch/category/cultes-a-lemporter/), sur ma chaîne YouTube. Un montage rudimentaire à l'aide d'[iMovie](https://www.apple.com/fr/imovie/) (sur Mac) : ajout de textes, coupures et mixage de séquences.
 
@@ -61,7 +59,6 @@ J'utilise [Feedly](https://feedly.com/) comme lecteur de flux. Ainsi, je suis le
 
 Si des articles me parlent, je les conserve dans [Pocket](https://getpocket.com/)[^1] en vue de ne pas les perdre.
 
-![](https://cdn.pixabay.com/photo/2015/09/09/20/35/notes-933183_960_720.jpg)
 
 [^1]: À voir si je garde, ou si je trouve une autre alternative.
 
@@ -78,7 +75,6 @@ Je décide de faire une pause dans mes publications. C'est un choix. Je n'aurai 
 
 Je suis conscient que mes commentaires (parfois lofoques) laissés sur Facebook se perdront. C'est peut-être tant mieux. Sans doute qu'ils ne seront pas vraiment ni définitivement perdus.
 
-![](https://cdn.pixabay.com/photo/2017/10/01/13/55/hands-2805608_960_720.jpg)
 
 Une publication sur ce réseau est *théoriquement visible* dans le flux, mais le flux est dense et ladite publication se perd très vite. Impossible de faire des recherches pertinentes, de retrouver ou rédiger des articles structurés. [Je l'ai déjà expliqué](https://jeanmarcleresche.ch/passer-a-laction/).
 

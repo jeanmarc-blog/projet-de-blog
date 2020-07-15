@@ -11,7 +11,7 @@ showFullContent = false
 +++
 ## Un projet ouvert
 
-![tout est ouvert](https://cdn.pixabay.com/photo/2019/03/03/23/09/open-4033043__340.jpg)
+{{< image src="/img/open.jpg" alt="Un projet ouvert sur le monde" position="center" style="border-radius: 8px;" >}}
 
 Mon projet de blog est un projet ouvert. Rien n'est caché, je ne veux rien cacher. Je le souhaite évolutif, non seulement par mes propres réflexions et découvertes, mais aussi par celles de mes *contributeurs*.
 
@@ -22,7 +22,7 @@ Si sur le contenu, je pense maîtriser ce que je veux dire et comment le dire, i
 C'est pourquoi, je me suis décidé à placer mon projet sur [Github](https://github.com/) et lui donner un accès public. Je sais que je peux déjà compter sur l'aide d'un ami qui est de bon conseil. Je connais aussi d'autres personnes qui pourront m'aider, me secourir ou m'enguirlander de mes bourdes qui ne manqueront pas de venir.
 
 Chacun y va de son paipillement et c'est très bien ainsi.
-![Dis-moi, je t'écoute](https://cdn.pixabay.com/photo/2017/09/17/21/59/sparrows-2759978__340.jpg)
+
 
 ## Quel avenir de ce blog
 

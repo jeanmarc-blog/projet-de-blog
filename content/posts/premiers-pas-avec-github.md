@@ -4,11 +4,13 @@ date = "2020-07-04"
 author = "Jean-Marc"
 authorTwitter = "" #do not include @
 cover = ""
-tags = ["code", "geek"]
+tags = ["code", "geek", "outils"]
 keywords = ["", ""]
 description = ""
 showFullContent = false
 +++
+
+{{< image src="/img/pas.jpg" alt="seuls les premiers pas comptent" position="center" style="border-radius: 8px;" >}}
 
 ## Premiers pas plutôt difficiles ##
 
