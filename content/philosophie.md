@@ -4,7 +4,8 @@ date: 2020-06-26T16:52:38+02:00
 
 draft: false
 ---
-![Un petit projet](https://cdn.pixabay.com/photo/2014/11/24/09/16/blog-543656_960_720.jpg)
+{{< image src="/img/blog.jpg" alt="un blog" position="center" style="border-radius: 8px;" >}}
+
 ## Un blog, rien qu'un blog.
 
 Je considère pour l'instant ce blog "local" comme un carnet de notes, un journal[^1].
@@ -19,7 +20,7 @@ Je ne parlerai pas non plus de diaconat, personne ou presque ne sait ce que c'es
 
 Je parlerai de ce qui m'anime : la vie, tout simplement. Avec ses hauts et ses bas. Sans prise de tête.
 
-![Un lieu d'expression et de créativité](https://cdn.pixabay.com/photo/2015/05/31/11/25/girl-791177_960_720.jpg)
+{{< image src="/img/clavier.jpg" alt="communiquer ce qu'on veut" position="center" style="border-radius: 8px;" >}}
 
 ## Un lieu d'apprentissage.
 

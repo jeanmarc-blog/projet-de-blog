@@ -16,7 +16,8 @@ Elle sera sans doute enlevée ou réécrite.
 
 Je la laisse, mais j'ai changé son contenu. Elle traite maintenant des perspectives de ce blog.
 
-![Un ordinateur pour bloguer](/img/ordinateur.png)
+{{< image src="/img/ordinateur.jpg" alt="Un ordinateur pour bloguer" position="center" style="border-radius: 8px;" >}}
+
 
 
 ## Pourquoi un autre blog ?

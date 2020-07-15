@@ -1,7 +1,7 @@
 +++
 title = ""
-date = ""
-author = ""
+date = ".Date"
+author = "Jean-Marc"
 authorTwitter = "" #do not include @
 cover = ""
 tags = ["", ""]

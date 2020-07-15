@@ -4,6 +4,8 @@ date: 2020-06-29T14:57:48+02:00
 draft: false
 ---
 
+{{< image src="/img/hello.jpg" alt="Hello Friend" position="center" style="border-radius: 8px;" >}}
+
 Quelques repères pour mieux situer qui je suis et d'où je viens.
 
 + École supérieure de commerce de La Chaux-de-Fonds
