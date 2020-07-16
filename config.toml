@@ -1,7 +1,7 @@
 baseurl = "/"
 languageCode = "fr-fr"
 theme = "terminal"
-paginate = 5
+paginate = 3
 
 [params]
   # dir name of your blog content (default is `content/posts`)
@@ -9,7 +9,7 @@ paginate = 5
   # ["orange", "blue", "red", "green", "pink"]
   themeColor = "green"
   # if you set this to 0, only submenu trigger will be visible
-  showMenuItems = 4
+  showMenuItems = 1
   # show selector to switch language
   showLanguageSelector = false
   # set theme to full screen width
@@ -25,7 +25,7 @@ paginate = 5
     title = "Mon carnet de blog | Simplicité et Efficacité"
     keywords = ""
     copyright = ""
-    menuMore = "autres"
+    menuMore = "En savoir plus"
     readMore = "continuer"
     readOtherPosts = "à lire aussi"
 

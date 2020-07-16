@@ -6,18 +6,12 @@ author: "Jean-Marc"
 draft : false
 
 ---
-
-## Une page test
-
-*Cette page fait partie du thème*
-Elle sera sans doute enlevée ou réécrite.
-
-*pour l'instant, je la laisse...*
-
-Je la laisse, mais j'ai changé son contenu. Elle traite maintenant des perspectives de ce blog.
-
 {{< image src="/img/ordinateur.jpg" alt="Un ordinateur pour bloguer" position="center" style="border-radius: 8px;" >}}
 
+
+## Un blog statique
+
+Ce blog statique me fait revenir à du code. Je m'y suis initié il y a quelques mois. C'était du [html](https://fr.wikibooks.org/wiki/Le_langage_HTML). Depuis, j'ai découvert le [Markdown](https://fr.wikipedia.org/wiki/Markdown).
 
 
 ## Pourquoi un autre blog ?
