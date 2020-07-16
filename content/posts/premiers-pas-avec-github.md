@@ -14,7 +14,7 @@ showFullContent = false
 
 ## Premiers pas plutôt difficiles ##
 
-Un ami me propose de mettre les sources de mon futur blog en devenir sur Github. J'avais déjà entendu parler de cet hébergement, sans vraiment savoir à quoi il pouvait servir. J'ouvre un compte et y dépose [les sources de ce blog](https://github.com/jeanmarc-blog/).
+Un ami me propose de mettre les sources de mon futur blog en devenir sur Github. J'avais déjà entendu parler de cet hébergement, sans vraiment savoir à quoi il pouvait servir. J'ouvre un compte et y dépose [les sources de ce blog](https://github.com/jeanmarc-blog/projet-de-blog).
 
 Cet ami me dit tout le bien qu'il pense de Github, notamment dans la perspective d'une mise en ligne du blog. Je découvre que Github, c'est du code. Comme je le dis [dans ce premier billet](/posts/ma-petite-boite-a-outils/).
 

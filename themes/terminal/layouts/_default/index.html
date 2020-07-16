@@ -4,6 +4,11 @@
       {{ .Content }}
     </div>
   {{ end }}
+
+<p>
+<b>Le blog d'un geek en devenir.</b> <em>Comme un laboratoire grandeur nature.</em>
+</p>
+
   <div class="posts">
     {{ $isntDefault := not (or (eq (trim $.Site.Params.contentTypeName " ") "posts") (eq (trim $.Site.Params.contentTypeName " ") "")) }}
     {{ $contentTypeName := cond $isntDefault (string $.Site.Params.contentTypeName) "posts" }}
@@ -41,6 +46,7 @@
         {{ if .Params.Cover }}
           <img src="{{ .Params.Cover | absURL }}" class="post-cover" alt="{{ .Title | plainify | default " " }}" />
         {{ end }}
+
 
         <div class="post-content">
           {{ if .Params.showFullContent }}
