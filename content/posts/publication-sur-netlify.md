@@ -22,7 +22,8 @@ Le projet peut donc démarrer maintenant en *live*. Youpi ! La mise à jour ét�
 
 L'avantage d'un site en ligne est qu'il est lisible sur différents supports : ordinateur, tablette, smartphone et de juger de l'apparence sur ces différents supports.
 
-[Netlify](https://www.netlify.com/) est une plate-forme de développement. Il permet de *"déployer"* un site statique et de le rendre accessible. Sans exigence particulière de l'extension du nom du site, on peut le publier avec un nom XX.netlify.com. C'est ce que j'ai fait ici.
+[Netlify](https://www.netlify.com/) est une plate-forme de développement. Voir également [l'article de Wikipedia](https://fr.wikipedia.org/wiki/Netlify).
+Celle-ci me permet de *"déployer"* mon site statique et de le rendre accessible. Sans exigence particulière de l'extension du nom du site, on peut le publier avec un nom XX.netlify.app. C'est ce que j'ai fait ici.
 
 
 [complété prochainement au fur et à mesure]
