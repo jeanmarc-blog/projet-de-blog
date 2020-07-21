@@ -16,5 +16,8 @@ showFullContent = false
 Grande étape : mon blog construit avec [Hugo](https://gohugo.io/) est publié sur Netfily.
 
 Ainsi, il est accessible et visible par tous. Je suis passé d'un blog local à un blog public.
+Les sources sont déposées sur [Github](https://github.com/jeanmarc-blog/projet-de-blog),
 
-[ce billet sera complété prochainement]
+Le projet peut donc démarrer maintenant en *live*. Youpi !
+
+[complété prochainement]
