@@ -11,7 +11,7 @@ showFullContent = false
 +++
 {{< image src="/img/publication.jpg" alt="Un site publié" position="center" style="border-radius: 8px;" >}}
 
-# Publication sur Netfily
+# Publication sur Netlify
 
 Mon blog construit avec [Hugo](https://gohugo.io/) est publié sur Netlify. Ainsi, il est accessible et visible par tous. Je suis passé d'un blog local à un blog public.
 Les sources sont déposées sur [Github](https://github.com/jeanmarc-blog/projet-de-blog),
@@ -22,6 +22,7 @@ Le projet peut donc démarrer maintenant en *live*. Youpi ! La mise à jour ét�
 
 L'avantage d'un site en ligne est qu'il est lisible sur différents supports : ordinateur, tablette, smartphone et de juger de l'apparence sur ces différents supports.
 
+[Netlify](https://www.netlify.com/) est une plate-forme de développement. Il permet de *"déployer"* un site statique et de le rendre accessible. Sans exigence particulière de l'extension du nom du site, on peut le publier avec un nom XX.netlify.com. C'est ce que j'ai fait ici.
 
 
-[complété prochainement]
+[complété prochainement au fur et à mesure]
