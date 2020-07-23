@@ -4,7 +4,7 @@ date = "2020-07-20"
 author = "Jean-Marc"
 authorTwitter = "" #do not include @
 cover = ""
-tags = ["blog", "geek", "outil", "publication"]
+tags = ["blog", "geek", "outils", "publication"]
 keywords = ["blog", "site"]
 description = ""
 showFullContent = false
@@ -27,3 +27,4 @@ Celle-ci me permet de *"déployer"* mon site statique et de le rendre accessible
 
 
 [complété prochainement au fur et à mesure]
+
