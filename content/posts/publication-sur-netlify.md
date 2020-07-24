@@ -11,6 +11,9 @@ showFullContent = false
 +++
 {{< image src="/img/publication.jpg" alt="Un site publié" position="center" style="border-radius: 8px;" >}}
 
+> **Tout contenu mérite d'être publié.**   
+> *You don't write because you want to say something, you write because you have something to say.*   F. Scott Fitzgerald.
+
 # Publication sur Netlify
 
 Mon blog construit avec [Hugo](https://gohugo.io/) est publié sur Netlify. Ainsi, il est accessible et visible par tous. Je suis passé d'un blog local à un blog public.

@@ -6,6 +6,8 @@ draft: false
 ---
 {{< image src="/img/blog.jpg" alt="un blog" position="center" style="border-radius: 8px;" >}}
 
+> Un blog parmi tant d'autres. Un blog pas comme les autres. Pourquoi ? Parce qu'il est unique, parce que c'est le mien.
+
 ## Un blog, rien qu'un blog.
 
 Je considère pour l'instant ce blog "local" comme un carnet de notes, un journal[^1].
