@@ -7,12 +7,14 @@ draft: false
 
 {{< image src="/img/contact.jpg" alt="Contactez-moi" position="center" style="border-radius: 8px;" >}}
 
-> Le meilleur moyen de rester en lien n'est-il pas communiquer. Car la communication est le lien qui unit au-delà des mots et des frontières.
+> *Le meilleur moyen de rester en lien n'est-il pas communiquer? Car la communication est ce lien qui unit au-delà des mots et des frontières. Mais pour communiquer, il faut être au moins deux.*
 
 
 ## Comment être en lien ?
 
-Je n'ai pas encore installé de module de commentaires sur ce site. Est-ce que je le ferai ? Je ne sais pas, car qui commentera ? Sera-ce vraiment utile ? Mais il existe différents moyens d'être en lien. Des moyens plus personnels.
+Je n'ai pas encore installé de module de commentaires sur ce site. Je ne sais pas si je le ferai un jour. Aura-t-il une quelconque utilité ? 
+
+Mais il existe différents moyens plus personnels d'etre en lien, de rester en lien. N'est-ce pas cela qui compte au final ?
 
 ## Le courriel et les réseaux sociaux
 
@@ -24,7 +26,9 @@ Vous pouvez :
 
 ## Le contact direct
 
-Et peut-être que nos chemins, bien réels ceux-là, nous ferons nous rencontrer. Ou demander un rendez-vous par courriel ou message sur les réseaux sociaux.
+Et peut-être que nos chemins, bien réels ceux-là, nous feront nous rencontrer. 
+
+Et si l'envie nous prenait de se donner un rendez-vous par courriel ou message sur les réseaux sociaux, de partager un café ou un bout de chemin.
 
 ## Si vous voulez en savoir plus
 
@@ -35,3 +39,7 @@ Vous pouvez consulter les pages suivantes :
 + :: [Mon parcours jusqu'à maintenant](/mon-parcours)
 
 + :: [Ma petite boîte à outils qui montre comment j'en suis arrivé là](/posts/ma-petite-boite-a-outils)
+
+Et visiter mon autre blog :
+
++ :: [réformé & connecté](https://jeanmarcleresche.ch).

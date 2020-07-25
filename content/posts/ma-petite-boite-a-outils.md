@@ -2,10 +2,13 @@
 title = "Ma petite boîte à outils"
 date = "2020-06-26"
 author = "Jean-Marc"
-tags = ["blog", "outils", "code", "pratique"]
+description = "Petite présentation des outils que j'utilise pour bloguer. La liste n'est pas exhaustive et sujette à modifications. C'est un *Inventaire à la Prévert*."
+tags = ["BLOG", "OUTILS", "CODE", "PRATIQUE"]
 +++
 
 {{< image src="/img/outils.jpg" alt="Quelques outils pour commencer à bloguer" position="center" style="border-radius: 8px;" >}}
+
+> *De bons outils font de bons ouvriers.*
 
 À la mi-mars, Philippe Golaz a publié sur son blog [L’Eglise sur internet à l’heure du coronavirus](https://philippegolaz.ch/faire-eglise-sur-internet-a-lheure-du-coronavirus/). Il y présente réflexions personnelles, plate-formes, outils et matériels pour *être Église autrement*.
 

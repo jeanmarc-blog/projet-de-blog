@@ -6,28 +6,38 @@ draft: false
 ---
 {{< image src="/img/blog.jpg" alt="un blog" position="center" style="border-radius: 8px;" >}}
 
-> Un blog parmi tant d'autres. Un blog pas comme les autres. Pourquoi ? Parce qu'il est unique, parce que c'est le mien.
+> *Un blog parmi tant d'autres. Un blog pas comme les autres. Pourquoi ? Parce qu'il est unique, parce que c'est le mien.*
 
 ## Un blog, rien qu'un blog.
 
-Je considère pour l'instant ce blog "local" comme un carnet de notes, un journal[^1].
+Je considère pour l'instant ce blog "local" comme un carnet de notes, un journal[^1], mais aussi un [laboratoire grandeur nature](/about/#des-projets-avec-et-sans-lendemains).
 
-[^1]: C'est d'ailleurs le sens du mot [*blog*](https://www.journaldunet.fr/web-tech/dictionnaire-du-webmastering/1203251-blog-definition-et-acteurs/).
+[^1]: C'est d'ailleurs le sens du mot [*blog*](https://www.journaldunet.fr/web-tech/dictionnaire-du-webmastering/1203251-blog-definition-et-acteurs/). Mais de journal *intime* ou *personnel*, le blog est devenu un vrai média, un moyen de réseauté, de lier et relier d'autres blogs avec le sien, de devenir *influenceur*.
 
-Ainsi, bien que je sois engagé dans des lieux d'Église, je ne parlerai pas ni de religion ni d'église, parce que ça me fatigue et n'intéresse pas (ou plus) grand-monde, sinon pour se lancer dans des débats stériles.
+Ce blog aura un autre esprit. Il ne sera pas (ou très peu) en lien avec [réformé & connecté](https://jeanmarcleresche.ch). Je ne sais pas s'il trouvera son audience, s'il ne parlera qu'à quelques visiteurs occasionnels, s'il deviendra une référence, me fera gagner de l'argent, atteindre la gloire ou me conduira, un jour à le fermer. Comme je ne sais pas, je me lance. Je m'y risque.
+
+> *Ils croyaient que c'était impossible, alors ils l'ont fait*  
+Mark Twain.
 
 ## Pas de prise de tête.
 
-Je ne parlerai pas non plus de diaconat, personne ou presque ne sait ce que c'est et que mon autre blog traite du sujet.
+Bien que je sois engagé dans des lieux d'Église, 
 
-Je parlerai de ce qui m'anime : la vie, tout simplement. Avec ses hauts et ses bas. Sans prise de tête.
++ Je ne parlerai ni de religion ni d'église, ça ouvre à des débats sans fin et assez souvent stériles.
 
-{{< image src="/img/clavier.jpg" alt="communiquer ce qu'on veut" position="center" style="border-radius: 8px;" >}}
++ Je ne parlerai pas non plus de diaconat, personne ou presque ne sait ce que c'est et que mon autre blog traite du sujet.
+
++ Je parlerai de ce qui m'anime : la vie, tout simplement. Avec ses hauts et ses bas. Sans prise de tête [^2].
+
+[^2]: La non-prise de tête est une de mes motivations. Trouver et éprouver du plaisir à écrire, parce que j'aime ça.
+
 
 ## Un lieu d'apprentissage.
 
-Ce blog, c'est aussi un bon moyen de mieux comprendre le fonctionnement d'un [site statique](https://bearstech.com/societe/blog/dynamiqueless-ou-le-retour-du-statique/), de le développer, de le faire fonctionner et de l'adapter à mes besoins et envie.
+Ce blog, c'est aussi un bon moyen de mieux comprendre le fonctionnement d'un [site statique](https://bearstech.com/societe/blog/dynamiqueless-ou-le-retour-du-statique/), de le développer, de le faire fonctionner et de l'adapter à mes besoins et envies, d'être à l'écoute des avis des visiteurs, de recevoir encouragements et critiques[^3].
+
+[^3]: J'accepte volontiers les critiques si elles sont bienveillantes, respectueuses. Elles peuvent être sans complaisance, du moment qu'elles ne touchent qu'à ma manière de faire.
 
 Voilà, rien de moins, rien de plus.
 
-Peut-être deviendra-t-il, plus tard, à terme, un vrai blog en ligne, à l'image d'autres ? Peut-être qu'un jour, je sauterai le pas de passer d'un site dynamique à un site statique. Les arguments ne manquent pas. L'article de [François Charlet](https://francoischarlet.ch/2020/jai-quitte-wordpress-pour-hugo/) traite d'une telle migration.
+Peut-être qu'un jour, je sauterai le pas de passer d'un site dynamique à un site statique. Les arguments ne manquent pas. L'article de [François Charlet](https://francoischarlet.ch/2020/jai-quitte-wordpress-pour-hugo/) traite, parmi d'autres, d'une telle migration. Je n'en suis pas là. J'avance un jour à la fois, un pas après l'autre.
