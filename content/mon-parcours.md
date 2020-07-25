@@ -6,6 +6,8 @@ draft: false
 
 {{< image src="/img/hello.jpg" alt="Hello Friend" position="center" style="border-radius: 8px;" >}}
 
+> *Dis-moi d'où tu viens et je te dirai où tu peux aller.*
+
 Quelques repères pour mieux situer qui je suis et d'où je viens.
 
 + École supérieure de commerce de La Chaux-de-Fonds

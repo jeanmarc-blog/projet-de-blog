@@ -13,7 +13,7 @@ showFullContent = false
 
 {{< image src="/img/open.jpg" alt="Un projet ouvert sur le monde" position="center" style="border-radius: 8px;" >}}
 
-> *Si tu aider un blogueur, tu peux lui livrer un site clé en main ou lui enseigner les bonnes pratiques.*
+> *Si tu veux aider un blogueur, tu peux lui livrer un site clé en main ou lui enseigner les bonnes pratiques.*
 
 Mon projet de blog est un projet ouvert. Rien n'est caché, je ne veux rien cacher. Je le souhaite évolutif, non seulement par mes propres réflexions et découvertes, mais aussi par celles de mes *contributeurs*.
 

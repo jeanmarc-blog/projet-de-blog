@@ -5,6 +5,8 @@ draft: false
 ---
 {{< image src="/img/geek.jpg" alt="Un geek en devenir ça ressemble à ça" position="center" style="border-radius: 8px;" >}}
 
+> *Qui es-tu, toi qui me demande qui je suis ?*
+
 ## Un geek en devenir
 Je suis Jean-Marc Leresche, un *geek* en devenir qui s'intéresse à plein de choses en lien avec l'internet, les réseaux sociaux, les blogs et nouvellement avec les [sites statiques](/perspectives/). L'informatique et l'internet m'intéressent. Je me suis longtemps tourné vers la bureautique, les suites Microsoft Office, LibreOffice, précédemement il y a eu [MS-Works](https://fr.wikipedia.org/wiki/Microsoft_Works). Aujourd'hui, je tente et je teste le blog au moyen d'un site statique. J'ai déjà une expérience [Wordpress](https:jeanmarcleresche.ch).
 

@@ -8,6 +8,8 @@ draft : false
 ---
 {{< image src="/img/ordinateur.jpg" alt="Un ordinateur pour bloguer" position="center" style="border-radius: 8px;" >}}
 
+> *Deux intellectuels assis iront moins loin qu'un con qui marche.*
+> Michel Audiard
 
 ## Un blog statique
 
