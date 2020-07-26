@@ -60,4 +60,8 @@ paginate = 3
         name = "perspectives"
         url = "/perspectives"
 
+      [[languages.en.menu.main]]
+        identifier = "sources"
+        name = "sources"
+        url = "/sources"  
 
