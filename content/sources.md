@@ -21,10 +21,15 @@ La liste évolue au fil du temps.
 + Letitia Protella : https://leportella.com/
 + Lionel Dricot : http://ploum.net/
 + Justin Jackson : https://justinjackson.ca/
++ Antoine Fauchié : https://www.quaternum.net/
 
 Pour les images d'illustration :
 
 + https://pixabay.com/fr/
+
+Pour les sources de ce blog : 
+
++ [Github](https://github.com/jeanmarc-blog/projet-de-blog)
 
 ## L'importance d'avoir des soutiens (techniques, humains, moraux)
 
