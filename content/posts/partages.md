@@ -26,6 +26,8 @@ Certains esprits peu scrupuleux n'hésitent pas à *plagier* abondamment toutes 
 
 On pourrait alors décider de renoncer à publier de peur de voir ses propos échapper à tout contrôle. Mais ce serait priver des visiteurs de contenus qui pourraient les intéresser.
 
+Il s'agit d'apprendre à perdre le contrôle sur ce qu'on publie. L'article de [ploum.net](https://ploum.net/comment-jai-appris-a-ne-plus-men-faire-et-a-aimer-le-web/) le dit fort bien. 
+
 ## Favoriser le partage plutôt que le limiter
 
 Une autre option consiste à préférer le partage. La focale est différente : plutôt que de vouloir maîtriser, un tant soi peu, l'utilisation de ses publications, on peut préférer les offrir aux partages, sans pour autant renoncer à la paternité des propos.
@@ -45,6 +47,11 @@ Une explication brève et pertinente est disponible chez [Philippe Golaz](https:
 Comme je l'ai déjà mentionné dans [ma petite réflexion](/posts/ma-petite-reflexion), mon projet de blog est ouvert. D'ailleurs, je viens d'ajouter en bas de mes pages la mention "Contenu sous licence CC-BY", qui permet le partage en toute légalité, imposant seulement la mention de mon blog/la page/l'article source. Je fais de même avec d'autres blogs ou sources que je mentionne dans mes propres articles.
 
 Je le fais pas dans le sens de renoncer à tout contrôle de ce que j'écris, mais plutôt dans l'espoir que ce que j'écris puisse intéresser d'autres blogueurs au point qu'ils reprennent mes contenus, le commentent, le partagent, voire le critiquent.
+
+J'ai aussi fait mienne la conclusion de Ploum (dans l'article cité plus haut) :
+
+> *Si vous aimez quelque chose, copiez-le, modifiez-le, partagez-le. Un texte ne vit que lorsqu’il est lu. Toute création a besoin d’un public. Créer, c’est perdre le contrôle.*
+
 
 Et pour les choses que je ne souhaite pas partager, je ne les publie pas, tout simplement. 😉
 
