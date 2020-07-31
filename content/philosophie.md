@@ -10,11 +10,11 @@ draft: false
 
 ## Un blog, rien qu'un blog.
 
-Je considère pour l'instant ce blog "local" comme un carnet de notes, un journal[^1], mais aussi un [laboratoire grandeur nature](/about/#des-projets-avec-et-sans-lendemains).
+Je considère pour l'instant ce blog comme un carnet de notes, un journal[^1], mais aussi un [laboratoire grandeur nature](/about/#des-projets-avec-et-sans-lendemains).
 
 [^1]: C'est d'ailleurs le sens du mot [*blog*](https://www.journaldunet.fr/web-tech/dictionnaire-du-webmastering/1203251-blog-definition-et-acteurs/). Mais de journal *intime* ou *personnel*, le blog est devenu un vrai média, un moyen de réseauté, de lier et relier d'autres blogs avec le sien, de devenir *influenceur*.
 
-Ce blog aura un autre esprit. Il ne sera pas (ou très peu) en lien avec [réformé & connecté](https://jeanmarcleresche.ch). Je ne sais pas s'il trouvera son audience, s'il ne parlera qu'à quelques visiteurs occasionnels, s'il deviendra une référence, me fera gagner de l'argent, atteindre la gloire ou me conduira, un jour à le fermer. Comme je ne sais pas, je me lance. Je m'y risque.
+Ce blog aura un autre esprit que mon autre blog Il ne sera pas (ou très peu) en lien avec [réformé & connecté](https://jeanmarcleresche.ch). Je ne sais pas s'il trouvera son audience, s'il ne parlera qu'à quelques visiteurs occasionnels, s'il deviendra une référence, me fera gagner de l'argent, atteindre la gloire ou me conduira, un jour à le fermer. Comme je ne sais pas, je me lance. Je m'y risque.
 
 > *Ils croyaient que c'était impossible, alors ils l'ont fait*  
 Mark Twain.
@@ -25,11 +25,11 @@ Bien que je sois engagé dans des lieux d'Église,
 
 + Je ne parlerai ni de religion ni d'église, ça ouvre à des débats sans fin et assez souvent stériles.
 
-+ Je ne parlerai pas non plus de diaconat, personne ou presque ne sait ce que c'est et que mon autre blog traite du sujet.
++ Je ne parlerai pas non plus de diaconat, personne ou presque ne sait ce que c'est et que mon autre blog traite du sujet. Visitez [réformé & connecté](https://jeanmarcleresche.ch)
 
-+ Je parlerai de ce qui m'anime : la vie, tout simplement. Avec ses hauts et ses bas. Sans prise de tête [^2].
++ Je parlerai de ce qui m'anime et m'intéresse actuellement : quelques réflexions personnelles autour du phénomène du *blog*, à partir de lectures et autres recherches. Le tout sans prise de tête [^2].
 
-[^2]: La non-prise de tête est une de mes motivations. Trouver et éprouver du plaisir à écrire, parce que j'aime ça.
+[^2]: La non-prise de tête est une de mes motivations. Il ne s'agit pas pour moi de faire le tour de la question ni de l'épuiser, mais de lancer des impulsions. Avec cette autre motivation : trouver et éprouver du plaisir à écrire, parce que j'aime ça.
 
 
 ## Un lieu d'apprentissage.

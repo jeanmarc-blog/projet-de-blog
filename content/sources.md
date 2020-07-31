@@ -16,6 +16,7 @@ La liste évolue au fil du temps.
 
 + Nicolas Friedli : https://nicolasfriedli.ch/
 + Philippe Golaz : https://philippegolaz.ch/
++ Olivier Keshavjee : https://www.theologeek.ch/
 + François Charlet : https://francoischarlet.ch/
 + Stéphane Briot : https://whyislife.fr/stephane-briot/ 
 + Letitia Protella : https://leportella.com/
@@ -31,6 +32,10 @@ Pour les sources de ce blog :
 
 + [Github](https://github.com/jeanmarc-blog/projet-de-blog)
 
+Pour le partage du contenu :
+
++ Ce blog est placé sous la [creative commons licence CC-BY](https://creativecommons.org/licenses/by/3.0/ch/deed.fr) 
+
 ## L'importance d'avoir des soutiens (techniques, humains, moraux)
 
 Je remercie aussi ceux qui m'ont initié, encouragé et aidé dans ce projet, parfois à leur insu :
@@ -38,6 +43,7 @@ Je remercie aussi ceux qui m'ont initié, encouragé et aidé dans ce projet, pa
 + Nicolas
 + Yannick
 + Philippe
++ Olivier
 + Vincent
 + François
 + Elio
