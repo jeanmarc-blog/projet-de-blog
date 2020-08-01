@@ -3,14 +3,13 @@ title = "Hello Le Monde"
 date = "2020-07-25T15:10:31+02:00"
 author = "Jean-Marc"
 authorTwitter = "" #do not include @
-cover = ""
+cover = "img/hello.jpg"
 tags = ["BLOG", "RESEAU", "EXPRESSION"]
 keywords = ["", ""]
 description = "Le blog est un moyen d'expression avec la conviction que ce que l'auteur y écrit a du poids."
 showFullContent = false
 +++
 
-{{< image src="/img/hello.jpg" alt="Hello Friend" position="center" style="border-radius: 8px;" >}}
 
 > *Tu as des choses à dire ? Dis-les. Tu ne peux pas ? Ecris-les !*
 

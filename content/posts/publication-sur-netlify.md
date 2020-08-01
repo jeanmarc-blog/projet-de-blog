@@ -3,13 +3,12 @@ title = "Publication sur Netlify"
 date = "2020-07-20"
 author = "Jean-Marc"
 authorTwitter = "" #do not include @
-cover = ""
+cover = "img/publication.jpg"
 tags = ["BLOG", "GEEK", "OUTILS"]
 keywords = ["blog", "site"]
 description = "Etape-clé : la mise en ligne de mon blog. Il devient une réalité visible, concrète. On ne me croit plus sur parole, on me croit sur site."
 showFullContent = false
 +++
-{{< image src="/img/publication.jpg" alt="Un site publié" position="center" style="border-radius: 8px;" >}}
 
 > *Tout contenu mérite d'être publié.*  
 > *You don't write because you want to say something, you write because you have something to say.*   F. Scott Fitzgerald.

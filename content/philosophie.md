@@ -14,7 +14,7 @@ Je considère pour l'instant ce blog comme un carnet de notes, un journal[^1], m
 
 [^1]: C'est d'ailleurs le sens du mot [*blog*](https://www.journaldunet.fr/web-tech/dictionnaire-du-webmastering/1203251-blog-definition-et-acteurs/). Mais de journal *intime* ou *personnel*, le blog est devenu un vrai média, un moyen de réseauté, de lier et relier d'autres blogs avec le sien, de devenir *influenceur*.
 
-Ce blog aura un autre esprit que mon autre blog Il ne sera pas (ou très peu) en lien avec [réformé & connecté](https://jeanmarcleresche.ch). Je ne sais pas s'il trouvera son audience, s'il ne parlera qu'à quelques visiteurs occasionnels, s'il deviendra une référence, me fera gagner de l'argent, atteindre la gloire ou me conduira, un jour à le fermer. Comme je ne sais pas, je me lance. Je m'y risque.
+Ce blog aura un autre esprit que mon autre blog : il ne sera pas (ou très peu) en lien avec [réformé & connecté](https://jeanmarcleresche.ch). Je ne sais pas s'il trouvera son audience, s'il ne parlera qu'à quelques visiteurs occasionnels, s'il deviendra une référence, me fera gagner de l'argent, atteindre la gloire ou me conduira, un jour à le fermer. Comme je ne sais pas, je me lance. Je m'y risque.
 
 > *Ils croyaient que c'était impossible, alors ils l'ont fait*  
 Mark Twain.

@@ -3,15 +3,13 @@ title = "Ma petite (et première) réflexion"
 date = "2020-07-01"
 author = "Jean-Marc"
 authorTwitter = "" #do not include @
-cover = ""
+cover = "img/open.jpg"
 tags = ["BLOG", "IDEES"]
 keywords = ["", ""]
 description = "Lancer son blog, c'est se mettre d'une certaine manière en vitrine, c'est s'attirer le regard des visiteurs pour le meilleur et peut-être aussi pour le pire."
 showFullContent = false
 +++
 ## Un projet ouvert
-
-{{< image src="/img/open.jpg" alt="Un projet ouvert sur le monde" position="center" style="border-radius: 8px;" >}}
 
 > *Si tu veux aider un blogueur, tu peux lui livrer un site clé en main ou lui enseigner les bonnes pratiques.*
 

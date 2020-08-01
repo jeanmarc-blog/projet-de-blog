@@ -3,14 +3,13 @@ title = "Premiers pas avec github"
 date = "2020-07-04"
 author = "Jean-Marc"
 authorTwitter = "" #do not include @
-cover = ""
+cover = "img/pas.jpg"
 tags = ["BLOG", "OUTILS", "GEEK"]
 keywords = ["", ""]
 description = "Passer du projet d'un *petit* blog élaboré et développé en local vers un blog en ligne, visible et accessible de tous."
 showFullContent = false
 +++
 
-{{< image src="/img/pas.jpg" alt="seuls les premiers pas comptent" position="center" style="border-radius: 8px;" >}}
 
 > *L'erreur est humaine. On a tout à apprendre de ses erreurs. Si elles ne nous font pas grandir, elles nous rendent plus intellignents. Enfin, je peux me tromper.*
 

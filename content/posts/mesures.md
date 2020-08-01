@@ -3,16 +3,12 @@ title = "Mesures"
 date = "2020-07-28T11:11:27+02:00"
 author = "Jean-Marc"
 authorTwitter = "" #do not include @
-cover = ""
+cover = "img/performances.jpg"
 tags = ["BLOG", "OUTILS"]
 keywords = ["", ""]
 description = "Mesurer les performances d'un site internet ne dit pas tout, évidemment, mais cela donne une idée de son fonctionnement."
 showFullContent = false
 +++
-
-{{< image src="/img/performances.jpg" alt="Résultat de mesure" position="center" style="border-radius: 8px;" >}}
-
-
 
 ## Les sites statiques répondent plus vite
 

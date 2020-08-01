@@ -3,14 +3,12 @@ title = "Stratégies de partage"
 date = "2020-07-30T09:45:13+02:00"
 author = "Jean-Marc"
 authorTwitter = "" #do not include @
-cover = ""
+cover = "img/emetteur.jpg"
 tags = ["BLOG", "PARTAGE", "DIFFUSION"]
 keywords = ["", ""]
 description = "Publier un contenu sur internet, c'est accepter d'en perdre le contrôle. Est-ce une raison pour renoncer à tout cadre de diffusion ? Heureusement, il existe les creative commons licences."
 showFullContent = false
 +++
-
-{{< image src="/img/emetteur.jpg" alt="Une tour de diffusion" position="center" style="border-radius: 8px;" >}}
 
 > *Si tu me voles ma montre, il m'en reste 0 et tu en as 1.*  
 > *Si tu me copies ma montre, il m'en reste 1 et tu en as 1.*  
