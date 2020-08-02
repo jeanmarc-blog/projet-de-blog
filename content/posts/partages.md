@@ -3,7 +3,7 @@ title = "Stratégies de partage"
 date = "2020-07-30T09:45:13+02:00"
 author = "Jean-Marc"
 authorTwitter = "" #do not include @
-cover = "img/emetteur.jpg"
+cover = ""
 tags = ["BLOG", "PARTAGE", "DIFFUSION"]
 keywords = ["", ""]
 description = "Publier un contenu sur internet, c'est accepter d'en perdre le contrôle. Est-ce une raison pour renoncer à tout cadre de diffusion ? Heureusement, il existe les creative commons licences."
@@ -30,7 +30,7 @@ Il s'agit d'apprendre à perdre le contrôle sur ce qu'on publie. L'article de [
 
 Une autre option consiste à préférer le partage. La focale est différente : plutôt que de vouloir maîtriser, un tant soi peu, l'utilisation de ses publications, on peut préférer les offrir aux partages, sans pour autant renoncer à la paternité des propos.
 
-C'est ce que proposent les [Creative Common Licences](https://creativecommons.org/licenses/?lang=fr). Ces *contrats*, tout en permettant le partage, imposent de citer la source par un lien vers le contenu d'orgine. Ainsi, l'auteur est relayé par d'autres et son contenu est commenté, critiqué, partagé à plus large échelle, ce qui influence aussi les résultats des moteurs de recherche.
+C'est ce que proposent les [Creative Commons Licences](https://creativecommons.org/licenses/?lang=fr). Ces *contrats*, tout en permettant le partage, imposent de citer la source par un lien vers le contenu d'orgine. Ainsi, l'auteur est relayé par d'autres et son contenu est commenté, critiqué, partagé à plus large échelle, ce qui influence aussi les résultats des moteurs de recherche.
 
 Pour ce qui est de l'aspect juridique, et plus spécialement suisse, je vous renvoie à [l'article de François Charlet](https://francoischarlet.ch/2011/les-creative-commons-et-le-droit-suisse/)[^1].
 

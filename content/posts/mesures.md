@@ -3,7 +3,7 @@ title = "Mesures"
 date = "2020-07-28T11:11:27+02:00"
 author = "Jean-Marc"
 authorTwitter = "" #do not include @
-cover = "img/performances.jpg"
+cover = ""
 tags = ["BLOG", "OUTILS"]
 keywords = ["", ""]
 description = "Mesurer les performances d'un site internet ne dit pas tout, évidemment, mais cela donne une idée de son fonctionnement."
@@ -19,6 +19,8 @@ On peut légitimement se demander si ça a une importance quelconque pour l'inte
 Mais, j'ai eu envie de tenter le test des mesures.
 
 C'est ce que j'ai fait en utilisant [web.dev measure](https://web.dev/measure/). En faisant passer un audit à ce blog, il atteint plus de 90% aux tests.
+
+{{< image src="/img/performances.jpg" alt="résultats de mesures" position="center" style="border-radius: 8px;" >}}
 
 ## La raison est simple
 

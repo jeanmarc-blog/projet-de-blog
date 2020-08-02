@@ -3,7 +3,7 @@ title = "Hello Le Monde"
 date = "2020-07-25T15:10:31+02:00"
 author = "Jean-Marc"
 authorTwitter = "" #do not include @
-cover = "img/hello.jpg"
+cover = ""
 tags = ["BLOG", "RESEAU", "EXPRESSION"]
 keywords = ["", ""]
 description = "Le blog est un moyen d'expression avec la conviction que ce que l'auteur y écrit a du poids."
@@ -14,6 +14,8 @@ showFullContent = false
 > *Tu as des choses à dire ? Dis-les. Tu ne peux pas ? Ecris-les !*
 
 Hi, my name is **Hello**. **Hello Le Monde**, en trois mots. C'est mon nom de blogueur, car je suis un blogueur. 
+
+{{< image src="/img/hello.jpg" alt="Hello Friend" position="center" style="border-radius: 8px;" >}}
 
 Avez-vous remarqué ? Je n'ai pas de bouche. Mais ce n'est pas une raison pour ne rien dire, pour ne pas m'exprimer.
 

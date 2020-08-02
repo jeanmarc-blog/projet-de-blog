@@ -2,7 +2,7 @@
 title = "Ma petite boîte à outils"
 date = "2020-06-26"
 author = "Jean-Marc"
-cover = "img/outils.jpg"
+cover = ""
 description = "Petite présentation des outils que j'utilise pour bloguer. La liste n'est pas exhaustive et sujette à modifications. C'est un *Inventaire à la Prévert*."
 tags = ["BLOG", "OUTILS", "CODE", "PRATIQUE"]
 +++
