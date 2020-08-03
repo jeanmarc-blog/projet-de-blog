@@ -56,6 +56,6 @@ Et pour les choses que je ne souhaite pas partager, je ne les publie pas, tout s
 
 ## Et les réseaux sociaux dans tout cela ?
 
-En effet, pourquoi n'ai-je pas parlé du principal média de partage que sont les réseaux sociaux, Facebook en tête ?
+En effet, pourquoi n'ai-je pas parlé du principal média de partage que sont les réseaux sociaux, [Facebook en tête](/posts/facebook) ?
 
 Ce sera l'objet de mon prochain article et je donnerai à nouveau la parole à [**Hello**](/posts/hello-le-monde).

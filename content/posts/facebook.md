@@ -15,7 +15,7 @@ showFullContent = false
 
 ## Un réseau, vraiment ?
 
-Hello ne croit plus en Facebook. Pourtant, il croit encore au [partage de ses écrits](/posts/partages). Il s'est inscrit, espérant nouer et renouer avec des connaissances, retrouver des amis, en apprendre un peu plus sur ce qu'ils sont devenus…
+[**Hello**](/posts/hello-le-monde/#hello-un-avatar-bien-sûr) ne croit plus en Facebook. Pourtant, il croit encore au [partage de ses écrits](/posts/partages). Il s'est inscrit, espérant nouer et renouer avec des connaissances, retrouver des amis, en apprendre un peu plus sur ce qu'ils sont devenus…
 
 Hello avait (encore) quelques illusions.
 
