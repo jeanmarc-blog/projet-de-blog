@@ -23,6 +23,7 @@ La liste évolue au fil du temps.
 + Lionel Dricot : http://ploum.net/
 + Justin Jackson : https://justinjackson.ca/
 + Antoine Fauchié : https://www.quaternum.net/
++ Edmar Fereira : https://edmarferreira.com/
 
 Pour les images d'illustration :
 

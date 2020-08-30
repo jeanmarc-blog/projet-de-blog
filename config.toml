@@ -65,3 +65,4 @@ paginate = 3
         name = "sources"
         url = "/sources"  
 
+disqusShortname = "https-carnetdeblog-netlify-app"
