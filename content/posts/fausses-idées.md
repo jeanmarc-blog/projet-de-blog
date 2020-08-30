@@ -15,7 +15,7 @@ showFullContent = false
 
 En lisant le blog de [Letitia Portella](https://leportella.com/), je me suis arrêté sur un article où elle explique son cheminement : [pourquoi vous devriez avoir un blog et y écrire](https://leportella.com/why-have-a-blog.html). 
 
-Elle y décrit aussi **4 fausses "bonnes" raisons de ne pas se lancer**. Je les reprends aussi, parce que elles ont été les miennes à un moment donné. Mais, [j'en ai trouvé d'autres qui m'ont motivé à me lancer](posts/lancer-un-blog/#quelques-motivations-pour-se-lancer).
+Elle y décrit aussi **4 fausses "bonnes" raisons de ne pas se lancer**. Je les reprends aussi, parce que elles ont été les miennes à un moment donné. Mais, [j'en ai trouvé d'autres qui m'ont motivé à me lancer](/posts/lancer-un-blog/#quelques-motivations-pour-se-lancer).
 
 **Attention** : ce qui suit n'est pas la traduction des propos de Letitia Portella, mais ma manière de les comprendre.
 
@@ -33,7 +33,7 @@ Peut-être que ce que vous écrivez ou écrirez a déjà été dit d'une autre m
 
 Aucun problème ! Bien au contraire… C'est ainsi qu'on progresse. 
 
-Ce que vous écrivez ou écrirez pourra être complété, corrigé, supprimé sans aucun problème. Ce que vous publiez ou publierez suscitera peut-être, voire certainement, des réactions, des commentaires, des compléments qui donneront encore plus de pertinences aux billets. Vos propos seront peut-être repris par d'autres sur leur propre blog comme bases d'autres articles et là, va se créer le sens même des blogs : [**le réseautage**](posts/partages/#favoriser-le-partage-plut%C3%B4t-que-le-limiter).
+Ce que vous écrivez ou écrirez pourra être complété, corrigé, supprimé sans aucun problème. Ce que vous publiez ou publierez suscitera peut-être, voire certainement, des réactions, des commentaires, des compléments qui donneront encore plus de pertinences aux billets. Vos propos seront peut-être repris par d'autres sur leur propre blog comme bases d'autres articles et là, va se créer le sens même des blogs : [**le réseautage**](/posts/partages/#favoriser-le-partage-plut%C3%B4t-que-le-limiter).
 
 En ce sens, je ne peux que recommander la lecture de [cet article sur l'écriture itérative de Thierry Crouzet](https://tcrouzet.com/2020/04/21/lecriture-iterative/).
 
