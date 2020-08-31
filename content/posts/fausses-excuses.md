@@ -1,25 +1,28 @@
 +++
-title = "Fausses bonnes idées"
+title = "Fausses bonnes excuses"
 date = "2020-08-30T18:26:53+02:00"
 author = "Jean-Marc"
 authorTwitter = "" #do not include @
 cover = "img/start.jpg"
 tags = ["BLOG", "EXPRESSION", "MOTIVATION", "PRATIQUE"]
 keywords = ["", ""]
-description = "On trouve de bonnes raisons pour ne pas sauter le pas. Alors, tentons de les démonter. Ensuite, chacun choisira…"
+description = "On trouve de bonnes excuses pour ne pas sauter le pas. Alors, tentons de les démonter. Ensuite, chacun choisira s'il les garde ou non pour se lancer… Ou pas !"
 showFullContent = false
 +++
 
+*Mise à jour le 31 août 2020*
 
 ## Trouver la bonne excuse
 
-En lisant le blog de [Letitia Portella](https://leportella.com/), je me suis arrêté sur un article où elle explique son cheminement : [pourquoi vous devriez avoir un blog et y écrire](https://leportella.com/why-have-a-blog.html). 
+En lisant le blog de [Letitia Portella](https://leportella.com/), je me suis arrêté sur un article où elle explique son cheminement et les motivations à lancer son blog : [pourquoi vous devriez avoir un blog et y écrire](https://leportella.com/why-have-a-blog.html). 
 
-Elle y décrit aussi **4 fausses "bonnes" raisons de ne pas se lancer**. Je les reprends aussi, parce que elles ont été les miennes à un moment donné. Mais, [j'en ai trouvé d'autres qui m'ont motivé à me lancer](/posts/lancer-un-blog/#quelques-motivations-pour-se-lancer).
+Elle y décrit aussi **4 fausses "bonnes" excuses de ne pas se lancer**. Je les reprends aussi, parce que elles ont été les miennes à un moment donné. Mais, [j'en ai trouvé d'autres qui m'ont motivé à me lancer](/posts/lancer-un-blog/#quelques-motivations-pour-se-lancer)[^1]. Et surtout, j'ai pris l'habitude de partager mon ras-le-bol avec d'autres blogueurs-amis qui ont su trouvé les mots pour me motiver à nouveau.
+
+[^1]: Ces raisons m'ont parfois convaincu de ne plus bloguer. Relèvent-elles du complexe ? Elles n'ont en tout cas pas eu le dernier mot. Heureusement… pour vous.
 
 **Attention** : ce qui suit n'est pas la traduction des propos de Letitia Portella, mais ma manière de les comprendre.
 
-### Je ne suis pas un.e expert.e
+### Je ne suis pas un·e expert·e
 
 Un blog personnel n'est pas un site universitaire ni une encyclopédie. Le but d'un blog est justement d'être un espace d'expression **personnel** bien à vous et rien qu'à vous. 
 
@@ -31,11 +34,13 @@ Peut-être que ce que vous écrivez ou écrirez a déjà été dit d'une autre m
 
 ### Et si je fais des erreurs ou dis des âneries ?
 
-Aucun problème ! Bien au contraire… C'est ainsi qu'on progresse. 
+Aucun problème ! Bien au contraire… C'est ainsi qu'on progresse. La vie est faites d'erreurs. Le tout est d'en faire quelque chose, de comprendre, de progresser, de changer.
 
 Ce que vous écrivez ou écrirez pourra être complété, corrigé, supprimé sans aucun problème. Ce que vous publiez ou publierez suscitera peut-être, voire certainement, des réactions, des commentaires, des compléments qui donneront encore plus de pertinences aux billets. Vos propos seront peut-être repris par d'autres sur leur propre blog comme bases d'autres articles et là, va se créer le sens même des blogs : [**le réseautage**](/posts/partages/#favoriser-le-partage-plut%C3%B4t-que-le-limiter).
 
 En ce sens, je ne peux que recommander la lecture de [cet article sur l'écriture itérative de Thierry Crouzet](https://tcrouzet.com/2020/04/21/lecriture-iterative/).
+
+À votre tour, en lisant d'autres blogs, trouverez-vous matière à publier, des articles que vous aimeriez commenter ou critiquer. N'oubliez pas de citer vos sources par le lien vers le texte d'origine.
 
 ### Je n'ai rien à écrire à propos…
 

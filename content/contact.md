@@ -9,10 +9,11 @@ draft: false
 
 > *Le meilleur moyen de rester en lien n'est-il pas communiquer? Car la communication est ce lien qui unit au-delà des mots et des frontières. Mais pour communiquer, il faut être au moins deux.*
 
+*Mise à jour le 31 août 2020.*
 
 ## Comment être en lien ?
 
-Je n'ai pas encore installé de module de commentaires sur ce site. Je ne sais pas si je le ferai un jour. Aura-t-il une quelconque utilité ? 
+J'ai installé le module de commentaires *[Disqus](/posts/commentaires)* sur ce site. Aura-t-il une quelconque utilité ? Je ne sais pas et le laisse un certain temps pour vérifier.
 
 Mais il existe différents moyens plus personnels d'etre en lien, de rester en lien. N'est-ce pas cela qui compte au final ?
 

@@ -24,6 +24,7 @@ La liste évolue au fil du temps.
 + Justin Jackson : https://justinjackson.ca/
 + Antoine Fauchié : https://www.quaternum.net/
 + Edmar Fereira : https://edmarferreira.com/
++ Camille Roux : https://www.camilleroux.com/
 
 Pour les images d'illustration :
 
