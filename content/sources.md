@@ -20,7 +20,8 @@ La liste évolue au fil du temps.
 + François Charlet : https://francoischarlet.ch/
 + Stéphane Briot : https://whyislife.fr/stephane-briot/ 
 + Letitia Protella : https://leportella.com/
-+ Lionel Dricot : http://ploum.net/
++ Lionel Dricot : https://ploum.net/
++ Thierry Crouzet : https://tcrouzet.com/
 + Justin Jackson : https://justinjackson.ca/
 + Antoine Fauchié : https://www.quaternum.net/
 + Edmar Fereira : https://edmarferreira.com/
