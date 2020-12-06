@@ -31,3 +31,27 @@ Le temps s'y prête. Il fait gris. Il fait moche. Il fait froid. Alors, on reste
 {{< image src="/img/biscuits.jpg" alt="Les biscuits cuisent au four" position="center" style="border-radius: 8px;" >}}
 
 Ces friandises seront destinées aux personnes à qui nous rendrons visite dans le temps de l'Avent. Toujours pour la paroisse dans laquelle je travaille.
+
+## Une newsletter qui fait son (petit) effet
+
+Voilà une année que j'ai lancé une newletter dans la paroisse où je travaille. D'abord imaginée pour élargir les "annonces" de nos activités à un cercle plus large que nos habitués, je lui ai donné un nouvel élan pour palier l'absence de rencontres.
+
+Visitez le site de [getrevue.co](https://www.getrevue.co/profile/jleresche)
+
+![Une newsletter hebdomadaire](https://cdn.pixabay.com/photo/2015/10/05/18/10/newspaper-973048__340.jpg)
+
+Depuis ce mois de novembre, je publie un numéro chaque vendredi, cherchant une thématique qui est développée par différents liens vers d'autres sites ou blogs. Il y a une quarantaine de destinataires. Peu de retours sous forme de commentaires, mais les statistiques montrent que régulièrement les deux tiers ouvrent la newsletter et cliquent sur des liens.
+
+J'aime bien cet exercice qui allie écriture, "revue de presse en ligne" et apports spirituels, puisque c'est une newsletter d'une paroisse, il me paraît indispensable de dépasser la seule information de tout ce qui est annulé en ce temps de pandémie.
+
+## 9 cartes à mettre dans le bon ordre
+
+Ma femme a ramené du troc un jeu : *Schildkröten-Spiel* ou *Jeu de la Tortue*. C'est simple : il y a neuf cartes avec les mêmes motifs répétés. Il s'agit de composer un carré de 3x3 avec les tortues parfaitement reconstituées. C'est simple… En apparence.
+
+{{< image src="/img/tortue1.jpg" alt="Le Jeu de la Tortue" position="center" style="border-radius: 8px;" >}}
+
+On a passé une bonne partie de l'après-midi et de la soirée à tenter de mettre ces cartes dans le bon ordre. Finalement, et de guerre lasse, on a "un peu" triché en cherchant sur internet. Ça y est.
+
+{{< image src="/img/tortue2.jpg" alt="Le Jeu est réussi" position="center" style="border-radius: 8px;" >}}
+
+Décidément, on trouve tout sur internet!
