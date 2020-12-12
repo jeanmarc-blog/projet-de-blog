@@ -55,3 +55,15 @@ On a passé une bonne partie de l'après-midi et de la soirée à tenter de mett
 {{< image src="/img/tortue2.jpg" alt="Le Jeu est réussi" position="center" style="border-radius: 8px;" >}}
 
 Décidément, on trouve tout sur internet!
+
+## Communiquer en temps de crise
+
+Mes divers engagements professionnels m'ont conduit à m'initier à la communication en temps de crise. Covid oblige, j'ai dû renseigner collaborateurs bénévoles, collègues, partenaires et bénéficiaires de mesures particulières, notamment de fermeture de lieux et d'annulation d'événements.
+
+Les mesures édictées par la Confédération et le Canton imposaient de devoir réagir, rassurer, informer, planifier, recommencer…
+
+Je crois avoir réussi l'exercice, sans fausse modestie. J'ai adopté un langage clair, j'ai gardé contact, j'ai demandé des avis, ai été rassuré d'être compris et soutenu.
+
+Même si tout n'est pas fini, et loin de là, je me sens assez bien dans cet exercice, parfois de haut vol. De là à devenir porte-parole d'un hôpital saturé ou d'un gouvernement… Il n'y a qu'un pas que je me refuse à faire.
+
+![Une crise…](https://cdn.pixabay.com/photo/2020/05/30/09/53/crisis-5238323__340.jpg)
