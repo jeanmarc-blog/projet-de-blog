@@ -67,3 +67,29 @@ Je crois avoir réussi l'exercice, sans fausse modestie. J'ai adopté un langage
 Même si tout n'est pas fini, et loin de là, je me sens assez bien dans cet exercice, parfois de haut vol. De là à devenir porte-parole d'un hôpital saturé ou d'un gouvernement… Il n'y a qu'un pas que je me refuse à faire.
 
 ![Une crise…](https://cdn.pixabay.com/photo/2020/05/30/09/53/crisis-5238323__340.jpg)
+
+## Stop ou encore…
+
+L'ami Nicolas publie un billet intitulé [Fin ou début en théologie et sur le web](https://theologique.ch/fin-ou-debut-theologie-web/). Il pose la question, notamment du statut d'une prédication publiée sur son blog : est-ce la fin d'un travail de rédaction ou le début de la vie de ce contenu sur le web et dans les moteurs de recherche ?
+
+À la lecture de ce billet, je me suis fendu d'un commentaire que je reproduis ici :
+
+> Cher Nicolas,
+En lisant ton billet, j’ai retrouvé bon nombre de mes réflexions et aussi cette question : faut-il tout arrêter, tout recommencer, reprendre là-même où je l’ai laissé ?
+Début ou fin ? Et si une fin était le début de quelque chose de nouveau ?
+Je m’interroge aussi pour la suite de [mon blog](https://jeanmarcleresche.ch) : et, si tout simplement, je continuais ? Sans trop me soucier… J’avais écrit un dernier billet, pensant signer mon chant du cygne.
+Et s’il c’était un faux adieu ? Pour mieux continuer ?
+Merci de ta franchise partagée.
+Amitiés,
+Courage et confiance.
+Jean-Marc
+
+Et j'ai mis en ligne un nouveau billet : [des textes liturgiques et une prédication d'un culte](https://jeanmarcleresche.ch/qui-es-tu/) que j'ai célébré.
+
+J'ai tout simplement ajouter ce billet à la suite des autres. Après un [Dernier billet](https://jeanmarcleresche.ch/dernier-billet/) qui n'en est plus vraiment un, du coup !
+
+Tout arrêter n'est jamais bon. Se fatiguer à vouloir trop en faire ne l'est pas davantage. Savoir raison garder… Écrire quand j'en ai envie et sur ce que j'ai envie. Ne pas trop espérer de retours. Tant mieux s'il y en a. Normal, s'il n'y en a pas. Se dire que ce que j'écris est là, à la disposition de qui veut bien s'y intéresser.
+
+À lire ou à relire [Mes réflexions autour d'un nouveau départ](/posts/novembre).
+
+Voilà, ce sera tout pour aujourd'hui. Merci !
