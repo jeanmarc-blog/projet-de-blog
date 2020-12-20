@@ -34,7 +34,7 @@ Ces friandises seront destinées aux personnes à qui nous rendrons visite dans 
 
 ## Une newsletter qui fait son (petit) effet
 
-Voilà une année que j'ai lancé une newletter dans la paroisse où je travaille. D'abord imaginée pour élargir les "annonces" de nos activités à un cercle plus large que nos habitués, je lui ai donné un nouvel élan pour palier l'absence de rencontres.
+Voilà une année que j'ai lancé une newsletter dans la paroisse où je travaille. D'abord imaginée pour élargir les "annonces" de nos activités à un cercle plus large que nos habitués, je lui ai donné un nouvel élan pour palier l'absence de rencontres.
 
 Visitez le site de [getrevue.co](https://www.getrevue.co/profile/jleresche)
 
@@ -74,7 +74,7 @@ L'ami Nicolas publie un billet intitulé [Fin ou début en théologie et sur le 
 
 À la lecture de ce billet, je me suis fendu d'un commentaire que je reproduis ici :
 
-> Cher Nicolas,
+>Cher Nicolas,
 En lisant ton billet, j’ai retrouvé bon nombre de mes réflexions et aussi cette question : faut-il tout arrêter, tout recommencer, reprendre là-même où je l’ai laissé ?
 Début ou fin ? Et si une fin était le début de quelque chose de nouveau ?
 Je m’interroge aussi pour la suite de [mon blog](https://jeanmarcleresche.ch) : et, si tout simplement, je continuais ? Sans trop me soucier… J’avais écrit un dernier billet, pensant signer mon chant du cygne.
@@ -83,6 +83,15 @@ Merci de ta franchise partagée.
 Amitiés,
 Courage et confiance.
 Jean-Marc
+
+Et suite à ces lignes, Nicolas a répondu :
+>En fait, cher Jean-Marc, le piège est caché ici:
+
+>>faut-il tout arrêter, tout recommencer, reprendre là-même où je l’ai laissé?
+
+>Il ne faut rien, je crois. On fait ou non. Et c’est tout.
+>Il faut que ne ne me fasse plus avoir…
+
 
 Et j'ai mis en ligne un nouveau billet : [des textes liturgiques et une prédication d'un culte](https://jeanmarcleresche.ch/qui-es-tu/) que j'ai célébré.
 
@@ -93,3 +102,14 @@ Tout arrêter n'est jamais bon. Se fatiguer à vouloir trop en faire ne l'est pa
 À lire ou à relire [Mes réflexions autour d'un nouveau départ](/posts/novembre).
 
 Voilà, ce sera tout pour aujourd'hui. Merci !
+
+## Je voulais le dire… Et je l'ai fait
+Sur [l'un de mes blogs](https://meditheoblog.wordpress.com), j'ai publié un billet à propos du changement de nom du Parti Démocrate-Chrétien (PDC) qui a fait le choix d'abandonner la valeur chrétienne pour s'appeler *Le Centre*.
+
+À lire : [Un changement de nom qui en dit long](https://meditheoblog.wordpress.com/2020/12/05/un-changement-de-nom-qui-en-dit-long/)
+
+Ayant partagé ce billet via WhatsApp à quelques contacts du monde politique que je connais, j'ai rencontré des échos favorables.
+
+J'ai aussi eu envie de reprendre cette thématique que nous avions abordée lors d'un [Théo-Café](https://paref2520.ch/partager/le-theo-cafe/) dans la paroisse où je travaille.
+
+Voilà qui est dit.
