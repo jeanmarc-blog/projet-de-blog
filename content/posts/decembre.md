@@ -74,24 +74,18 @@ L'ami Nicolas publie un billet intitulé [Fin ou début en théologie et sur le 
 
 À la lecture de ce billet, je me suis fendu d'un commentaire que je reproduis ici :
 
->Cher Nicolas,
-En lisant ton billet, j’ai retrouvé bon nombre de mes réflexions et aussi cette question : faut-il tout arrêter, tout recommencer, reprendre là-même où je l’ai laissé ?
+> *Cher Nicolas, en lisant ton billet, j’ai retrouvé bon nombre de mes réflexions et aussi cette question : faut-il tout arrêter, tout recommencer, reprendre là-même où je l’ai laissé ?
 Début ou fin ? Et si une fin était le début de quelque chose de nouveau ?
-Je m’interroge aussi pour la suite de [mon blog](https://jeanmarcleresche.ch) : et, si tout simplement, je continuais ? Sans trop me soucier… J’avais écrit un dernier billet, pensant signer mon chant du cygne.
-Et s’il c’était un faux adieu ? Pour mieux continuer ?
-Merci de ta franchise partagée.
-Amitiés,
-Courage et confiance.
-Jean-Marc
+> Je m’interroge aussi pour la suite de [mon blog](https://jeanmarcleresche.ch) : et, si tout simplement, je continuais ? Sans trop me soucier… J’avais écrit un dernier billet, pensant signer mon chant du cygne.
+> Et s’il c’était un faux adieu ? Pour mieux continuer ?
+> Merci de ta franchise partagée.
+> Amitiés,
+> Courage et confiance.
+> Jean-Marc*
 
 Et suite à ces lignes, Nicolas a répondu :
->En fait, cher Jean-Marc, le piège est caché ici:
 
->>faut-il tout arrêter, tout recommencer, reprendre là-même où je l’ai laissé?
-
->Il ne faut rien, je crois. On fait ou non. Et c’est tout.
->Il faut que ne ne me fasse plus avoir…
-
+> *En fait, cher Jean-Marc, le piège est caché ici: faut-il tout arrêter, tout recommencer, reprendre là-même où je l’ai laissé? Il ne faut rien, je crois. On fait ou non. Et c’est tout. Il faut que ne ne me fasse plus avoir…*
 
 Et j'ai mis en ligne un nouveau billet : [des textes liturgiques et une prédication d'un culte](https://jeanmarcleresche.ch/qui-es-tu/) que j'ai célébré.
 
