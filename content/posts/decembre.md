@@ -107,3 +107,17 @@ Ayant partagé ce billet via WhatsApp à quelques contacts du monde politique qu
 J'ai aussi eu envie de reprendre cette thématique que nous avions abordée lors d'un [Théo-Café](https://paref2520.ch/partager/le-theo-cafe/) dans la paroisse où je travaille.
 
 Voilà qui est dit.
+
+## Variations personnelles sur le thème de Noël
+À l'approche de Noël, j'ai écrit les traditionnels messages de fin d'année et de remerciements à différents groupes de destinataires : bénévoles, visiteurs, collègues, conseil de paroisse. J'ai fait le choix de rédiger quelques lignes à chaque fois différentes autour de Noël. Cela a donné ces *Variations*, comme un interprète qui se laisse inspirer, qui improvise, à partir d'un thème imposé.
+
+On pourra écouter avec bonheur ces [variations de Goldberg par Glenn Gould](https://www.youtube.com/watch?v=Ah392lnFHxM).
+
+
+À lire : [Variations pour un joyeux Noël](https://jeanmarcleresche.ch/variations-pour-un-joyeux-noel/)
+
+![Un piano en fête](https://cdn.pixabay.com/photo/2016/11/24/19/12/christmas-1856982_960_720.jpg)
+
+Cette année 2020 touche à sa fin. Ce billet de blog aussi. J'ai aimé m'arrêter quelques instants plus ou moins longs pour rédiger ces lignes, destinées à… toi qui les lit d'abord, à moi ensuite, à d'autres qui les découvriront par hasard, un jour peut-être.
+
+Maintenant, je mets en pause jusqu'en janvier. Belles fêtes.
