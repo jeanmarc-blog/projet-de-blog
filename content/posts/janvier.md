@@ -1,6 +1,6 @@
 +++
 title = "Janvier 2021"
-date = "2021-01-15T15:49:34+01:00"
+date = "2021-01-31T15:49:34+01:00"
 author = "Jean-Marc Leresche"
 authorTwitter = "" #do not include @
 cover = "/img/janvier.jpg"
