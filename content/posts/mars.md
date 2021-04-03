@@ -6,7 +6,7 @@ authorTwitter = "" #do not include @
 cover = "/img/mars.jpg"
 tags = ["CARNET", "MOIS", "BLOG"]
 keywords = ["", ""]
-description = "Une année qu'on apprend à vivre avec un virus. Une année… Ça paraît long… Entre espoirs et résignation, projets, reports et annulations. On se disait que ça passerait. Alors, oui, ça se passe. Un peu à l'image de mes motivations à bloguer. Ça se passe, avec des hauts et des bas. Je suis en pleine exploration… Comme sur la planète Mars. Vais-je trouvé ce qu'il me faut pour continuer ?"
+description = "Une année qu'on apprend à vivre avec un virus. Une année… Ça paraît long… Entre espoirs et résignation, projets, reports et annulations. On se disait que ça passerait. Alors, oui, ça se passe. Un peu à l'image de mes motivations à bloguer. Ça se passe, avec des hauts et des bas. Je suis en pleine exploration… Comme sur la planète Mars. Vais-je trouver ce qu'il me faut pour continuer ?"
 showFullContent = false
 +++
 
