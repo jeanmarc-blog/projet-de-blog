@@ -54,7 +54,7 @@ Sur mon blog [meditheoblog](https://meditheoblog.wordpress.com), j'ai publié :
 
 Où je partage quelques réflexions et parallèles entre le choix d'une adhésion à une messagerie et à une communauté.
 
-Sur [réformé & connecté], il y a eu deux billets :
+Sur [réformé & connecté](https:jeanmarcleresche.ch), il y a eu deux billets :
 
 ↗️ [La Bible pour moi](https://jeanmarcleresche.ch/la-bible-pour-moi/) où je relève le défi lancé il y a quelques mois par Olivier Keshavjee pour dire en quelques lignes ce qu'est mon rapport à la Bible.
 
