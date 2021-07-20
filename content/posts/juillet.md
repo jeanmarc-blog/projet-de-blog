@@ -16,18 +16,22 @@ Ici, c'est d'abord un *quelque chose* qui ressemble à un *laboratoire grandeur 
 
 Ce blog, il m'arrive de l'oublier, de ne plus avoir envie d'y toucher, de vouloir le supprimer tout simplement, parce qu'il ne m'apporte vraiment pas grand-chose. C'est du moins ce que je crois et ce n'est peut-être pas ce que croient mes lecteurs·trices.
 
-Et puis, je me souviens que *justement* parce qu'il est confidentiel, je peux y risquer des propos ou des contenus que je publierais pas sur les autres. Oh, rien de désobligeant, juste un peut plus personnel, c'est tout !
+Et puis, je me souviens que *justement* parce qu'il est confidentiel, je peux y risquer des propos ou des contenus que je publierais pas sur les autres. Oh, rien de désobligeant, juste un peu plus personnel, c'est tout !
 
 # Une inspiration… Une respiration
 J'étais parti avec l'idée de faire de ce blog une sorte de carnet mensuel, à l'image de ce que fait [Thierry Crouzet](https://tcrouzet.com/carnets/) sur son blog : un journal quasi au jour le jour de ce qu'il vit et pense. Il l'agrémente de belles photos de chez lui.
+
 Tout cela prend du temps et de l'énergie, je l'ai constaté et expérimenté. Et qui est-ce que ma *petite* vie pourrait bien intéresser au point de vouloir y lire mes faits et gestes de chaque jour.
 J'avais donc opté pour une synthèse mensuelle de ce que j'ai vécu dans le mois écoulé.
 Et puis, la lassitude a pris le pas sur l'habitude, d'autres priorités sont venues se greffer. Une augmentation de mon taux d'emploi a fait que je mettais mon énergie ailleurs, que j'avais aussi besoin de faire autre chose que de taper des lignes devant un écran. Pour qui ? Pour moi ? Pour toi ? J'avais besoin de souffler.
 
+## 19 juillet
+
 Et puis, aujourd'hui, j'y reviens à ce blog. À ce fameux blog dont je ne sais vraiment pas quoi faire.
 Je le vois encore comme un journal, un carnet, une trace de mes réflexions.
 
-# Alors quoi ?
+Alors quoi ?
+
 *Alors quoi ? Tu le gardes ou tu le supprimes, ton blog qui sert à rien ?!*
 
 Ben, je ne sais toujours pas. Parce que je sais qu'il est là, que je peux le laisser dormir un moment et que personne ne viendra me reprocher de ne pas l'alimenter à temps. Donc, dans le doute je m'abstiens.
@@ -37,3 +41,11 @@ Plus généralement, cet été est une période de questionnements à plusieurs 
 Je ne sais pas si je vais compléter ce billet, le laisser ainsi. Dans le doute, je m'abstiens et laisse le temps au temps.
 
 Ami·e lecteur·trice, ne m'en veux pas !
+
+## 20 juillet
+
+Hier, le moral n'était pas vraiment au rendez-vous, à l'image de la météo de ces dernier jours. J'étais débordé, voire submergé, comme les abords des lacs. 
+
+Mais au fil des heures, des lectures et réflexions personnelles, il est remonté… Un peu du moins. S'il y a des portes qui se ferment d'autres pourraient bien s'ouvrir, mais surtout, c'est **à moi de frapper à la porte**, au lieu d'attendre qu'une ouverture se fasse entendre.
+
+L'écoute de la [prédication de mon collègue de La Neuveville](https://soundcloud.com/region-lac-en-ciel/cest-au-desert) m'incite à respecter mon besoin de repos consenti, plutôt que forcé ou imposé. L'été n'est-il pas justement ce temps du repos… Pour mieux repartir ?
