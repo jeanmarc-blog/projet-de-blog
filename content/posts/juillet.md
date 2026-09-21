@@ -10,6 +10,7 @@ description = "Un retour à ce blog laissé à l'abandon depuis quelques mois, p
 showFullContent = false
 +++
 # Un blog, des blogs
+Ici, j'ajoute quelques mots depuis la mise en veille de ce blog. Juste pour voir...
 Je l'ai déjà écrit quelque part ici, je tiens deux autres blogs qui tournent sur Wordpress. Je les privilégie et je les fais évoluer. Je tiens aussi à jour d'autres blogs/sites en lien avec mes activités professionnelles.
 
 Ici, c'est d'abord un *quelque chose* qui ressemble à un *laboratoire grandeur nature* ou *à ciel ouvert*. Un lieu qui n'est connu que de ceux et celles à qui je communique l'adresse. Ils doivent se compter sur les doigts d'une main. Certain·es auront peut-être eu la bonne idée de l'ajouter dans leur lecteur rss.
