@@ -1,9 +1,9 @@
 ---
-title: "Juillet 2023"
-date: 2024-09-21T10:00:00+02:00
-draft: false
-tags: ["tech", "tuto"]
-summary: "Une première relance en juillet 2023"
+title = "Juillet 2023"
+date = 2024-09-21T10:00:00+02:00
+draft = false
+tags = ["tech", "tuto"]
+summary = "Une première relance en juillet 2023"
 ---
 Ceci est la tentative de reprendre ce blog directement dans Github plutôt qu'en local.  À voir ce que ça donne.
 *Pourquoi continuer malgré tout ?* 
