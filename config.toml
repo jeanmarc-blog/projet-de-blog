@@ -23,7 +23,7 @@ paginate = 3
 [languages]
   [languages.en]
     languageName = "Français"
-    title = "Mon carnet de blog | Simplicité et Efficacité"
+    title = "Mon carnet de blog | Une expérience avec l'aide de l'IA"
     keywords = ""
     copyright = ""
     menuMore = "En savoir plus"
