@@ -31,7 +31,7 @@ paginate = 3
     readOtherPosts = "à lire aussi"
 
     [languages.en.params.logo]
-      logoText = "Mon carnet de blog | Simplicité et Efficacité"
+      logoText = "Mon carnet de blog | Une expérience avec l'aide de l'IA"
       logoHomeLink = "/"
 
     [languages.en.menu]
