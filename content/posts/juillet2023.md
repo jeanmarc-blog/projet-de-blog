@@ -2,7 +2,8 @@
 title = "C'est reparti... ou pas !" 
 date = "2023-07-10T15:32:37+02:00" 
 author = "Jean-Marc"  
-tags = ["BLOG", "OUTILS"] keywords = [] 
+tags = ["BLOG", "OUTILS"] 
+keywords = [] 
 description = "Et si je m'y remettais à ce blog un peu délaissé une fois de plus ? on verra!" 
 showFullContent = false 
 +++
