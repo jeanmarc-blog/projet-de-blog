@@ -6,6 +6,7 @@ tags = ["BLOG", "OUTILS"]
 keywords = []
 description = "Et si je m'y remettais à ce blog un peu délaissé une fois de plus ? on verra!"
 showFullContent = false
+draft = true
 +++
 
 # Reprise en 2023
