@@ -17,3 +17,6 @@ Je me réfère à trois IA d'abord, promues par des sociétés suisses ou en tou
 * [Euria d'Infomaniak](https://euria.infomaniak.com/)
 * [Apertus de l'EPFL](https://chat.publicai.co/auth?redirect=%2F)
 
+# Un langage agréable
+Écrire sur ce blog statique, c'est utiliser le langage _markdown_ qui emploie quelques balises syntaxiques faciles à retenir. Cela permet de rédiger avec un minimum de distraction. 
+
