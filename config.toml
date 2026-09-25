@@ -1,5 +1,6 @@
-baseurl = "/"
+baseurl = "https://carnetdeblop.netlify.app/"
 languageCode = "fr-fr"
+defaultContentLanguage = "fr"
 theme = "terminal"
 paginate = 3
 
@@ -62,4 +63,3 @@ paginate = 3
         url = "/sources"
 
 disqusShortname = "https-carnetdeblog-netlify-app"
-
