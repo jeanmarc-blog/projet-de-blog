@@ -1,4 +1,4 @@
-baseurl = "https://carnetdeblop.netlify.app/"
+baseurl = "https://carnetdeblog.netlify.app/"
 languageCode = "fr-fr"
 defaultContentLanguage = "fr"
 theme = "terminal"
