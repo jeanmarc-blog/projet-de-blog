@@ -35,32 +35,32 @@ paginate = 3
       logoHomeLink = "/"
 
     [languages.fr.menu]
-      [[languages.en.menu.main]]
+      [[languages.fr.menu.main]]
         identifier = "auteur"
         name = "auteur"
         url = "/about"
 
-    [[languages.fr.menu.main]]
+      [[languages.fr.menu.main]]
         identifier = "now"
         name = "now"
         url = "/now"
-      
-    [[languages.fr.menu.main]]
+
+      [[languages.fr.menu.main]]
         identifier = "contact"
         name = "contact"
-        url = "/contact"  
-        
+        url = "/contact"
+
       [[languages.fr.menu.main]]
         identifier = "philosophie"
         name = "philosophie"
-        url = "/philosophie" 
+        url = "/philosophie"
 
       [[languages.fr.menu.main]]
         identifier = "parcours"
         name = "parcours"
         url = "/mon-parcours"
 
- 	    [[languages.fr.menu.main]]
+      [[languages.fr.menu.main]]
         identifier = "perspectives"
         name = "perspectives"
         url = "/perspectives"
@@ -68,6 +68,6 @@ paginate = 3
       [[languages.fr.menu.main]]
         identifier = "sources"
         name = "sources"
-        url = "/sources"  
+        url = "/sources"
 
 disqusShortname = "https-carnetdeblog-netlify-app"
