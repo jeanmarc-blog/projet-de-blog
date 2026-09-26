@@ -1,5 +1,5 @@
 ---
-title: "Now"
+title: "maintenant"
 date: 2026-09-25
 description: "Ce que j'ai en tête, ce sur quoi je travaille en ce moment"
 draft: false
