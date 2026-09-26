@@ -4,8 +4,6 @@ date: 2026-09-26
 draft: false
 ---
 
-# Actuel
-
 *Mise à jour du 26.09.2026*
 
 Cette page s'inspire du concept ["*Now*"](https://sive.rs/nowff). Elle reflète ce qui occupe mon attention aujourd'hui. Elle est mise à jour lorsque mes priorités changent.
