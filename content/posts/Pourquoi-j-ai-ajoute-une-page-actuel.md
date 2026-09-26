@@ -1,11 +1,13 @@
 +++
-title = "Pourquoi j'ai ajouté une page "Actuel"
+title = "Pourquoi j'ai ajouté une page 'Actuel'"
 date = "2026-09-26"
-author = "Jean-Marc Leresche
+author = "Jean-Marc Leresche"
+authorTwitter = "jleresche" #do not include @
 tags = ["RELANCE", "BLOG", "EXPÉRIENCE"]
+keywords = ["", ""]
+description = "J'explique ici la raison de publier une page 'Actuel'"
 showFullContent = false
-draft = true
-
+draft = false
 
 *pour l'instant, je publie le texte généré par l'IA. Je le reprendrai dans un 2e temps pour mieux me l'approprier*
 
