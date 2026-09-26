@@ -9,7 +9,7 @@
     
     <h2>Articles récents</h2>
     <ul>
-        {{ range first 5 (where .Site.RegularPages "Section" "posts" }}
+        {{ range first 5 (where .Site.RegularPages "Section" "posts") }}
             <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
         {{ end }}
     </ul>
