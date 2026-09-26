@@ -33,9 +33,9 @@ paginate = 3
         url = "/about"
 
       [[languages.fr.menu.main]]
-        identifier = "now"
-        name = "now"
-        url = "/now"
+        identifier = "actuel"
+        name = "actuel"
+        url = "/actuel"
 
       [[languages.fr.menu.main]]
         identifier = "contact"
