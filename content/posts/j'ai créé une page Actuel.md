@@ -32,6 +32,6 @@ La page 'Actuel' gardera une trace de ce processus d'apprentissage, relevant les
 Dans quelques mois, elle aura certainement une autre forme, un autre contenu plus abouti. Et c'est très bien ainsi.
 
 ## Mon "Actuel"
-L'idée vous intrigue ou vous séduit, tant mieux alors. Vous êtes invité à visiter ma page **/actuel/**.
+L'idée vous intrigue ou vous séduit, tant mieux alors. Vous êtes invité à visiter **[ma page Actuel](/actuel)**.
 
 Vous y trouverez ce qui m'occupe en ce moment, ce que j'apprends et me questionne et les pistes que j'explore.
