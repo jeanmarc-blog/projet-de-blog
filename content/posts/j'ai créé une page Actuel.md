@@ -5,7 +5,7 @@ draft: false
 tags:
   - blog
   - relance
-categories: Ecriture
+categories: '"[Ecriture]"'
 summary: Pourquoi j'ai créé une page 'Actuel
 ---
 
