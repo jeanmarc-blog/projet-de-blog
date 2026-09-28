@@ -28,8 +28,8 @@
               "type": "markdown",
               "state": {
                 "file": "content/posts/j'ai créé une page Actuel.md",
-                "mode": "source",
-                "source": false
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
               "title": "j'ai créé une page Actuel"

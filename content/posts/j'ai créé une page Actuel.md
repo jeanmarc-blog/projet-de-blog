@@ -34,6 +34,6 @@ Dans quelques mois, elle aura certainement une autre forme, un autre contenu plu
 ## Mon "Actuel"
 L'idée vous intrigue ou vous séduit, tant mieux alors. Vous êtes invité à visiter ma page
 
-**/actuel**
+**/actuel/**
 
 Vous y trouverez ce qui m'occupe en ce moment, ce que j'apprends et me questionne et les pistes que j'explore.
