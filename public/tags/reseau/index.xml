@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>RESEAU on Mon carnet de blog | Une expérience avec l&#39;aide de l&#39;IA</title>
+		<link>http://localhost:1313/tags/reseau/</link>
+		<description>Recent content in RESEAU on Mon carnet de blog | Une expérience avec l&#39;aide de l&#39;IA</description>
+		<generator>Hugo</generator>
+		<language>fr-fr</language>
+		
+		
+		
+		
+			<lastBuildDate>Sun, 02 Aug 2020 15:00:39 +0200</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/tags/reseau/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Hello ne croit plus en Facebook</title>
+				<link>http://localhost:1313/posts/facebook/</link>
+				<pubDate>Sun, 02 Aug 2020 15:00:39 +0200</pubDate>
+				<guid>http://localhost:1313/posts/facebook/</guid>
+				<description>&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;em&gt;Donner un coup de pouce peut être une fausse bonne idée… Surtout, si ce coup de pouce ne sert à rien !&lt;/em&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;h2 id=&#34;un-réseau-vraiment-&#34;&gt;Un réseau, vraiment ?&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://localhost:1313/posts/hello-le-monde/#hello-un-avatar-bien-s%c3%bbr&#34;&gt;&lt;strong&gt;Hello&lt;/strong&gt;&lt;/a&gt; ne croit plus en Facebook. Pourtant, il croit encore au &lt;a href=&#34;http://localhost:1313/posts/partages/&#34;&gt;partage de ses écrits&lt;/a&gt;. Il s&amp;rsquo;est inscrit, espérant nouer et renouer avec des connaissances, retrouver des amis, en apprendre un peu plus sur ce qu&amp;rsquo;ils sont devenus…&lt;/p&gt;&#xA;&lt;p&gt;Hello avait (encore) quelques illusions.&lt;/p&gt;&#xA;&lt;p&gt;Au final, il a bien retrouvé des &lt;em&gt;&amp;ldquo;amis&amp;rdquo;&lt;/em&gt;, mais rien à voir avec l&amp;rsquo;amitié qu&amp;rsquo;il espérait retrouver. Il a fait la connaissance d&amp;rsquo;autres &lt;em&gt;&amp;ldquo;amis&amp;rdquo;&lt;/em&gt; avec lesquels il a fait un bout de chemin et puis… plus rien !&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Hello Le Monde</title>
+				<link>http://localhost:1313/posts/hello-le-monde/</link>
+				<pubDate>Sat, 25 Jul 2020 15:10:31 +0200</pubDate>
+				<guid>http://localhost:1313/posts/hello-le-monde/</guid>
+				<description>&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;em&gt;Tu as des choses à dire ? Dis-les. Tu ne peux pas ? Ecris-les !&lt;/em&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Hi, my name is &lt;strong&gt;Hello&lt;/strong&gt;. &lt;strong&gt;Hello Le Monde&lt;/strong&gt;, en trois mots. C&amp;rsquo;est mon nom de blogueur, car je suis un blogueur.&lt;/p&gt;&#xA;&#xD;&#xA;  &lt;img src=&#34;http://localhost:1313/img/hello.jpg&#34;  alt=&#34;Hello Friend&#34;  class=&#34;center&#34;  style=&#34;border-radius: 8px;&#34;  /&gt;&#xD;&#xA;&#xD;&#xA;&#xA;&lt;p&gt;Avez-vous remarqué ? Je n&amp;rsquo;ai pas de bouche. Mais ce n&amp;rsquo;est pas une raison pour ne rien dire, pour ne pas m&amp;rsquo;exprimer.&lt;/p&gt;&#xA;&lt;h2 id=&#34;hello-le-blogueur-qui-a-des-choses-à-dire-même-sans-bouche&#34;&gt;Hello le blogueur qui a des choses à dire même sans bouche.&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Hello&lt;/strong&gt; est le personnage du &lt;a href=&#34;https://themes.gohugo.io/hugo-theme-terminal/&#34;&gt;thème terminal du système Hugo&lt;/a&gt;. Il est sympathique, même s&amp;rsquo;il n&amp;rsquo;a pas de bouche. Peut-être est-ce cela qui le rend sympathique d&amp;rsquo;ailleurs ?&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>

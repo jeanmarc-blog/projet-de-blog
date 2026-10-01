@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>IDEES on Mon carnet de blog | Une expérience avec l&#39;aide de l&#39;IA</title>
+		<link>http://localhost:1313/tags/idees/</link>
+		<description>Recent content in IDEES on Mon carnet de blog | Une expérience avec l&#39;aide de l&#39;IA</description>
+		<generator>Hugo</generator>
+		<language>fr-fr</language>
+		
+		
+		
+		
+			<lastBuildDate>Wed, 01 Jul 2020 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/tags/idees/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Ma petite (et première) réflexion</title>
+				<link>http://localhost:1313/posts/ma-petite-reflexion/</link>
+				<pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/posts/ma-petite-reflexion/</guid>
+				<description>&lt;h2 id=&#34;un-projet-ouvert&#34;&gt;Un projet ouvert&lt;/h2&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;em&gt;Si tu veux aider un blogueur, tu peux lui livrer un site clé en main ou lui enseigner les bonnes pratiques.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Mon projet de blog est un projet ouvert. Rien n&amp;rsquo;est caché, je ne veux rien cacher. Je le souhaite évolutif, non seulement par mes propres réflexions et découvertes, mais aussi par celles de mes &lt;em&gt;contributeurs&lt;/em&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Si sur le contenu, je pense maîtriser ce que je veux dire et comment le dire, il me reste à apprendre les bases techniques pour le faire et notamment du code (arrgh, c&amp;rsquo;est peut-être là que les choses se gâtent&amp;hellip;).&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>

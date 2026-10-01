@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>PROJET on Mon carnet de blog | Une expérience avec l&#39;aide de l&#39;IA</title>
+		<link>http://localhost:1313/tags/projet/</link>
+		<description>Recent content in PROJET on Mon carnet de blog | Une expérience avec l&#39;aide de l&#39;IA</description>
+		<generator>Hugo</generator>
+		<language>fr-fr</language>
+		
+		
+		
+		
+			<lastBuildDate>Sat, 21 Nov 2020 10:17:04 +0100</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/tags/projet/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Reprise du blog</title>
+				<link>http://localhost:1313/posts/reprise-du-blog/</link>
+				<pubDate>Sat, 21 Nov 2020 10:17:04 +0100</pubDate>
+				<guid>http://localhost:1313/posts/reprise-du-blog/</guid>
+				<description>&lt;h2 id=&#34;mode-pause&#34;&gt;Mode &amp;ldquo;Pause&amp;rdquo;&lt;/h2&gt;&#xA;&lt;p&gt;Depuis quelque temps, j&amp;rsquo;ai passé par diverses motivations autour du blog. Il y a eu l&amp;rsquo;enthousiasme lié notamment à la crise de ce printemps, où le télétravail et les distances m&amp;rsquo;ont encouragé à bloguer. Il y a eu aussi l&amp;rsquo;envie de découvrir de nouvelles approches, et notamment les sites statiques.&lt;/p&gt;&#xA;&lt;p&gt;Et puis, le temps a passé. Les activités ont repris un rythme un peu plus normal. J&amp;rsquo;ai continué à écrire sur mon autre blog, &lt;a href=&#34;https://jeanmarcleresche.ch&#34;&gt;l&amp;rsquo;officiel&lt;/a&gt;, et sans doute par péché de gourmandise, je m&amp;rsquo;y suis lassé. Et j&amp;rsquo;ai décidé de mettre &lt;a href=&#34;https://jeanmarcleresche.ch/dernier-billet/&#34;&gt;un terme à sa forme actuelle&lt;/a&gt;.&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>GEEK on Mon carnet de blog | Une expérience avec l&#39;aide de l&#39;IA</title>
+		<link>http://localhost:1313/tags/geek/</link>
+		<description>Recent content in GEEK on Mon carnet de blog | Une expérience avec l&#39;aide de l&#39;IA</description>
+		<generator>Hugo</generator>
+		<language>fr-fr</language>
+		
+		
+		
+		
+			<lastBuildDate>Mon, 20 Jul 2020 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/tags/geek/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Publication sur Netlify</title>
+				<link>http://localhost:1313/posts/publication-sur-netlify/</link>
+				<pubDate>Mon, 20 Jul 2020 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/posts/publication-sur-netlify/</guid>
+				<description>&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;em&gt;Tout contenu mérite d&amp;rsquo;être publié.&lt;/em&gt;&lt;br&gt;&#xA;&lt;em&gt;You don&amp;rsquo;t write because you want to say something, you write because you have something to say.&lt;/em&gt;   F. Scott Fitzgerald.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;h1 id=&#34;publication-sur-netlify&#34;&gt;Publication sur Netlify&lt;/h1&gt;&#xA;&lt;p&gt;Mon blog construit avec &lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt; est publié sur Netlify. Ainsi, il est accessible et visible par tous. Je suis passé d&amp;rsquo;un blog local à un blog public.&#xA;Les sources sont déposées sur &lt;a href=&#34;https://github.com/jeanmarc-blog/projet-de-blog&#34;&gt;Github&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Le projet peut donc démarrer maintenant en &lt;em&gt;live&lt;/em&gt;. Youpi!!!&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; La mise à jour été appliquée au site en ligne sur Netlify.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Premiers pas avec github</title>
+				<link>http://localhost:1313/posts/premiers-pas-avec-github/</link>
+				<pubDate>Sat, 04 Jul 2020 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/posts/premiers-pas-avec-github/</guid>
+				<description>&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;em&gt;L&amp;rsquo;erreur est humaine. On a tout à apprendre de ses erreurs. Si elles ne nous font pas grandir, elles nous rendent plus intellignents. Enfin, je peux me tromper.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;h2 id=&#34;premiers-pas-plutôt-difficiles&#34;&gt;Premiers pas plutôt difficiles&lt;/h2&gt;&#xA;&lt;p&gt;Mon ami me propose de mettre les sources de mon futur blog en devenir sur Github. J&amp;rsquo;avais déjà entendu parler de cet hébergement, sans vraiment savoir à quoi il pouvait servir. J&amp;rsquo;ouvre un compte et y dépose &lt;a href=&#34;https://github.com/jeanmarc-blog/projet-de-blog&#34;&gt;les sources de ce blog&lt;/a&gt;.&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>

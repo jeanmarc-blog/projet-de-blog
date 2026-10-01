@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>OUTILS on Mon carnet de blog | Une expérience avec l&#39;aide de l&#39;IA</title>
+		<link>http://localhost:1313/tags/outils/</link>
+		<description>Recent content in OUTILS on Mon carnet de blog | Une expérience avec l&#39;aide de l&#39;IA</description>
+		<generator>Hugo</generator>
+		<language>fr-fr</language>
+		
+		
+		
+		
+			<lastBuildDate>Mon, 31 Aug 2020 15:32:37 +0200</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/tags/outils/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Disqus pour les commentaires</title>
+				<link>http://localhost:1313/posts/commentaires/</link>
+				<pubDate>Mon, 31 Aug 2020 15:32:37 +0200</pubDate>
+				<guid>http://localhost:1313/posts/commentaires/</guid>
+				<description>&lt;h2 id=&#34;pourquoi-des-commentaires-&#34;&gt;Pourquoi des commentaires ?&lt;/h2&gt;&#xA;&lt;p&gt;Les articles de blogs sont justement là pour susciter la discussion et l&amp;rsquo;échange. Il existe &lt;a href=&#34;http://localhost:1313/contact/&#34;&gt;plusieurs manières de me contacter&lt;/a&gt;. Le service de commentaires &lt;em&gt;&lt;a href=&#34;https://disqus.com&#34;&gt;Disqus&lt;/a&gt;&lt;/em&gt; que j&amp;rsquo;ai installé sur ce blog est un essai.&lt;/p&gt;&#xA;&lt;p&gt;L&amp;rsquo;avantage de commentaires visibles est que d&amp;rsquo;autres peuvent réagir. Il se crée ainsi une communauté. Si je réponds à un commentaire, ma réponse est visible de tous et chacun·e peut alors interagir.&lt;/p&gt;&#xA;&lt;h2 id=&#34;pourquoi-disqus-et-pas-un-autre-&#34;&gt;Pourquoi &lt;em&gt;Disqus&lt;/em&gt; et pas un autre ?&lt;/h2&gt;&#xA;&lt;p&gt;En visitant d&amp;rsquo;autres blogs ou sites construits avec &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt;, j&amp;rsquo;ai remarqué que nombre d&amp;rsquo;entre eux utilisaient &lt;em&gt;Disqus&lt;/em&gt;. J&amp;rsquo;ai aussi rencontré parfois &lt;em&gt;Commento&lt;/em&gt;. J&amp;rsquo;ai cherché et trouvé l&amp;rsquo;insertion de &lt;em&gt;Disqus&lt;/em&gt; plus aisée. C&amp;rsquo;est peut-être un leurre. Je ne suis qu&amp;rsquo;un &lt;a href=&#34;http://localhost:1313/about/&#34;&gt;laborantin&lt;/a&gt;.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Suivre des blogs</title>
+				<link>http://localhost:1313/posts/suivre-un-blog/</link>
+				<pubDate>Thu, 06 Aug 2020 14:27:36 +0200</pubDate>
+				<guid>http://localhost:1313/posts/suivre-un-blog/</guid>
+				<description>&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;em&gt;Plutôt que suivre un blog à la trace au risque te lasser, laisse-le t&amp;rsquo;avertir qu&amp;rsquo;il a quelque chose à te dire.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;h2 id=&#34;être-au-courant&#34;&gt;Être au courant&lt;/h2&gt;&#xA;&lt;p&gt;Une fois qu&amp;rsquo;on a trouvé un blog intéressant, on souhaite suivre son développement. On est impatient de découvrir une nouvelle publication, d&amp;rsquo;en lire davantage. Et on tape son adresse dans la barre d&amp;rsquo;adresse de son navigateur préféré. Et là… Rien ! Pas de nouvelles. Un jour passse, puis une semaine, puis un mois, puis on oublie de retourner, on est peut-être passé à autre chose.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Mesures</title>
+				<link>http://localhost:1313/posts/mesures/</link>
+				<pubDate>Tue, 28 Jul 2020 11:11:27 +0200</pubDate>
+				<guid>http://localhost:1313/posts/mesures/</guid>
+				<description>&lt;h2 id=&#34;les-sites-statiques-répondent-plus-vite&#34;&gt;Les sites statiques répondent plus vite&lt;/h2&gt;&#xA;&lt;p&gt;Les sites statiques, par opposition aux sites dynamiques (type Wordpress) sont plus rapides. Cela signifie qu&amp;rsquo;ils donnent de meilleures réponses et de meilleurs résultats quand on les passe &lt;em&gt;&amp;ldquo;à la moulinette&amp;rdquo;&lt;/em&gt; des outils de mesure.&lt;/p&gt;&#xA;&lt;p&gt;On peut légitimement se demander si ça a une importance quelconque pour l&amp;rsquo;internaute, s&amp;rsquo;il est sensible à cette différence. Pour avoir testé mon blog avec d&amp;rsquo;autres, dont le mien en Wordpress, la différence à l&amp;rsquo;oeil nu n&amp;rsquo;est pas flagrante.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Publication sur Netlify</title>
+				<link>http://localhost:1313/posts/publication-sur-netlify/</link>
+				<pubDate>Mon, 20 Jul 2020 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/posts/publication-sur-netlify/</guid>
+				<description>&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;em&gt;Tout contenu mérite d&amp;rsquo;être publié.&lt;/em&gt;&lt;br&gt;&#xA;&lt;em&gt;You don&amp;rsquo;t write because you want to say something, you write because you have something to say.&lt;/em&gt;   F. Scott Fitzgerald.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;h1 id=&#34;publication-sur-netlify&#34;&gt;Publication sur Netlify&lt;/h1&gt;&#xA;&lt;p&gt;Mon blog construit avec &lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt; est publié sur Netlify. Ainsi, il est accessible et visible par tous. Je suis passé d&amp;rsquo;un blog local à un blog public.&#xA;Les sources sont déposées sur &lt;a href=&#34;https://github.com/jeanmarc-blog/projet-de-blog&#34;&gt;Github&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Le projet peut donc démarrer maintenant en &lt;em&gt;live&lt;/em&gt;. Youpi!!!&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; La mise à jour été appliquée au site en ligne sur Netlify.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Premiers pas avec github</title>
+				<link>http://localhost:1313/posts/premiers-pas-avec-github/</link>
+				<pubDate>Sat, 04 Jul 2020 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/posts/premiers-pas-avec-github/</guid>
+				<description>&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;em&gt;L&amp;rsquo;erreur est humaine. On a tout à apprendre de ses erreurs. Si elles ne nous font pas grandir, elles nous rendent plus intellignents. Enfin, je peux me tromper.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;h2 id=&#34;premiers-pas-plutôt-difficiles&#34;&gt;Premiers pas plutôt difficiles&lt;/h2&gt;&#xA;&lt;p&gt;Mon ami me propose de mettre les sources de mon futur blog en devenir sur Github. J&amp;rsquo;avais déjà entendu parler de cet hébergement, sans vraiment savoir à quoi il pouvait servir. J&amp;rsquo;ouvre un compte et y dépose &lt;a href=&#34;https://github.com/jeanmarc-blog/projet-de-blog&#34;&gt;les sources de ce blog&lt;/a&gt;.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Ma petite boîte à outils</title>
+				<link>http://localhost:1313/posts/ma-petite-boite-a-outils/</link>
+				<pubDate>Fri, 26 Jun 2020 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/posts/ma-petite-boite-a-outils/</guid>
+				<description>&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;em&gt;De bons outils font de bons ouvriers.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;À la mi-mars, Philippe Golaz a publié sur son blog &lt;a href=&#34;https://philippegolaz.ch/faire-eglise-sur-internet-a-lheure-du-coronavirus/&#34;&gt;L’Eglise sur internet à l’heure du coronavirus&lt;/a&gt;. Il y présente réflexions personnelles, plate-formes, outils et matériels pour &lt;em&gt;être Église autrement&lt;/em&gt;.&lt;/p&gt;&#xA;&lt;p&gt;En relisant ce billet, j&amp;rsquo;ai eu envie de partager ma &lt;strong&gt;boîte à outils&lt;/strong&gt;, celle du (modeste) blogueur que je suis.&lt;/p&gt;&#xA;&lt;h2 id=&#34;le-matériel&#34;&gt;Le matériel&lt;/h2&gt;&#xA;&lt;p&gt;Rien de bien extraordinaire ni d&amp;rsquo;onéreux.&lt;/p&gt;&#xA;&lt;p&gt;L&amp;rsquo;essentiel :&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Un carnet et un stylo (marque, modèle et format laissés à votre appréciation). C&amp;rsquo;est tout bête, mais ça ne prend pas de place et c&amp;rsquo;est utile pour écrire le début de quelque chose, la fin d&amp;rsquo;autre chose, une citation, une référence, un contact et tant d&amp;rsquo;infos pouvant se révéler utiles.&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.apple.com/chfr/macbook-pro/&#34;&gt;Un MacBook Pro&lt;/a&gt;. Pas besoin du dernier modèle, le mien est âgé de 7 ans environ.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Ce qui suit est optionnel :&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>
