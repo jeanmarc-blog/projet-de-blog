@@ -31,6 +31,10 @@ paginate = 3
         identifier = "auteur"
         name = "auteur"
         url = "/about"
+      [[languages.fr.menu.main]]
+      	identifier = "blog"
+	name = "Blog"
+	url = "/blog"
 
       [[languages.fr.menu.main]]
         identifier = "actuel"
