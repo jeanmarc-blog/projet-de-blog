@@ -11,14 +11,10 @@
             "id": "c3ec1db9f6a4b7b6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/posts/_index.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "_index"
+              "title": "Nouvel onglet"
             }
           }
         ]
@@ -187,8 +183,14 @@
   },
   "active": "ed06475377e4da8f",
   "lastOpenFiles": [
-    "LISEZMOI.md",
+    "layouts/posts/list.html.txt",
+    "layouts/posts/Nouveau Document texte.txt",
+    "layouts/posts/list.html.md",
+    "layouts/posts.md",
+    "layouts/posts/list.html.md",
+    "layouts/posts",
     "content/posts/_index.md",
+    "LISEZMOI.md",
     "themes/terminal/archetypes/posts.md",
     "layouts/Article-projet-de-blog.md",
     "content/about.md",
