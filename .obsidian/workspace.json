@@ -11,10 +11,14 @@
             "id": "c3ec1db9f6a4b7b6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "content/posts/de la discussion à un copier-coller.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nouvel onglet"
+              "title": "de la discussion à un copier-coller"
             }
           }
         ]
@@ -51,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Mon carnet de blog | Une expérience avec l'aide de l'IA Afficher plus de lignes",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -181,22 +185,28 @@
       "bases:Créer une nouvelle base": false
     }
   },
-  "active": "ed06475377e4da8f",
+  "active": "c3ec1db9f6a4b7b6",
   "lastOpenFiles": [
+    "content/posts/_index.md",
+    "content/posts/de la discussion à un copier-coller.md",
+    "public/posts/de-la-discussion-à-un-copier-coller/index.html",
+    "public/posts/de-la-discussion-à-un-copier-coller",
+    "public/posts/discussion-copier/index.html",
+    "public/posts/discussion-copier",
+    "content/posts/j'ai créé une page Actuel.md",
+    "blog.md",
     "layouts/posts/list.html.txt",
     "layouts/posts/Nouveau Document texte.txt",
     "layouts/posts/list.html.md",
     "layouts/posts.md",
     "layouts/posts/list.html.md",
     "layouts/posts",
-    "content/posts/_index.md",
     "LISEZMOI.md",
     "themes/terminal/archetypes/posts.md",
     "layouts/Article-projet-de-blog.md",
     "content/about.md",
     "archetypes/default.md",
     "Invalid date.md",
-    "content/posts/j'ai créé une page Actuel.md",
     "content/posts/Juillet-2023.md",
     "content/posts/suivre-un-blog.md",
     "MODÈLES",

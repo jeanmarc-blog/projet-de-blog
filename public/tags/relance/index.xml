@@ -1,24 +1,38 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title>Relance on Mon carnet de blog | Une expérience avec l&#39;aide de l&#39;IA</title>
+		<title>RELANCE on Mon carnet de blog | Une expérience avec l&#39;aide de l&#39;IA</title>
 		<link>http://localhost:1313/tags/relance/</link>
-		<description>Recent content in Relance on Mon carnet de blog | Une expérience avec l&#39;aide de l&#39;IA</description>
+		<description>Recent content in RELANCE on Mon carnet de blog | Une expérience avec l&#39;aide de l&#39;IA</description>
 		<generator>Hugo</generator>
 		<language>fr-fr</language>
 		
 		
 		
 		
-			<lastBuildDate>Mon, 28 Sep 2026 00:00:00 +0000</lastBuildDate>
+			<lastBuildDate>Sat, 03 Oct 2026 00:00:00 +0000</lastBuildDate>
 		
 			<atom:link href="http://localhost:1313/tags/relance/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>De la discussion à un copier-coller</title>
+				<link>http://localhost:1313/posts/de-la-discussion-%C3%A0-un-copier-coller/</link>
+				<pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/posts/de-la-discussion-%C3%A0-un-copier-coller/</guid>
+				<description>Comment, par une déduction toute personnelle, je suis arrivé à une solution simple, alors que l&amp;rsquo;IA me proposait des lignes de codes.</description>
+			</item>
 			<item>
 				<title>J&#39;ai créé une page Actuel</title>
 				<link>http://localhost:1313/posts/jai-cr%C3%A9%C3%A9-une-page-actuel/</link>
 				<pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/posts/jai-cr%C3%A9%C3%A9-une-page-actuel/</guid>
 				<description>Pourquoi j&amp;rsquo;ai créé une page &amp;lsquo;Actuel&amp;rsquo;</description>
+			</item>
+			<item>
+				<title>Redémarrer mon blog</title>
+				<link>http://localhost:1313/posts/redemarrage_blog/</link>
+				<pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/posts/redemarrage_blog/</guid>
+				<description>&lt;h1 id=&#34;il-est-temps-de-recommencer&#34;&gt;Il est temps de recommencer&lt;/h1&gt;&#xA;&lt;p&gt;Cela fait plusieurs années que ce blog est resté en jachère. Je l&amp;rsquo;avais même un peu oublié. Et aujourd&amp;rsquo;hui, j&amp;rsquo;ai eu envie d&amp;rsquo;y revenir. Mais, je ne l&amp;rsquo;ai pas fait seul. Je me suis tourné vers l&amp;rsquo;intelligence artificielle pour m&amp;rsquo;aider. J&amp;rsquo;ai sollicité &lt;a href=&#34;https://lumo.proton.me/guest&#34;&gt;Lumo&lt;/a&gt; qui est le service proposé par Proton. Contrairement aux géants Chatgpt, Claude ou Gemini, Proton met en avant la confidentialité des données. L&amp;rsquo;assistant conversationnel m&amp;rsquo;a permis de repérer des erreurs et de les corriger. Le blog connaît donc un nouveau départ. Je m&amp;rsquo;adresserai à l&amp;rsquo;IA pour le faire évoluer. C&amp;rsquo;est du moins le projet.&lt;/p&gt;</description>
 			</item>
 	</channel>
 </rss>

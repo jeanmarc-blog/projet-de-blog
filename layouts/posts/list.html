@@ -2,6 +2,8 @@
 
 <h1>{{ .Title }}</h1>
 
+<p>Liste des articles déjà parus du plus récent au plus ancien :</p>
+
 <ul>
         {{ range first 100 (where .Site.RegularPages "Section" "posts") }}
             <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
