@@ -10,16 +10,9 @@
 		
 		
 		
-			<lastBuildDate>Mon, 10 Jul 2023 15:32:37 +0200</lastBuildDate>
+			<lastBuildDate>Mon, 31 Aug 2020 15:32:37 +0200</lastBuildDate>
 		
 			<atom:link href="http://localhost:1313/tags/outils/index.xml" rel="self" type="application/rss+xml" />
-			<item>
-				<title>C&#39;est reparti... ou pas !</title>
-				<link>http://localhost:1313/posts/juillet-2023/</link>
-				<pubDate>Mon, 10 Jul 2023 15:32:37 +0200</pubDate>
-				<guid>http://localhost:1313/posts/juillet-2023/</guid>
-				<description>&lt;h1 id=&#34;reprise-en-2023&#34;&gt;Reprise en 2023&lt;/h1&gt;&#xA;&lt;p&gt;Un nouveau post pour voir si c&amp;rsquo;est possible de mettre à niveau directement sur Github.&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;Mais pourquoi donc reprendre ce truc qui ne sert à rien ou presque ?&lt;/em&gt;&lt;/p&gt;</description>
-			</item>
 			<item>
 				<title>Disqus pour les commentaires</title>
 				<link>http://localhost:1313/posts/commentaires/</link>

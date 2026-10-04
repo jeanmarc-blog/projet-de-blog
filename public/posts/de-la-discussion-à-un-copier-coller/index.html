@@ -194,7 +194,7 @@
     
     #<a href="http://localhost:1313/tags/ia/">IA</a>&nbsp;
     
-    #<a href="http://localhost:1313/tags/relance/">relance</a>&nbsp;
+    #<a href="http://localhost:1313/tags/construction/">construction</a>&nbsp;
     
   </span>
   
@@ -205,20 +205,34 @@
 
   <div class="post-content"><div>
         <h2 id="introduction">Introduction.<a href="#introduction" class="hanchor" ariaLabel="Anchor">&#8983;</a> </h2>
-<p>Il y a quelques jours, j&rsquo;ai eu envie de créer une page intitulé <em>Blog</em> sur mon carnet. L&rsquo;idée était de lister les articles déjà parus, puisque la page d&rsquo;accueil ne montrait que les 5 derniers. J&rsquo;aurais pu, évidemment, allonger la liste des articles sur cette page. C&rsquo;est d&rsquo;ailleurs la première solution que l&rsquo;IA m&rsquo;a suggérée. Mais, je voulais une page dédiée.</p>
+<p>Il y a quelques jours, j&rsquo;ai eu envie de créer une page intitulée <em>Blog</em> sur mon carnet. L&rsquo;idée était de lister les articles déjà parus, puisque la page d&rsquo;accueil ne montrait que les 5 derniers. J&rsquo;aurais pu, évidemment, allonger la liste des articles sur cette page. C&rsquo;est d&rsquo;ailleurs la première solution que l&rsquo;IA m&rsquo;a suggérée. Mais, je voulais une page dédiée.</p>
 <h2 id="premières-tentatives">Premières tentatives.<a href="#premières-tentatives" class="hanchor" ariaLabel="Anchor">&#8983;</a> </h2>
 <p>Le flux de discussion m&rsquo;a d&rsquo;abord conduit à créer une page en html. Puis à y insérer quelques lignes. Le premier résultat a été les articles entiers mis bout à bout. C&rsquo;était un premier pas, mais je souhaitais une liste à puces, plus élégante, à mon sens. Et c&rsquo;est là que les choses se sont un peu gâtées avec l&rsquo;IA qui me proposait du code que j&rsquo;entrais. Je relançais le blog et le résultat n&rsquo;était pas là. Il y avait des puces, mais les titres des articles n&rsquo;étaient pas cliquables. Cela ne me servait donc à rien ! J&rsquo;essayais, au moyen de captures d&rsquo;écran de montrer le problème et l&rsquo;IA ne cessait de prétendre qu&rsquo;on était à une ligne de la solution… Sauf que cette ligne, je ne l&rsquo;ai jamais vue.</p>
 <h2 id="une-déduction-toute-humaine">Une déduction toute humaine.<a href="#une-déduction-toute-humaine" class="hanchor" ariaLabel="Anchor">&#8983;</a> </h2>
 <p>J&rsquo;ai donc laissé tomber la discussion et la réflexion, résigné.
-Après quelques heures, une idée m&rsquo;est venue, sans que j&rsquo;y pensais vraiment :</p>
+Après quelques heures, une idée m&rsquo;est venue, sans que j&rsquo;y ai vraiment pensé  :</p>
 <blockquote>
 <p>Si la page d&rsquo;accueil affiche les 5 derniers articles, ce même code devrait avoir le même effet sur la page <em>Blog</em>, en augmentant le nombre d&rsquo;items.</p>
 </blockquote>
-<p>Ce que j&rsquo;ai fait. Au lieu de la valeur &lsquo;5&rsquo;, j&rsquo;ai écrit &lsquo;100&rsquo;, sachant que j&rsquo;ai moins de 100 articles publiés. Ce nombre pourra être revu à la hausse si mon blog atteint la centaine d&rsquo;articles. Et cela a parfaitement marché. Le résultat est celui que je voulais.
-<a href="/posts/">Ma page <em>Blog</em></a> présente bien une liste à puces des articles avec les titres.</p>
+<p>Je me suis donc penché sur ces quelques lignes :</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"><code class="language-go-html-template" data-lang="go-html-template"><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e">{{</span> <span style="color:#66d9ef">range</span> <span style="color:#a6e22e">first</span> <span style="color:#a6e22e">5</span> <span style="color:#f92672">(</span><span style="color:#a6e22e">where</span> <span style="color:#a6e22e">.Site.RegularPages</span> <span style="color:#e6db74">&#34;Section&#34;</span> <span style="color:#e6db74">&#34;posts&#34;</span><span style="color:#f92672">)</span> <span style="color:#75715e">}}</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e">{{</span> <span style="color:#a6e22e">.RelPermalink</span> <span style="color:#75715e">}}</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e">{{</span> <span style="color:#66d9ef">end</span> <span style="color:#75715e">}}</span>
+</span></span></code></pre></div><p>En y regardant de plus près, j&rsquo;ai remarqué le &lsquo;5&rsquo; qui définit le nombre d&rsquo;occurrences. Au lieu de la valeur &lsquo;5&rsquo;, j&rsquo;ai écrit &lsquo;100&rsquo;, sachant que j&rsquo;ai moins de 100 articles publiés. Ce nombre pourra être revu à la hausse si mon blog atteint la centaine d&rsquo;articles. Et cela a parfaitement marché. Le résultat est celui que je voulais.</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"><code class="language-go-html-template" data-lang="go-html-template"><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e">{{</span> <span style="color:#66d9ef">range</span> <span style="color:#a6e22e">first</span> <span style="color:#a6e22e">100</span> <span style="color:#f92672">(</span><span style="color:#a6e22e">where</span> <span style="color:#a6e22e">.Site.RegularPages</span> <span style="color:#e6db74">&#34;Section&#34;</span> <span style="color:#e6db74">&#34;posts&#34;</span><span style="color:#f92672">)</span> <span style="color:#75715e">}}</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e">{{</span> <span style="color:#a6e22e">.RelPermalink</span> <span style="color:#75715e">}}</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e">{{</span> <span style="color:#66d9ef">end</span> <span style="color:#75715e">}}</span>
+</span></span></code></pre></div><p><a href="/posts/">Ma page <em>Blog</em></a> présente bien une liste à puces des articles avec les titres.</p>
+<p>Ce que j&rsquo;en ai compris : les lignes de code demandent à Hugo d&rsquo;afficher les 100 premières entrées du dossier &ldquo;<em>posts</em>&rdquo;, celui qui contient les fichiers textes des articles.</p>
 <h2 id="conclusion">Conclusion.<a href="#conclusion" class="hanchor" ariaLabel="Anchor">&#8983;</a> </h2>
-<p>C&rsquo;est un apprentissage instructif : parfois, la logique et la déduction humaines font plus que la technique et l&rsquo;IA. Au passage, j&rsquo;ai aussi compris le code qui a servi à réaliser cette page.</p>
-<p>Inutile de préciser que ma motivation a été renouvelée par cette &ldquo;réussite&rdquo;.</p>
+<p>C&rsquo;est un apprentissage instructif : l&rsquo;intelligence artificielle m&rsquo;a proposé des réponses ou des solutions basées sur la technique, avec parfois des lignes incompréhensibles, complexifiant au passage les étapes. Ces tâtonnements m&rsquo;ont conduit à m&rsquo;intéresser à la construction du code et surtout à repérer <strong>l&rsquo;élément essentiel</strong>, ici le nombre de titres. J&rsquo;en arrive à cette conclusion : parfois, la logique et la déduction humaines font plus que la technique et l&rsquo;IA. Au passage, j&rsquo;ai aussi compris le code qui a servi à réaliser cette page.</p>
+<p>Cette petite réussite a renouvelé ma motivation à continuer à tenir à jour ce blog.</p>
 
       </div></div>
 
