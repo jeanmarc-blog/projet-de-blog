@@ -1,5 +1,4 @@
 baseurl = "https://carnetdeblog.netlify.app/"
-languageCode = "fr-fr"
 defaultContentLanguage = "fr"
 theme = "terminal"
 paginate = 3
@@ -14,7 +13,7 @@ paginate = 3
 
 [languages]
   [languages.fr]
-    languageName = "Français"
+    label = "Français"
     title = "Mon carnet de blog | Une expérience avec l'aide de l'IA"
     keywords = ""
     copyright = ""
