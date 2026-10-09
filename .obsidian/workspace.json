@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "0e440caffd47cd5a",
+        "id": "acaa422c05711a1c",
         "type": "tabs",
         "children": [
           {
-            "id": "c3ec1db9f6a4b7b6",
+            "id": "bc3d60c591ff1c13",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/posts/relance-2026.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "relance-2026"
+              "title": "Nouvel onglet"
             }
           }
         ]
@@ -185,11 +181,13 @@
       "bases:Créer une nouvelle base": false
     }
   },
-  "active": "c3ec1db9f6a4b7b6",
+  "active": "bc3d60c591ff1c13",
   "lastOpenFiles": [
+    "content/posts/relance-2026.md",
+    "tags/relance.md",
+    "tags",
     "content/posts/de la discussion à un copier-coller.md",
     "content/posts/j'ai créé une page Actuel.md",
-    "content/posts/relance-2026.md",
     "content/posts/Redemarrage_blog.md",
     "content/posts/ma-petite-boite-a-outils.md",
     "public/img/blog_local.jpg",
@@ -219,7 +217,6 @@
     "content/posts/Relance 2026",
     "layouts/exemple.html.txt",
     "layouts/exemple.txt",
-    "layouts/Nouveau Document texte.txt",
     "content/mon-parcours.md",
     "content/posts/mesures.md",
     "content/posts/hello-le-monde.md",
@@ -227,7 +224,6 @@
     "content/posts/Juillet-2023.md",
     "content/posts/facebook.md",
     "content/posts/lancer-un-blog.md",
-    "layouts/posts/list.html.md",
-    "layouts/posts.md"
+    "layouts/posts/list.html.md"
   ]
 }

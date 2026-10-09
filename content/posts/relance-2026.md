@@ -48,5 +48,5 @@ Une fois les soucis techniques résolus, je peux me consacrer à ce qui sera le 
 ### Pour aller plus loin
 
 * [AI](/tags/ia)
-* [Relance](tags/relance)
+* [Relance](/tags/relance)
 * [Mon premier article sur ce blog](ma-petite-boite-a-outils)
