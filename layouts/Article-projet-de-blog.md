@@ -4,6 +4,7 @@ date:
 draft: true
 tags:
 summary: ""
+cover:
 ---
 
 ## Introduction
@@ -13,3 +14,5 @@ summary: ""
 ## Développement
 
 ## Conclusion
+
+### Pour aller plus loin
