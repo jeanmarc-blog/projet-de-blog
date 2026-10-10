@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "acaa422c05711a1c",
+        "id": "fa32c85253cbe487",
         "type": "tabs",
         "children": [
           {
-            "id": "bc3d60c591ff1c13",
+            "id": "98b53e8835d1b024",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -181,9 +181,13 @@
       "bases:Créer une nouvelle base": false
     }
   },
-  "active": "bc3d60c591ff1c13",
+  "active": "98b53e8835d1b024",
   "lastOpenFiles": [
+    "posts/janvier.md",
     "content/posts/relance-2026.md",
+    "posts",
+    "content/posts/janvier.md",
+    "content/posts/reprise-du-blog.md",
     "tags/relance.md",
     "tags",
     "content/posts/de la discussion à un copier-coller.md",
@@ -195,7 +199,6 @@
     "content/posts/mes-blogs.md",
     "content/posts/commentaires.md",
     "relance-du-blog.md",
-    "content/posts/reprise-du-blog.md",
     "layouts/Article-projet-de-blog.md",
     "public/posts/relance-2026/index.html",
     "public/posts/relance-2026",
@@ -203,7 +206,6 @@
     "public/posts/relance2026/relance-2026",
     "content/posts/mars.md",
     "public/img/Outils26.jpg",
-    "content/posts/janvier.md",
     "README.md",
     "LISEZMOI.md",
     "blog.md",
@@ -216,14 +218,12 @@
     "content/posts/Relance 2026/Outils26.jpg",
     "content/posts/Relance 2026",
     "layouts/exemple.html.txt",
-    "layouts/exemple.txt",
     "content/mon-parcours.md",
     "content/posts/mesures.md",
     "content/posts/hello-le-monde.md",
     "content/posts/fausses-excuses.md",
     "content/posts/Juillet-2023.md",
     "content/posts/facebook.md",
-    "content/posts/lancer-un-blog.md",
-    "layouts/posts/list.html.md"
+    "content/posts/lancer-un-blog.md"
   ]
 }

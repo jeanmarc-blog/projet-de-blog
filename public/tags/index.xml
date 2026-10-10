@@ -10,49 +10,42 @@
 		
 		
 		
-			<lastBuildDate>Wed, 07 Oct 2026 00:00:00 +0000</lastBuildDate>
+			<lastBuildDate>Fri, 09 Oct 2026 00:00:00 +0000</lastBuildDate>
 		
 			<atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Construction</title>
 				<link>http://localhost:1313/tags/construction/</link>
-				<pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
+				<pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/tags/construction/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Écriture</title>
+				<link>http://localhost:1313/tags/%C3%A9criture/</link>
+				<pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/%C3%A9criture/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>IA</title>
 				<link>http://localhost:1313/tags/ia/</link>
-				<pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
+				<pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/tags/ia/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Relance</title>
 				<link>http://localhost:1313/tags/relance/</link>
-				<pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
+				<pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/tags/relance/</guid>
 				<description></description>
 			</item>
 			<item>
-				<title>BLOG</title>
+				<title>Blog</title>
 				<link>http://localhost:1313/tags/blog/</link>
 				<pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/tags/blog/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Écriture</title>
-				<link>http://localhost:1313/tags/%C3%A9criture/</link>
-				<pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/tags/%C3%A9criture/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>EXPÉRIENCE</title>
-				<link>http://localhost:1313/tags/exp%C3%A9rience/</link>
-				<pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/tags/exp%C3%A9rience/</guid>
 				<description></description>
 			</item>
 			<item>

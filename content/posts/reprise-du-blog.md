@@ -2,7 +2,6 @@
 title = "Reprise du blog"
 date = "2020-11-21T10:17:04+01:00"
 author = "Jean-Marc"
-authorTwitter = "" #do not include @
 cover = "img/pencil.jpg"
 tags = ["PROJET", "BLOG", "CARNET"]
 keywords = ["", ""]

@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Mon, 28 Sep 2026 00:00:00 +0000</lastBuildDate>
+			<lastBuildDate>Fri, 09 Oct 2026 00:00:00 +0000</lastBuildDate>
 		
 			<atom:link href="http://localhost:1313/tags/%C3%A9criture/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Je relance ce blog en 2026</title>
+				<link>http://localhost:1313/posts/relance-2026/</link>
+				<pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/posts/relance-2026/</guid>
+				<description>Les raisons qui me poussent à relancer ce blog</description>
+			</item>
 			<item>
 				<title>J&#39;ai créé une page Actuel</title>
 				<link>http://localhost:1313/posts/jai-cr%C3%A9%C3%A9-une-page-actuel/</link>
