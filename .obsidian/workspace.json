@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/carnets/octobre 2026.md",
+                "file": "content/carnets/_index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "octobre 2026"
+              "title": "_index"
             }
           }
         ]
@@ -187,8 +187,8 @@
   },
   "active": "98b53e8835d1b024",
   "lastOpenFiles": [
-    "layouts/Carnet du mois.md",
     "content/carnets/octobre 2026.md",
+    "layouts/Carnet du mois.md",
     "public/img/sonogno26.jpg",
     "themes/terminal/static/img/sonogno26.jpg",
     "themes/terminal/static/img/sonogno.jpg",
