@@ -1,0 +1,16 @@
+{{ define "main" }}
+
+<h1>{{ .Title }}</h1>
+
+<p>Ces carnets sont à la fois de petits bilans de ce que j'ai appris, découvert ou laisssé durant le mois écoulé et une sélection de thèmes qui m'ont occupé durant les dernières semaines.</p>
+
+<p>J'ai déjà essayé différentes formes de <a href="/tags/carnet/">carnets mensuels</a>.Je m'y remets.</p>
+
+<h2>Liste des carnets parus depuis 2026 du plus récent au plus ancien :</h2>
+
+   <ul>
+        {{ range first 100 (where .Site.RegularPages "Section" "carnets") }}
+            <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+        {{ end }}
+    </ul>
+{{ end }}

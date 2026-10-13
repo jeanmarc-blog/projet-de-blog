@@ -7,7 +7,7 @@ tags:
   - relance
   - écriture
   - IA
-summary: Pourquoi j'ai créé une page 'Actuel'
+description: Pourquoi j'ai créé une page 'Actuel'
 ---
 
 ## Introduction

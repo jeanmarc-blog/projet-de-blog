@@ -1,10 +1,19 @@
 {{ define "main" }}
 <div class="home-page">
 <h1>{{ .Site.Title }}</h1>
-<p><em>Un blog personnel dédié l'exploration numérique, à l'écriture et à l'apprentissage, assisté par l'IA.</em></p>
+<p><em>Un journal personnel dédié l'exploration numérique, à l'écriture et à l'apprentissage, assisté par l'IA.</em></p>
 
 <h2>Bienvenue sur mon carnet de blog</h2>
-<p>Une expérience de co-construction d'un blog entre l'intelligence humaine et <a href="/tags/ia/">l'intelligence artificielle</a>. Est-ce que c'est seulement possible ? Souhaitable ? Pertinent ? J'explore ces pistes sans pression ni à-priori.</p>
+<p>Je suis Jean-Marc Leresche et ceci est mon blog. Je le conçois comme une expérience de co-construction entre l'intelligence humaine et <a href="/tags/ia/">l'intelligence artificielle</a>. Est-ce que c'est seulement possible ? Souhaitable ? Pertinent ? J'explore ces pistes sans pression ni à-priori.</p>
+
+ <h2>Articles récents</h2>
+
+    <ul>
+        {{ range first 5 (where .Site.RegularPages "Section" "posts") }}
+            <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+        {{ end }}
+    </ul>
+
 
 <h2>Ce blog se veut "expérimental"</h2> 
 <p>
@@ -21,17 +30,5 @@ Ce blog est un peu "fourre-tout" et c'est voulu ! Vous trouverez des sujets dive
 Pour en savoir un peu plus sur ce qui m'anime, je vous invite à parcourir ma <a href="/philosophie/">philosophie</a> qui donne l'esprit de ce carnet de blog, ainsi que <a href="perspectives">quelques perspectives</a> sur son évolution.
 </p>
 
-<p>
-Mon blog est actuellement en reconstruction.
-</p>
-    
-    <hr>
-    
-    <h2>Articles récents</h2>
-    <ul>
-        {{ range first 5 (where .Site.RegularPages "Section" "posts") }}
-            <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
-        {{ end }}
-    </ul>
 </div>
 {{ end }}

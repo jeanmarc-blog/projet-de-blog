@@ -6,7 +6,7 @@ tags:
   - blog
   - IA
   - construction
-summary: Comment, par une déduction toute personnelle, je suis arrivé à une solution simple, alors que l'IA me proposait des lignes de codes.
+description: Comment, par une déduction toute personnelle, je suis arrivé à une solution simple, alors que l'IA me proposait des lignes de codes.
 ---
 
 ## Introduction.

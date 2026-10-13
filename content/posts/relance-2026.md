@@ -8,7 +8,7 @@ tags:
   - IA
   - relance
   - écriture
-summary: Les raisons qui me poussent à relancer ce blog
+description: Les raisons qui me poussent à relancer ce blog
 cover: /img/Outils26.jpg
 ---
 *Image de couverture générée par IA (Copilot)*

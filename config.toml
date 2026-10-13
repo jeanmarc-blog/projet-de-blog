@@ -14,7 +14,7 @@ paginate = 3
 [languages]
   [languages.fr]
     label = "Français"
-    title = "Mon carnet de blog | Une expérience avec l'aide de l'IA"
+    title = "Mon carnet de blog"
     keywords = ""
     copyright = ""
     menuMore = "En savoir plus"
@@ -46,23 +46,9 @@ paginate = 3
         url = "/contact"
 
       [[languages.fr.menu.main]]
-        identifier = "philosophie"
-        name = "philosophie"
-        url = "/philosophie"
+        identifier = "Carnets"
+        name = "carnets"
+        url = "/carnets/"
 
-      [[languages.fr.menu.main]]
-        identifier = "parcours"
-        name = "parcours"
-        url = "/mon-parcours"
-
-      [[languages.fr.menu.main]]
-        identifier = "perspectives"
-        name = "perspectives"
-        url = "/perspectives"
-
-      [[languages.fr.menu.main]]
-        identifier = "sources"
-        name = "sources"
-        url = "/sources"
 
 disqusShortname = "https-carnetdeblog-netlify-app"
