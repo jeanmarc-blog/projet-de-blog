@@ -1,7 +1,7 @@
 ---
 title: Obsidian rend la rédaction facile
 date: 2026-10-14
-draft: true
+draft: false
 tags:
   - écriture
   - relance

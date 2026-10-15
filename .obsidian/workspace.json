@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/mon-parcours.md",
+                "file": "content/posts/Obsidian.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "mon-parcours"
+              "title": "Obsidian"
             }
           }
         ]
@@ -175,7 +175,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "content/mon-parcours.md"
+                "file": "content/posts/Obsidian.md"
               },
               "icon": "lucide-info",
               "title": "Propriétés du fichier"
@@ -201,6 +201,7 @@
   },
   "active": "98b53e8835d1b024",
   "lastOpenFiles": [
+    "content/mon-parcours.md",
     "content/posts/Obsidian.md",
     "public/img/obsidiantitre.jpg",
     "content/posts/relance-2026.md",
@@ -212,7 +213,6 @@
     "public/posts/obsidian/index.html",
     "public/posts/obsidian",
     "posts/relance-2026.md",
-    "content/mon-parcours.md",
     "content/posts/Redemarrage_blog.md",
     "content/posts/premiers-pas-avec-github.md",
     "content/posts/j'ai créé une page Actuel.md",
