@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Fri, 09 Oct 2026 00:00:00 +0000</lastBuildDate>
+			<lastBuildDate>Wed, 14 Oct 2026 00:00:00 +0000</lastBuildDate>
 		
 			<atom:link href="http://localhost:1313/tags/ia/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Obsidian rend la rédaction facile</title>
+				<link>http://localhost:1313/posts/obsidian/</link>
+				<pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/posts/obsidian/</guid>
+				<description>&lt;p&gt;&lt;em&gt;Image générée par ChatGPT&lt;/em&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;J&amp;rsquo;ai découvert à nouveau un outil d&amp;rsquo;écriture que j&amp;rsquo;avais testé il y a plusieurs années, mais sans conviction. Aujourd&amp;rsquo;hui, &lt;em&gt;Obsidian&lt;/em&gt;, puisque c&amp;rsquo;est de lui qu&amp;rsquo;il s&amp;rsquo;agit, est devenu mon meilleur outil pour écrire sans distraction. Ce n&amp;rsquo;est pas un traitement de texte, mais l&amp;rsquo;essentiel y est. Je vous partage mon cheminement entre indifférence et vrai intérêt.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;Je n&amp;rsquo;ai jamais appris de langage informatique de programmation. J&amp;rsquo;ai plutôt découvert certaines pratiques par tâtonnements, par essais et par conclusion. Depuis la diffusion grand public de l&amp;rsquo;intelligence artificielle, mon apprentissage a pris une nouvelle tournure, avec un gain de temps, mais aussi et surtout plus de compréhension.&lt;/p&gt;</description>
+			</item>
 			<item>
 				<title>Je relance ce blog en 2026</title>
 				<link>http://localhost:1313/posts/relance-2026/</link>

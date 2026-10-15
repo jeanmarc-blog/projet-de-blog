@@ -10,9 +10,23 @@
 		
 		
 		
-			<lastBuildDate>Fri, 09 Oct 2026 00:00:00 +0000</lastBuildDate>
+			<lastBuildDate>Wed, 14 Oct 2026 00:00:00 +0000</lastBuildDate>
 		
 			<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Obsidian rend la rédaction facile</title>
+				<link>http://localhost:1313/posts/obsidian/</link>
+				<pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/posts/obsidian/</guid>
+				<description>&lt;p&gt;&lt;em&gt;Image générée par ChatGPT&lt;/em&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;J&amp;rsquo;ai découvert à nouveau un outil d&amp;rsquo;écriture que j&amp;rsquo;avais testé il y a plusieurs années, mais sans conviction. Aujourd&amp;rsquo;hui, &lt;em&gt;Obsidian&lt;/em&gt;, puisque c&amp;rsquo;est de lui qu&amp;rsquo;il s&amp;rsquo;agit, est devenu mon meilleur outil pour écrire sans distraction. Ce n&amp;rsquo;est pas un traitement de texte, mais l&amp;rsquo;essentiel y est. Je vous partage mon cheminement entre indifférence et vrai intérêt.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;Je n&amp;rsquo;ai jamais appris de langage informatique de programmation. J&amp;rsquo;ai plutôt découvert certaines pratiques par tâtonnements, par essais et par conclusion. Depuis la diffusion grand public de l&amp;rsquo;intelligence artificielle, mon apprentissage a pris une nouvelle tournure, avec un gain de temps, mais aussi et surtout plus de compréhension.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Carnet du mois • Octobre 2026</title>
+				<link>http://localhost:1313/carnets/octobre-2026/</link>
+				<pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/carnets/octobre-2026/</guid>
+				<description>&lt;blockquote&gt;&#xA;&lt;p&gt;Chaque mois, je garde quelques traces écrites de ce qu&amp;rsquo;ont été les semaines passées. À terme, cela pourra devenir un vrai journal de bord. J&amp;rsquo;y rassemble quelques réflexions personnelles. Vous pourrez les découvrir dans &lt;a href=&#34;http://localhost:1313/tags/carnet/&#34;&gt;cette liste&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;h2 id=&#34;prologue&#34;&gt;Prologue&lt;/h2&gt;&#xA;&lt;p&gt;En octobre, je reprends le format &lt;em&gt;Carnet&lt;/em&gt; que j&amp;rsquo;ai inauguré il y a plusieurs années. À l&amp;rsquo;époque, il me permettait de garder une trace de ce qui m&amp;rsquo;avait occupé. Aujourd&amp;rsquo;hui, il retrouve sa place, avec une forme renouvelée. Celui-ci paraîtra peut-être trop technique à des non-initiés, trop superficiel à des érudits. C&amp;rsquo;est un risque et une dimension que j&amp;rsquo;assume.&lt;/p&gt;</description>
+			</item>
 			<item>
 				<title>Je relance ce blog en 2026</title>
 				<link>http://localhost:1313/posts/relance-2026/</link>
@@ -40,6 +54,13 @@
 				<pubDate>Sat, 26 Sep 2026 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/actuel/</guid>
 				<description>&lt;p&gt;&lt;em&gt;Mise à jour du 26.09.2026&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;Cette page s&amp;rsquo;inspire du concept &lt;a href=&#34;https://sive.rs/nowff&#34;&gt;&amp;quot;&lt;em&gt;Now&lt;/em&gt;&amp;quot;&lt;/a&gt;. Elle reflète ce qui occupe mon attention aujourd&amp;rsquo;hui. Elle est mise à jour lorsque mes priorités changent.&lt;/p&gt;&#xA;&lt;h2 id=&#34;le-blog&#34;&gt;Le blog&lt;/h2&gt;&#xA;&lt;p&gt;Je reconstruis progressivement ce carnet de blog, sans repartir pour autant de zéro. Mon objectif est de mieux comprendre le fonctionnement d&amp;rsquo;un site statique et de publier régulièrement plutôt que parfaitement. Je progresse par tâtonnements, par erreurs, par petites touches. Ce n&amp;rsquo;est pas parfait, et cela ne le sera sans doute jamais. Ce n&amp;rsquo;est pas ce que je recherche d&amp;rsquo;ailleurs.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Redémarrer mon blog</title>
+				<link>http://localhost:1313/posts/redemarrage_blog/</link>
+				<pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/posts/redemarrage_blog/</guid>
+				<description>&lt;h1 id=&#34;il-est-temps-de-recommencer&#34;&gt;Il est temps de recommencer&lt;/h1&gt;&#xA;&lt;p&gt;Cela fait plusieurs années que ce blog est resté en jachère. Je l&amp;rsquo;avais même un peu oublié. Et aujourd&amp;rsquo;hui, j&amp;rsquo;ai eu envie d&amp;rsquo;y revenir. Mais, je ne l&amp;rsquo;ai pas fait seul. Je me suis tourné vers l&amp;rsquo;intelligence artificielle pour m&amp;rsquo;aider. J&amp;rsquo;ai sollicité &lt;a href=&#34;https://lumo.proton.me/guest&#34;&gt;Lumo&lt;/a&gt; qui est le service proposé par Proton. Contrairement aux géants Chatgpt, Claude ou Gemini, Proton met en avant la confidentialité des données. L&amp;rsquo;assistant conversationnel m&amp;rsquo;a permis de repérer des erreurs et de les corriger. Le blog connaît donc un nouveau départ. Je m&amp;rsquo;adresserai à l&amp;rsquo;IA pour le faire évoluer. C&amp;rsquo;est du moins le projet.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Juillet 2021</title>
@@ -196,11 +217,11 @@
 				<description>&lt;h2 id=&#34;un-projet-ouvert&#34;&gt;Un projet ouvert&lt;/h2&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;em&gt;Si tu veux aider un blogueur, tu peux lui livrer un site clé en main ou lui enseigner les bonnes pratiques.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Mon projet de blog est un projet ouvert. Rien n&amp;rsquo;est caché, je ne veux rien cacher. Je le souhaite évolutif, non seulement par mes propres réflexions et découvertes, mais aussi par celles de mes &lt;em&gt;contributeurs&lt;/em&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Si sur le contenu, je pense maîtriser ce que je veux dire et comment le dire, il me reste à apprendre les bases techniques pour le faire et notamment du code (arrgh, c&amp;rsquo;est peut-être là que les choses se gâtent&amp;hellip;).&lt;/p&gt;</description>
 			</item>
 			<item>
-				<title>Mon Parcours</title>
+				<title>Mon parcours</title>
 				<link>http://localhost:1313/mon-parcours/</link>
 				<pubDate>Mon, 29 Jun 2020 14:57:48 +0200</pubDate>
 				<guid>http://localhost:1313/mon-parcours/</guid>
-				<description>&lt;img src=&#34;http://localhost:1313/img/hello.jpg&#34;  alt=&#34;Hello Friend&#34;  class=&#34;center&#34;  style=&#34;border-radius: 8px;&#34;  /&gt;&#xD;&#xA;&#xD;&#xA;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;em&gt;Dis-moi d&amp;rsquo;où tu viens et je te dirai où tu peux aller.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Quelques repères pour mieux situer qui je suis et d&amp;rsquo;où je viens.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;École supérieure de commerce de La Chaux-de-Fonds&lt;/li&gt;&#xA;&lt;li&gt;Enseignant privé, soutien scolaire&lt;/li&gt;&#xA;&lt;li&gt;Écrivain public&lt;/li&gt;&#xA;&lt;li&gt;Enseignant d&amp;rsquo;informatique pour débutants&lt;/li&gt;&#xA;&lt;li&gt;Formation théologique&lt;/li&gt;&#xA;&lt;li&gt;Diacre&lt;/li&gt;&#xA;&lt;li&gt;Auteur-écrivain&lt;/li&gt;&#xA;&lt;li&gt;Blogueur&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Intérêt pour la lecture, l&amp;rsquo;informatique, la communication, la réflexion et la rencontre sous toutes ses formes.&lt;/p&gt;</description>
+				<description>&lt;p&gt;&lt;em&gt;mise à jour le 15 octobre 2026&lt;/em&gt;&lt;/p&gt;&#xA;&#xD;&#xA;  &lt;img src=&#34;http://localhost:1313/img/hello.jpg&#34;  alt=&#34;Hello Friend&#34;  class=&#34;center&#34;  style=&#34;border-radius: 16px;&#34;  /&gt;&#xD;&#xA;&#xD;&#xA;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;em&gt;Dis-moi d’où tu viens et je te dirai où tu peux aller.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;h2 id=&#34;quelques-repères-pour-mieux-situer-qui-je-suis-et-doù-je-viens&#34;&gt;Quelques repères pour mieux situer qui je suis et d&amp;rsquo;où je viens.&lt;/h2&gt;&#xA;&lt;p&gt;Voici quelques jalons de mon parcours professionnel :&lt;/p&gt;&#xA;&lt;h3 id=&#34;enseigner-et-écrire-déjà&#34;&gt;enseigner et écrire (déjà)&lt;/h3&gt;&#xA;&lt;p&gt;J&amp;rsquo;ai suivi ma scolarité obligatoire au Locle, dans le Jura neuchâtelois (Suisse). J&amp;rsquo;ai ensuite obtenu ma maturité à l&amp;rsquo;École supérieure de commerce de La Chaux-de-Fonds en 1992. Un peu par hasard, je me suis improvisé enseignant privé, dispensant des leçons de soutien scolaire de français et d&amp;rsquo;allemand à des élèves de la primaire au secondaire supérieur et à des adultes allophones. Répondant à une demande croissante dans l&amp;rsquo;aide à la rédaction, j&amp;rsquo;ai ajouté la corde d&amp;rsquo;écrivain public à mon arc, puis d&amp;rsquo;enseignant d&amp;rsquo;informatique pour débutants. J&amp;rsquo;ai associé ces divers métiers en tant qu&amp;rsquo;indépendant pendant près de quinze ans.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Philosophie de l&#39;auteur</title>

@@ -4,7 +4,7 @@ date: 2026-10-12
 draft: true
 tags:
   - CARNET
-description: Quelques réflexions du mois d'octobre
+description: Quelques réflexions du mois d'octobre rassemblées sous la forme d'un carnet
 cover: /img/machine.jpg
 ---
 > Chaque mois, je garde quelques traces écrites de ce qu'ont été les semaines passées. À terme, cela pourra devenir un vrai journal de bord. J'y rassemble quelques réflexions personnelles. Vous pourrez les découvrir dans [cette liste](/tags/carnet/).
@@ -41,7 +41,7 @@ J'ai lu quelques articles autour de la polémique autour du roman *C'était ça 
 
 Certains comités ont fait le choix de retirer ce livre des papables à une récompense. L'auteur se défend d'avoir eu recours à une IA, expliquant que son style est ancré dans une culture qui lui est propre. Les essais qui ont été faits à la suite de cette histoire ont montré que les détecteurs de textes humains ou IA ne sont pas unanimes et peuvent révéler autant de faux positifs que de faux négatifs (ça vous rappelle quelque chose ?)
 
-Ce que j'en retire tient en quelques mots : les outils (à l'image de Pangram) qui sont censés évaluer à quel degré un texte est rédigé par un humain ou une IA sont justement alimentés par des IA. Ils ne sont que des outils. Trancher la question de qui est à la manœuvre derrière un texte se révèlera toujours plus compliqué, voire impossible. Mais se réfugier derrière les résultats pour le moins discutable d'une machine, c'est lui donner un pouvoir et une autorité qu'elle n'a pas.
+Ce que j'en retire tient en quelques mots : les outils, à l'image de [Pangram](https://tcrouzet.com/2026/09/23/plagiat-IA/), qui sont censés évaluer à quel degré un texte est rédigé par un humain ou une IA sont justement alimentés par des IA. Ils ne sont donc que des outils. Trancher la question de qui est à la manœuvre derrière un texte se révèlera toujours plus compliqué, voire impossible. Mais se réfugier derrière les résultats pour le moins discutables d'une machine, c'est lui donner un pouvoir et une autorité qu'elle n'a pas.
 
 ## Lectures
 

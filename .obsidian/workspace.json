@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/carnets/_index.md",
+                "file": "content/mon-parcours.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "_index"
+              "title": "mon-parcours"
             }
           }
         ]
@@ -117,6 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "themes/terminal/static/img/obsidiancapture.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -159,6 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "themes/terminal/static/img/obsidiancapture.png",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -166,13 +168,25 @@
               "icon": "lucide-list",
               "title": "Plan"
             }
+          },
+          {
+            "id": "85309e44ec95af63",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "content/mon-parcours.md"
+              },
+              "icon": "lucide-info",
+              "title": "Propriétés du fichier"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -187,13 +201,27 @@
   },
   "active": "98b53e8835d1b024",
   "lastOpenFiles": [
+    "content/posts/Obsidian.md",
+    "public/img/obsidiantitre.jpg",
+    "content/posts/relance-2026.md",
+    "themes/terminal/static/img/obsidiantitre.jpg",
+    "public/img/obsidiancapture.png",
+    "themes/terminal/static/img/Outils26.jpg",
+    "img.md",
+    "themes/terminal/static/img/obsidiancapture.png",
+    "public/posts/obsidian/index.html",
+    "public/posts/obsidian",
+    "posts/relance-2026.md",
+    "content/mon-parcours.md",
+    "content/posts/Redemarrage_blog.md",
+    "content/posts/premiers-pas-avec-github.md",
+    "content/posts/j'ai créé une page Actuel.md",
     "content/carnets/octobre 2026.md",
+    "content/carnets/_index.md",
     "layouts/Carnet du mois.md",
     "public/img/sonogno26.jpg",
     "themes/terminal/static/img/sonogno26.jpg",
     "themes/terminal/static/img/sonogno.jpg",
-    "content/posts/j'ai créé une page Actuel.md",
-    "content/posts/relance-2026.md",
     "content/posts/de la discussion à un copier-coller.md",
     "layouts/Article-projet-de-blog.md",
     "content/posts/janvier.md",
@@ -208,28 +236,15 @@
     "public/carnets/octobre-2026/index.html",
     "public/carnets/page",
     "public/carnets/octobre-2026",
-    "public/carnets/index.xml",
-    "public/carnets/index.html",
     "[Écrivains.md",
     "content/posts/reprise-du-blog.md",
     "tags/relance.md",
-    "content/posts/Redemarrage_blog.md",
     "content/posts/ma-petite-boite-a-outils.md",
     "public/img/blog_local.jpg",
     "themes/terminal/static/img/blog_local.jpg",
     "content/posts/mes-blogs.md",
     "content/posts/commentaires.md",
     "relance-du-blog.md",
-    "content/posts/mars.md",
-    "public/img/Outils26.jpg",
-    "README.md",
-    "LISEZMOI.md",
-    "public/posts/relance2026/Outils26.jpg",
-    "content/posts/Relance2026/Outils26.jpg",
-    "content/posts/Relance 2026/index.md",
-    "content/posts/Relance 2026/Outils26.jpg",
-    "content/mon-parcours.md",
-    "content/posts/mesures.md",
-    "content/posts/hello-le-monde.md"
+    "content/posts/mars.md"
   ]
 }
