@@ -28,13 +28,6 @@
 				<description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;En parcourant le web, je suis tombé sur plusieurs blogs et sites qui affichaient une page &amp;lsquo;Actuel&amp;rsquo;, concept qui m&amp;rsquo;était inconnu. Je m&amp;rsquo;y suis intéressé et cette idée m&amp;rsquo;a semblé pertinente, surtout au moment où je relance mon blog statique et où j&amp;rsquo;apprends de nouvelles compétences. La plupart des sites comporte une page &amp;lsquo;À propos&amp;rsquo; ou &amp;lsquo;About&amp;rsquo;, mais la page &amp;lsquo;Actuel&amp;rsquo; est autre chose : elle répond à une question assez simple et tout aussi courante : &lt;strong&gt;Que se passe-t-il dans votre vie en ce moment ?&lt;/strong&gt; Cette question est plus intéressante et plus large que ma présentation personnelle.&lt;/p&gt;</description>
 			</item>
 			<item>
-				<title>Redémarrer mon blog</title>
-				<link>http://localhost:1313/posts/redemarrage_blog/</link>
-				<pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/posts/redemarrage_blog/</guid>
-				<description>&lt;h1 id=&#34;il-est-temps-de-recommencer&#34;&gt;Il est temps de recommencer&lt;/h1&gt;&#xA;&lt;p&gt;Cela fait plusieurs années que ce blog est resté en jachère. Je l&amp;rsquo;avais même un peu oublié. Et aujourd&amp;rsquo;hui, j&amp;rsquo;ai eu envie d&amp;rsquo;y revenir. Mais, je ne l&amp;rsquo;ai pas fait seul. Je me suis tourné vers l&amp;rsquo;intelligence artificielle pour m&amp;rsquo;aider. J&amp;rsquo;ai sollicité &lt;a href=&#34;https://lumo.proton.me/guest&#34;&gt;Lumo&lt;/a&gt; qui est le service proposé par Proton. Contrairement aux géants Chatgpt, Claude ou Gemini, Proton met en avant la confidentialité des données. L&amp;rsquo;assistant conversationnel m&amp;rsquo;a permis de repérer des erreurs et de les corriger. Le blog connaît donc un nouveau départ. Je m&amp;rsquo;adresserai à l&amp;rsquo;IA pour le faire évoluer. C&amp;rsquo;est du moins le projet.&lt;/p&gt;</description>
-			</item>
-			<item>
 				<title>Juillet 2021</title>
 				<link>http://localhost:1313/posts/juillet/</link>
 				<pubDate>Mon, 19 Jul 2021 16:10:43 +0200</pubDate>

@@ -35,13 +35,6 @@
 				<description></description>
 			</item>
 			<item>
-				<title>CARNET</title>
-				<link>http://localhost:1313/tags/carnet/</link>
-				<pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/tags/carnet/</guid>
-				<description></description>
-			</item>
-			<item>
 				<title>Construction</title>
 				<link>http://localhost:1313/tags/construction/</link>
 				<pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
@@ -56,10 +49,10 @@
 				<description></description>
 			</item>
 			<item>
-				<title>EXPÉRIENCE</title>
-				<link>http://localhost:1313/tags/exp%C3%A9rience/</link>
-				<pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/tags/exp%C3%A9rience/</guid>
+				<title>CARNET</title>
+				<link>http://localhost:1313/tags/carnet/</link>
+				<pubDate>Mon, 19 Jul 2021 16:10:43 +0200</pubDate>
+				<guid>http://localhost:1313/tags/carnet/</guid>
 				<description></description>
 			</item>
 			<item>

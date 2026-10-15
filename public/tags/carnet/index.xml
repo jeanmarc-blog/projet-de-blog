@@ -10,16 +10,9 @@
 		
 		
 		
-			<lastBuildDate>Mon, 12 Oct 2026 00:00:00 +0000</lastBuildDate>
+			<lastBuildDate>Mon, 19 Jul 2021 16:10:43 +0200</lastBuildDate>
 		
 			<atom:link href="http://localhost:1313/tags/carnet/index.xml" rel="self" type="application/rss+xml" />
-			<item>
-				<title>Carnet du mois • Octobre 2026</title>
-				<link>http://localhost:1313/carnets/octobre-2026/</link>
-				<pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/carnets/octobre-2026/</guid>
-				<description>&lt;blockquote&gt;&#xA;&lt;p&gt;Chaque mois, je garde quelques traces écrites de ce qu&amp;rsquo;ont été les semaines passées. À terme, cela pourra devenir un vrai journal de bord. J&amp;rsquo;y rassemble quelques réflexions personnelles. Vous pourrez les découvrir dans &lt;a href=&#34;http://localhost:1313/tags/carnet/&#34;&gt;cette liste&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;h2 id=&#34;prologue&#34;&gt;Prologue&lt;/h2&gt;&#xA;&lt;p&gt;En octobre, je reprends le format &lt;em&gt;Carnet&lt;/em&gt; que j&amp;rsquo;ai inauguré il y a plusieurs années. À l&amp;rsquo;époque, il me permettait de garder une trace de ce qui m&amp;rsquo;avait occupé. Aujourd&amp;rsquo;hui, il retrouve sa place, avec une forme renouvelée. Celui-ci paraîtra peut-être trop technique à des non-initiés, trop superficiel à des érudits. C&amp;rsquo;est un risque et une dimension que j&amp;rsquo;assume.&lt;/p&gt;</description>
-			</item>
 			<item>
 				<title>Juillet 2021</title>
 				<link>http://localhost:1313/posts/juillet/</link>
