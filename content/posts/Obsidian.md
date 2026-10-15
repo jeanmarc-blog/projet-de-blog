@@ -47,5 +47,5 @@ Et vous, si vous utilisez Obsidian, quels usages en faites-vous ? Partagez vos r
 
 ### Pour aller plus loin
 
-- [relance de mon blog en 2026](relance-2026) qui explique les outils que j'utilise.
+- [relance de mon blog en 2026](/posts/relance-2026/) qui explique les outils que j'utilise.
 - [ma page 'Actuel'](/actuel/) qui partage mes réflexions du moment.
