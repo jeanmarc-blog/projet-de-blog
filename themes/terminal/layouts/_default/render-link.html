@@ -1,0 +1,1 @@
+<a href="{{ if strings.HasSuffix .Destination ".md" }}{{ (ref .Page .Destination) }}{{ else }}{{ .Destination | safeURL }}{{ end }}"{{ with .Title }} title="{{ . }}"{{ end }}>{{ .Text | safeHTML }}</a>

@@ -14,7 +14,7 @@ paginate = 3
 [languages]
   [languages.fr]
     label = "Français"
-    title = "Mon carnet de blog"
+    title = "Mon carnet numérique"
     keywords = ""
     copyright = ""
     menuMore = "En savoir plus"
@@ -22,7 +22,7 @@ paginate = 3
     readOtherPosts = "à lire aussi"
 
     [languages.fr.params.logo]
-      logoText = "Mon carnet de blog | Une expérience avec l'aide de l'IA"
+      logoText = "Mon carnet numérique | Une expérience avec l'aide de l'IA"
       logoHomeLink = "/"
 
     [languages.fr.menu]

@@ -4,6 +4,13 @@
 
 <p>Liste des articles déjà parus du plus récent au plus ancien :</p>
 
+<p>Chaque article est désormais précédé d'un symbole indiquant son niveau de développement :</br>
+🌘 : idée ou première intuition. La réflexion commence à peine. </br>
+🌓 : article en construction. L'idée devient structurée et est développée.</br>
+🌖 : article abouti. L'idée est considérée comme traitée.
+</p>
+
+
 <ul>
         {{ range first 100 (where .Site.RegularPages "Section" "posts") }}
             <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>

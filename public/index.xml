@@ -1,24 +1,38 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title>Mon carnet de blog</title>
+		<title>Mon carnet numérique</title>
 		<link>http://localhost:1313/</link>
-		<description>Recent content on Mon carnet de blog</description>
+		<description>Recent content on Mon carnet numérique</description>
 		<generator>Hugo</generator>
 		<language>fr</language>
 		
 		
 		
 		
-			<lastBuildDate>Wed, 14 Oct 2026 00:00:00 +0000</lastBuildDate>
+			<lastBuildDate>Mon, 26 Oct 2026 00:00:00 +0000</lastBuildDate>
 		
 			<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>🌓 Je n&#39;écrirai pas 100 articles en 100 jours</title>
+				<link>http://localhost:1313/posts/100-articles/</link>
+				<pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/posts/100-articles/</guid>
+				<description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;Il y a quelques jours, je suis tombé sur des articles incitant à écrire un article par jour pendant 100 jours, à l&amp;rsquo;image de &lt;a href=&#34;https://boxing-tennis.com/100-articles-en-100-jours/&#34;&gt;Boxing Tennis&lt;/a&gt; ou celui de &lt;a href=&#34;https://www.jcdichant.com/un-article-par-jour-pendant-100-jours-chiffres-problemes-succes/&#34;&gt;Jean-Christophe Dichant&lt;/a&gt; mais il y en a pléthore. Ces articles donnent sans doute de bonnes raisons. Mais&amp;hellip;&lt;/p&gt;&#xA;&lt;p&gt;Mais, je ne vais pas relever ce défi, parce que je ne veux pas m&amp;rsquo;imposer une telle pression. Je privilégierai un rythme qui m&amp;rsquo;est propre. Il y aura peut-être plusieurs articles en quelques jours et aucun en une autre période. Cela n&amp;rsquo;est pas grave, du moment que j&amp;rsquo;y trouve mon plaisir, car c&amp;rsquo;est bien cela qui me motive.&lt;/p&gt;</description>
+			</item>
 			<item>
 				<title>Obsidian rend la rédaction facile</title>
 				<link>http://localhost:1313/posts/obsidian/</link>
 				<pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/posts/obsidian/</guid>
 				<description>&lt;p&gt;&lt;em&gt;Image générée par ChatGPT&lt;/em&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;J&amp;rsquo;ai découvert à nouveau un outil d&amp;rsquo;écriture que j&amp;rsquo;avais testé il y a plusieurs années, mais sans conviction. Aujourd&amp;rsquo;hui, &lt;em&gt;Obsidian&lt;/em&gt;, puisque c&amp;rsquo;est de lui qu&amp;rsquo;il s&amp;rsquo;agit, est devenu mon meilleur outil pour écrire sans distraction. Ce n&amp;rsquo;est pas un traitement de texte, mais l&amp;rsquo;essentiel y est. Je vous partage mon cheminement entre indifférence et vrai intérêt.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;Je n&amp;rsquo;ai jamais appris de langage informatique de programmation. J&amp;rsquo;ai plutôt découvert certaines pratiques par tâtonnements, par essais et par conclusion. Depuis la diffusion grand public de l&amp;rsquo;intelligence artificielle, mon apprentissage a pris une nouvelle tournure, avec un gain de temps, mais aussi et surtout plus de compréhension.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>📒 Carnet du mois • Octobre 2026</title>
+				<link>http://localhost:1313/carnets/octobre-2026/</link>
+				<pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/carnets/octobre-2026/</guid>
+				<description>&lt;blockquote&gt;&#xA;&lt;p&gt;Chaque mois, je garde quelques traces écrites de ce qu&amp;rsquo;ont été les semaines passées. À terme, cela pourra devenir un vrai journal de bord. J&amp;rsquo;y rassemble quelques réflexions personnelles. Vous pourrez les découvrir dans &lt;a href=&#34;http://localhost:1313/tags/carnet/&#34;&gt;cette liste&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;h2 id=&#34;prologue&#34;&gt;Prologue&lt;/h2&gt;&#xA;&lt;p&gt;En octobre, je reprends le format &lt;em&gt;Carnet&lt;/em&gt; que j&amp;rsquo;ai inauguré il y a plusieurs années. À l&amp;rsquo;époque, il me permettait de garder une trace de ce qui m&amp;rsquo;avait occupé. Aujourd&amp;rsquo;hui, il retrouve sa place, avec une forme renouvelée. Celui-ci paraîtra peut-être trop technique à des non-initiés, trop superficiel à des érudits. C&amp;rsquo;est un risque et une dimension que j&amp;rsquo;assume.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Je relance ce blog en 2026</title>
@@ -47,6 +61,13 @@
 				<pubDate>Sat, 26 Sep 2026 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/actuel/</guid>
 				<description>&lt;p&gt;&lt;em&gt;Mise à jour du 26.09.2026&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;Cette page s&amp;rsquo;inspire du concept &lt;a href=&#34;https://sive.rs/nowff&#34;&gt;&amp;quot;&lt;em&gt;Now&lt;/em&gt;&amp;quot;&lt;/a&gt;. Elle reflète ce qui occupe mon attention aujourd&amp;rsquo;hui. Elle est mise à jour lorsque mes priorités changent.&lt;/p&gt;&#xA;&lt;h2 id=&#34;le-blog&#34;&gt;Le blog&lt;/h2&gt;&#xA;&lt;p&gt;Je reconstruis progressivement ce carnet de blog, sans repartir pour autant de zéro. Mon objectif est de mieux comprendre le fonctionnement d&amp;rsquo;un site statique et de publier régulièrement plutôt que parfaitement. Je progresse par tâtonnements, par erreurs, par petites touches. Ce n&amp;rsquo;est pas parfait, et cela ne le sera sans doute jamais. Ce n&amp;rsquo;est pas ce que je recherche d&amp;rsquo;ailleurs.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Redémarrer mon blog</title>
+				<link>http://localhost:1313/posts/redemarrage_blog/</link>
+				<pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/posts/redemarrage_blog/</guid>
+				<description>&lt;h1 id=&#34;il-est-temps-de-recommencer&#34;&gt;Il est temps de recommencer&lt;/h1&gt;&#xA;&lt;p&gt;Cela fait plusieurs années que ce blog est resté en jachère. Je l&amp;rsquo;avais même un peu oublié. Et aujourd&amp;rsquo;hui, j&amp;rsquo;ai eu envie d&amp;rsquo;y revenir. Mais, je ne l&amp;rsquo;ai pas fait seul. Je me suis tourné vers l&amp;rsquo;intelligence artificielle pour m&amp;rsquo;aider. J&amp;rsquo;ai sollicité &lt;a href=&#34;https://lumo.proton.me/guest&#34;&gt;Lumo&lt;/a&gt; qui est le service proposé par Proton. Contrairement aux géants Chatgpt, Claude ou Gemini, Proton met en avant la confidentialité des données. L&amp;rsquo;assistant conversationnel m&amp;rsquo;a permis de repérer des erreurs et de les corriger. Le blog connaît donc un nouveau départ. Je m&amp;rsquo;adresserai à l&amp;rsquo;IA pour le faire évoluer. C&amp;rsquo;est du moins le projet.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Juillet 2021</title>

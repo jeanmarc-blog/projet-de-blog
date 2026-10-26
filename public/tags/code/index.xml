@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title>CODE on Mon carnet de blog</title>
+		<title>CODE on Mon carnet numérique</title>
 		<link>http://localhost:1313/tags/code/</link>
-		<description>Recent content in CODE on Mon carnet de blog</description>
+		<description>Recent content in CODE on Mon carnet numérique</description>
 		<generator>Hugo</generator>
 		<language>fr</language>
 		
