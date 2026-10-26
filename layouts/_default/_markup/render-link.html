@@ -1,0 +1,13 @@
+{{- $destination := .Destination -}}
+
+{{/* 1. Supprime le préfixe /content/ ou content/ si Obsidian l'ajoute */}}
+{{- $destination = strings.TrimPrefix "/content/" $destination -}}
+{{- $destination = strings.TrimPrefix "content/" $destination -}}
+
+{{/* 2. Retire l'extension .md et applique la relURL de Hugo */}}
+{{- if strings.HasSuffix $destination ".md" -}}
+  {{- $destination = strings.TrimSuffix ".md" $destination -}}
+  {{- $destination = relURL $destination -}}
+{{- end -}}
+
+<a href="{{ $destination | safeURL }}"{{ with .Title }} title="{{ . }}"{{ end }}{{ if strings.HasPrefix .Destination "http" }} target="_blank" rel="noopener"{{ end }}>{{ .Text | safeHTML }}</a>
