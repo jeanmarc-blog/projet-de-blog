@@ -30,7 +30,7 @@ Je me suis donc penché sur ces quelques lignes :
 {{ end }}
 
 ```
-En y regardant de plus près, j'ai remarqué le '5' qui définit le nombre d'occurrences. Au lieu de la valeur '5', dans la page html *index*, j'ai écrit '100', sachant que j'ai moins de 100 articles publiés. Ce nombre pourra être revu à la hausse si mon blog atteint la centaine d'articles. Et cela a parfaitement marché. Le résultat est celui que je voulais.
+En y regardant de plus près, j'ai remarqué le '5' qui définit le nombre d'occurrences. Au lieu de la valeur '5', dans la page html *index*, j'ai écrit '100', sachant que j'ai moins de [100 articles](content/posts/100%20articles.md) publiés. Ce nombre pourra être revu à la hausse si mon blog atteint la centaine d'articles. Et cela a parfaitement marché. Le résultat est celui que je voulais.
 
 ```go-html-template
 

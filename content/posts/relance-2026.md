@@ -22,14 +22,14 @@ Si je délaissais mon blog, je n'arrivais pas à l'oublier totalement ni à le s
 À l'automne 2026, l'envie m'est revenue de reprendre ce blog. Même si j'écris (ou ai écrit) dans d'[autres blogs](/posts/mes-blogs/), je n'ai pas vraiment oublié celui-ci. Et, depuis quelques semaines, je faisais quelques recherches "théoriques" au moyen de l'IA. J'avais oublié certains aspects techniques. Les réponses apportées par l'IA étaient faciles à comprendre. Allaient-elles l'être tout autant dans la pratique. Je me suis donc lancé à redonner un nouveau départ à ce blog.
 
 ## Le quatuor gagnant
-Pour relancer mon blog, j'ai consulté plusieurs sites et ai questionné l'IA. Celle-ci m'a proposé d'utiliser [Obsidian](https://obsidian.md/) comme outil d'écriture. J'avais déjà tâté ce programme, plutôt comme un système de prise de notes et de mise en liens entre elles.  Je partage mon cheminement avec ce programme entre mes débuts et maintenant dans cet [article](/posts/Obsidian/).
+Pour relancer mon blog, j'ai consulté plusieurs sites et ai questionné l'IA. Celle-ci m'a proposé d'utiliser [Obsidian](content/posts/Obsidian.md) comme outil d'écriture. J'avais déjà tâté ce programme, plutôt comme un système de prise de notes et de mise en liens entre elles.  Je partage mon cheminement avec ce programme entre mes débuts et maintenant dans cet [article](/posts/Obsidian/).
 J'ai ensuite installé [Hugo](https://gohugo.io/) que j'avais déjà sur mon mac et qui traduit les pages écrites en markdown dans Obsidian en pages statiques du site internet.
 J'ai clôné mon dépôt [Github](https://github.com/jeanmarc-blog?tab=repositories) dans lequel figurent les sources du blog et l'historique des mises à jour. L'IA m'a alors proposé la version *Desktop* qui est plus visuelle.
 Cette solution me convient, car, comme je l'ai déjà évoqué, je n'ai pas de connaissances techniques.
 
 ## En coulisse
 Derrière ce blog, il y a donc :
-- Obsidian sert à rédiger les pages en langage markdown; je développerai les avantages de ce langage dans un prochain billet.
+- [Obsidian](content/posts/Obsidian.md) sert à rédiger les pages en langage markdown; je développerai les avantages de ce langage dans un prochain billet.
 - Github Desktop "pousse" les modifications vers le dépôt (ou coffre-fort) en ligne
 - Hugo transforme les fichiers en markdown en pages internet
 - Et Netlify publie les modifications.

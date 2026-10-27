@@ -18,7 +18,7 @@ Cascata Froda di Sonogno à quelques minutes à pied du village de Sonogno (Val 
 ##  ✏️ Blog et écriture
 J'ai relancé ce blog avec les outils que j'avais découverts il y  a plusieurs années et un peu oubliés. Avec l'aide de l'IA, j'ai pu résoudre certains problèmes techniques, même si d'autres restent en suspens, mais ils n'empêchent pas la bonne marche du blog. 
 
-Après avoir installé les différents outils nécessaires à la [relance de mon blog](relance-2026), j'ai repris le contenu de certaines pages qui dataient de 5-6 ans. J'en ai profité pour explorer de nouvelles fonctionnalités et redécouvrir des outils que j'avais laissés de côté. 
+Après avoir installé les différents outils nécessaires à la [relance de mon blog](/posts/relance-2026), j'ai repris le contenu de certaines pages qui dataient de 5-6 ans. J'en ai profité pour explorer de nouvelles fonctionnalités et redécouvrir des outils que j'avais laissés de côté. 
 
 Par exemple, j'ai créé la [page blog](/posts). Je redécouvre le plaisir d'écrire en *markdown* dans [*Obsidian*](/posts/Obsidian/) qui prend alors une autre utilité.
 
@@ -38,7 +38,7 @@ En créant une page [blog](/posts/), je me suis dit que je pourrais faire la mê
 ```
 La section "carnets" indique à Hugo de lister les 100 premiers items du dossier "carnets" que j'ai créé dans le dossier "content". Tout comme la page blog, je pourrais revoir à la hausse le nombre de carnets à afficher. Ainsi, quelques lignes de code permettent de parcourir et afficher tout le contenu d'un dossier.
 
-Quelques réglages assez simples dans [Obsidian](../posts/Obsidian) m'ont permis de rendre la rédaction encore plus facile et aisée : j'ai précisé le format des liens markdown par défaut sous la forme entre crochets et parenthèses et le chemin relatif qui indique le chemin complet vers la note. Tout cela n'a l'air de rien, mais ça fait gagner un temps fou. 
+Quelques réglages assez simples dans [Obsidian](/posts/Obsidian) m'ont permis de rendre la rédaction encore plus facile et aisée : j'ai précisé le format des liens markdown par défaut sous la forme entre crochets et parenthèses et le chemin relatif qui indique le chemin complet vers la note. Tout cela n'a l'air de rien, mais ça fait gagner un temps fou. 
 
 J'ai encore appris à m'initier au langage html pour ce qui est des pages *index* qui listent les articles et les carnets et la page d'accueil. Sans cette page d'accueil, le site affiche directement les derniers articles.
 ### Ce qui m'a surpris
