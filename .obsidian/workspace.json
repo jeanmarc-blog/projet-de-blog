@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/liens bidirectionnels.md",
+                "file": "content/philosophie.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "liens bidirectionnels"
+              "title": "philosophie"
             }
           }
         ]
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/liens bidirectionnels.md",
+                "file": "content/philosophie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -201,12 +201,18 @@
   },
   "active": "4b85abcde6e79782",
   "lastOpenFiles": [
+    "public/posts/100-articles-1/index.html",
+    "public/posts/100-articles-1",
+    "content/posts/100 articles 1.md",
+    "content/posts/100 articles.md",
+    "content/philosophie.md",
+    "posts/100 articles.md",
+    "content/posts/publication-sur-netlify.md",
+    "content/posts/liens bidirectionnels.md",
     "content/posts/Obsidian.md",
     "content/posts/relance-2026.md",
-    "content/posts/liens bidirectionnels.md",
     "content/carnets/octobre 2026.md",
     "content/mon-parcours.md",
-    "content/posts/100 articles.md",
     "content/posts/j'ai créé une page Actuel.md",
     "content/posts/de la discussion à un copier-coller.md",
     "content/posts/commentaires.md",
@@ -221,7 +227,6 @@
     "blog.md",
     "themes/terminal/static/img/explosion.jpg.~tmp",
     "themes/terminal/static/img/explosion.jpg",
-    "content/philosophie.md",
     "themes/terminal/layouts/_default/render-link.html",
     "themes/terminal/layouts/_default/render-links.html",
     "themes/terminal/layouts/_default/Nouveau Document texte.txt",
@@ -241,11 +246,6 @@
     "themes/terminal/static/img/obsidiantitre.jpg",
     "public/posts/obsidian/index.html",
     "public/posts/obsidian",
-    "posts/relance-2026.md",
-    "content/posts/Redemarrage_blog.md",
-    "content/posts/premiers-pas-avec-github.md",
-    "layouts/Carnet du mois.md",
-    "layouts/Article-projet-de-blog.md",
-    "layouts/carnets/list.html"
+    "posts/relance-2026.md"
   ]
 }

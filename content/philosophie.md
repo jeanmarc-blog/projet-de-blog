@@ -1,43 +1,40 @@
 ---
-title: "Philosophie de l'auteur"
-date: 2020-06-26T16:52:38+02:00
-
+title: Philosophie de mon jardin numérique
+date: 2020-06-26T16:44:44+02:00
 draft: false
+cover: /img/cahier-jardin.jpg
+description: Qu'est-ce qui m'a amené à passer d'un blog "classique" à un jardin numérique ? Et quelle est la philosophie qui me guide dans ce projet ?
 ---
-{{< image src="/img/blog.jpg" alt="un blog" position="center" style="border-radius: 8px;" >}}
+*Image de couverture générée par ChatGPT* • 
+**_Mise à jour le 27 octobre 2026_**
 
 > *Un blog parmi tant d'autres. Un blog pas comme les autres. Pourquoi ? Parce qu'il est unique, parce que c'est le mien.*
 
-## Un blog, rien qu'un blog.
+## Un blog d'abord.
+En publiant les premiers articles en 2020, j'ai considéré cet espace comme un blog, un journal sur lequel je publierais des articles finis que je ne toucherais plus. Avec le temps, j'ai pu constater que certains textes ne sont plus d'actualité ou ne correspondent à une réalité qui n'est plus. Bien sûr, ce sont des témoins d'une époque. Et il peut être intéressant de refaire le chemin pour voir toute l'évolution. J'avais aussi envie de faire évoluer cet espace, tout en me démarquant.
 
-Je considère pour l'instant ce blog comme un carnet de notes, un journal[^1], mais aussi un [laboratoire grandeur nature](/about/#des-projets-avec-et-sans-lendemains).
+### Un espace bien à moi
+Je l'ai aussi voulu, ce blog, dans un autre esprit que ce que je publiais ailleurs : il ne sera pas (ou très peu) en lien avec [réformé & connecté](https://jeanmarcleresche.ch) qui a une dimension spirituelle et théologique affichée.
 
-[^1]: C'est d'ailleurs le sens du mot [*blog*](https://www.journaldunet.fr/web-tech/dictionnaire-du-webmastering/1203251-blog-definition-et-acteurs/). Mais de journal *intime* ou *personnel*, le blog est devenu un vrai média, un moyen de réseauté, de lier et relier d'autres blogs avec le sien, de devenir *influenceur*.
+### L'IA est devenue mon complice
+Entre temps, l'intelligence artificielle a pris son envol et est devenue accessible au grand public. Je l'ai donc utilisée pour m'aider à [relancer ce carnet](/posts/relance-2026/), en réglant des problèmes techniques. Il y a eu des réussites, des échecs, des doutes, une motivation renouvelée. Et je me prends à cultiver cet espace, comme d'autres font du jardinage. Je ne sais pas encore si j'ai la main verte !
 
-Ce blog aura un autre esprit que mon autre blog : il ne sera pas (ou très peu) en lien avec [réformé & connecté](https://jeanmarcleresche.ch). Je ne sais pas s'il trouvera son audience, s'il ne parlera qu'à quelques visiteurs occasionnels, s'il deviendra une référence, me fera gagner de l'argent, atteindre la gloire ou me conduira, un jour à le fermer. Comme je ne sais pas, je me lance. Je m'y risque.
+### Pas de pression, juste du plaisir
+Je ne sais pas non plus si mon carnet de notes trouvera son audience, s'il ne parlera qu'à quelques visiteurs occasionnels. Je doute qu'il devienne une référence, me fasse gagner de l'argent, atteigne la gloire. Ou un jour, de guerre lasse,  je me déciderai à le fermer. [En tout cas, je n'écrirai pas 100 articles en 100 jours](/posts/100articles/).
 
-> *Ils croyaient que c'était impossible, alors ils l'ont fait*  
-Mark Twain.
+Au fur et à mesure de sa conception, l'envie d'écrire a pris le dessus sur les aspects techniques de la conception du blog. C'est alors qu'est apparue l'idée du [jardin numérique](https://maggieappleton.com/garden).
 
-## Pas de prise de tête.
+## Un jardin à entretenir.
 
-Bien que je sois engagé dans des lieux d'Église, 
+À l'image d'un jardin, cet espace devient un lieu où il m'est possible de tester sans risque, de faire grandir ou de tondre ou d'arracher. C'est aussi un bon moyen de mieux comprendre le fonctionnement d'un [site statique](https://bearstech.com/societe/blog/dynamiqueless-ou-le-retour-du-statique/), de le développer, de le faire fonctionner et de l'adapter à mes besoins et envies.
 
-+ Je ne parlerai ni de religion ni d'église, ça ouvre à des débats sans fin et assez souvent stériles.
+### Un lieu d'expression et de réflexions
+C'est surtout un lieu où je m'exprime librement, sans pression ni exhortations à tout bien faire dès la première fois. Je me donne le droit de me tromper, de recommencer et de laisser tout cela en jachère.
 
-+ Je ne parlerai pas non plus de diaconat, personne ou presque ne sait ce que c'est et que mon autre blog traite du sujet. Visitez [réformé & connecté](https://jeanmarcleresche.ch)
+[La page **'actuel'**](/actuel/) donne aussi une image de mes réflexions et préoccupations du moment. Elle est mise à jour à intervalles irréguliers.
 
-+ Je parlerai de ce qui m'anime et m'intéresse actuellement : quelques réflexions personnelles autour du phénomène du *blog*, à partir de lectures et autres recherches. Le tout sans prise de tête [^2].
-
-[^2]: La non-prise de tête est une de mes motivations. Il ne s'agit pas pour moi de faire le tour de la question ni de l'épuiser, mais de lancer des impulsions. Avec cette autre motivation : trouver et éprouver du plaisir à écrire, parce que j'aime ça.
+Les [**carnets mensuels**](/carnets/) sont des retours d'expériences du mois passé et me permettent de faire mon bilan personnel.
 
 
-## Un lieu d'apprentissage.
 
-Ce blog, c'est aussi un bon moyen de mieux comprendre le fonctionnement d'un [site statique](https://bearstech.com/societe/blog/dynamiqueless-ou-le-retour-du-statique/), de le développer, de le faire fonctionner et de l'adapter à mes besoins et envies, d'être à l'écoute des avis des visiteurs, de recevoir encouragements et critiques[^3].
 
-[^3]: J'accepte volontiers les critiques si elles sont bienveillantes, respectueuses. Elles peuvent être sans complaisance, du moment qu'elles ne touchent qu'à ma manière de faire.
-
-Voilà, rien de moins, rien de plus.
-
-Peut-être qu'un jour, je sauterai le pas de passer d'un site dynamique à un site statique. Les arguments ne manquent pas. L'article de [François Charlet](https://francoischarlet.ch/2020/jai-quitte-wordpress-pour-hugo/) traite, parmi d'autres, d'une telle migration. Je n'en suis pas là. J'avance un jour à la fois, un pas après l'autre.

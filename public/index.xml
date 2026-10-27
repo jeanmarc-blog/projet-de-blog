@@ -10,15 +10,22 @@
 		
 		
 		
-			<lastBuildDate>Mon, 26 Oct 2026 00:00:00 +0000</lastBuildDate>
+			<lastBuildDate>Tue, 27 Oct 2026 00:00:00 +0000</lastBuildDate>
 		
 			<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
 			<item>
+				<title>🌒Parce que tout est lié</title>
+				<link>http://localhost:1313/posts/liens-bidirectionnels/</link>
+				<pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/posts/liens-bidirectionnels/</guid>
+				<description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;En parcourant le web et en dialoguant avec Gemini IA, il est apparu la notion de &amp;ldquo;liens bidirectionnels&amp;rdquo;. Je me suis intéressé à la pertinence de cette manière de relier des articles entre eux. Je vous propose un début de réflexion&lt;/p&gt;&#xA;&lt;h2 id=&#34;contexte&#34;&gt;Contexte&lt;/h2&gt;&#xA;&lt;p&gt;Quand j&amp;rsquo;écris un article dans &lt;a href=&#34;http://localhost:1313/posts/Obsidian&#34;&gt;Obsidian&lt;/a&gt; je peux facilement pointer un texte, une phrase ou un paragraphe entier vers un autre article déjà paru. Le programme liste alors les autres articles qui mentionnent ce terme. J&amp;rsquo;ai donc une vision d&amp;rsquo;ensemble de comment mes notes et mes réflexions s&amp;rsquo;articulent les unes avec les autres.&lt;/p&gt;</description>
+			</item>
+			<item>
 				<title>🌓 Je n&#39;écrirai pas 100 articles en 100 jours</title>
-				<link>http://localhost:1313/posts/100-articles/</link>
+				<link>http://localhost:1313/posts/100articles/</link>
 				<pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/posts/100-articles/</guid>
-				<description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;Il y a quelques jours, je suis tombé sur des articles incitant à écrire un article par jour pendant 100 jours, à l&amp;rsquo;image de &lt;a href=&#34;https://boxing-tennis.com/100-articles-en-100-jours/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Boxing Tennis&lt;/a&gt; ou celui de &lt;a href=&#34;https://www.jcdichant.com/un-article-par-jour-pendant-100-jours-chiffres-problemes-succes/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jean-Christophe Dichant&lt;/a&gt; mais il y en a pléthore. Ces articles donnent sans doute de bonnes raisons. Mais&amp;hellip;&lt;/p&gt;&#xA;&lt;p&gt;Mais, je ne vais pas relever ce défi, parce que je ne veux pas m&amp;rsquo;imposer une telle pression. Je privilégierai un rythme qui m&amp;rsquo;est propre. Il y aura peut-être plusieurs articles en quelques jours et aucun en une autre période. Cela n&amp;rsquo;est pas grave, du moment que j&amp;rsquo;y trouve mon plaisir, car c&amp;rsquo;est bien cela qui me motive.&lt;/p&gt;</description>
+				<guid>http://localhost:1313/posts/100articles/</guid>
+				<description>&lt;p&gt;&lt;em&gt;Image de couverture créée par ChatGPT&lt;/em&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;Il y a quelques jours, je suis tombé sur des blogs incitant à écrire un article par jour pendant 100 jours, à l&amp;rsquo;image de &lt;a href=&#34;https://boxing-tennis.com/100-articles-en-100-jours/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Boxing Tennis&lt;/a&gt; ou celui de &lt;a href=&#34;https://www.jcdichant.com/un-article-par-jour-pendant-100-jours-chiffres-problemes-succes/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jean-Christophe Dichant&lt;/a&gt; mais il y en a pléthore. Ces articles donnent sans doute de bonnes raisons. Mais&amp;hellip;&lt;/p&gt;&#xA;&lt;p&gt;Mais, je ne vais pas relever ce défi, parce que je ne veux pas m&amp;rsquo;imposer une telle pression. Je privilégierai un rythme qui m&amp;rsquo;est propre. Il y aura peut-être plusieurs articles en quelques jours et aucun en une autre période. Cela n&amp;rsquo;est pas grave, du moment que j&amp;rsquo;y trouve mon plaisir, car c&amp;rsquo;est bien cela qui me motive.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Obsidian rend la rédaction facile</title>
@@ -26,6 +33,13 @@
 				<pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/posts/obsidian/</guid>
 				<description>&lt;p&gt;&lt;em&gt;Image générée par ChatGPT&lt;/em&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;J&amp;rsquo;ai découvert à nouveau un outil d&amp;rsquo;écriture que j&amp;rsquo;avais testé il y a plusieurs années, mais sans conviction. Aujourd&amp;rsquo;hui, &lt;em&gt;Obsidian&lt;/em&gt;, puisque c&amp;rsquo;est de lui qu&amp;rsquo;il s&amp;rsquo;agit, est devenu mon meilleur outil pour écrire sans distraction. Ce n&amp;rsquo;est pas un traitement de texte, mais l&amp;rsquo;essentiel y est. Je vous partage mon cheminement entre indifférence et vrai intérêt.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;Je n&amp;rsquo;ai jamais appris de langage informatique de programmation. J&amp;rsquo;ai plutôt découvert certaines pratiques par tâtonnements, par essais et par conclusion. Depuis la diffusion grand public de l&amp;rsquo;intelligence artificielle, mon apprentissage a pris une nouvelle tournure, avec un gain de temps, mais aussi et surtout plus de compréhension.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>📒 Carnet du mois • Octobre 2026</title>
+				<link>http://localhost:1313/carnets/octobre-2026/</link>
+				<pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/carnets/octobre-2026/</guid>
+				<description>&lt;blockquote&gt;&#xA;&lt;p&gt;Chaque mois, je garde quelques traces écrites de ce qu&amp;rsquo;ont été les semaines passées. À terme, cela pourra devenir un vrai journal de bord. J&amp;rsquo;y rassemble quelques réflexions personnelles. Vous pourrez les découvrir dans &lt;a href=&#34;http://localhost:1313/tags/carnet/&#34;&gt;cette liste&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;h2 id=&#34;prologue&#34;&gt;Prologue&lt;/h2&gt;&#xA;&lt;p&gt;En octobre, je reprends le format &lt;em&gt;Carnet&lt;/em&gt; que j&amp;rsquo;ai inauguré il y a plusieurs années. À l&amp;rsquo;époque, il me permettait de garder une trace de ce qui m&amp;rsquo;avait occupé. Aujourd&amp;rsquo;hui, il retrouve sa place, avec une forme renouvelée. Celui-ci paraîtra peut-être trop technique à des non-initiés, trop superficiel à des érudits. C&amp;rsquo;est un risque et une dimension que j&amp;rsquo;assume.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Je relance ce blog en 2026</title>
@@ -54,6 +68,13 @@
 				<pubDate>Sat, 26 Sep 2026 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/actuel/</guid>
 				<description>&lt;p&gt;&lt;em&gt;Mise à jour du 26.09.2026&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;Cette page s&amp;rsquo;inspire du concept &lt;a href=&#34;https://sive.rs/nowff&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;quot;&lt;em&gt;Now&lt;/em&gt;&amp;quot;&lt;/a&gt;. Elle reflète ce qui occupe mon attention aujourd&amp;rsquo;hui. Elle est mise à jour lorsque mes priorités changent.&lt;/p&gt;&#xA;&lt;h2 id=&#34;le-blog&#34;&gt;Le blog&lt;/h2&gt;&#xA;&lt;p&gt;Je reconstruis progressivement ce carnet de blog, sans repartir pour autant de zéro. Mon objectif est de mieux comprendre le fonctionnement d&amp;rsquo;un site statique et de publier régulièrement plutôt que parfaitement. Je progresse par tâtonnements, par erreurs, par petites touches. Ce n&amp;rsquo;est pas parfait, et cela ne le sera sans doute jamais. Ce n&amp;rsquo;est pas ce que je recherche d&amp;rsquo;ailleurs.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Redémarrer mon blog</title>
+				<link>http://localhost:1313/posts/redemarrage_blog/</link>
+				<pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/posts/redemarrage_blog/</guid>
+				<description>&lt;h1 id=&#34;il-est-temps-de-recommencer&#34;&gt;Il est temps de recommencer&lt;/h1&gt;&#xA;&lt;p&gt;Cela fait plusieurs années que ce blog est resté en jachère. Je l&amp;rsquo;avais même un peu oublié. Et aujourd&amp;rsquo;hui, j&amp;rsquo;ai eu envie d&amp;rsquo;y revenir. Mais, je ne l&amp;rsquo;ai pas fait seul. Je me suis tourné vers l&amp;rsquo;intelligence artificielle pour m&amp;rsquo;aider. J&amp;rsquo;ai sollicité &lt;a href=&#34;https://lumo.proton.me/guest&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lumo&lt;/a&gt; qui est le service proposé par Proton. Contrairement aux géants Chatgpt, Claude ou Gemini, Proton met en avant la confidentialité des données. L&amp;rsquo;assistant conversationnel m&amp;rsquo;a permis de repérer des erreurs et de les corriger. Le blog connaît donc un nouveau départ. Je m&amp;rsquo;adresserai à l&amp;rsquo;IA pour le faire évoluer. C&amp;rsquo;est du moins le projet.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Juillet 2021</title>
@@ -217,11 +238,11 @@
 				<description>&lt;p&gt;&lt;em&gt;mise à jour le 15 octobre 2026&lt;/em&gt;&lt;/p&gt;&#xA;&#xD;&#xA;  &lt;img src=&#34;http://localhost:1313/img/hello.jpg&#34;  alt=&#34;Hello Friend&#34;  class=&#34;center&#34;  style=&#34;border-radius: 16px;&#34;  /&gt;&#xD;&#xA;&#xD;&#xA;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;em&gt;Dis-moi d’où tu viens et je te dirai où tu peux aller.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;h2 id=&#34;quelques-repères-pour-mieux-situer-qui-je-suis-et-doù-je-viens&#34;&gt;Quelques repères pour mieux situer qui je suis et d&amp;rsquo;où je viens.&lt;/h2&gt;&#xA;&lt;p&gt;Voici quelques jalons de mon parcours professionnel :&lt;/p&gt;&#xA;&lt;h3 id=&#34;enseigner-et-écrire-déjà&#34;&gt;enseigner et écrire (déjà)&lt;/h3&gt;&#xA;&lt;p&gt;J&amp;rsquo;ai suivi ma scolarité obligatoire au Locle, dans le Jura neuchâtelois (Suisse). J&amp;rsquo;ai ensuite obtenu ma maturité à l&amp;rsquo;École supérieure de commerce de La Chaux-de-Fonds en 1992. Un peu par hasard, je me suis improvisé enseignant privé, dispensant des leçons de soutien scolaire de français et d&amp;rsquo;allemand à des élèves de la primaire au secondaire supérieur et à des adultes allophones. Répondant à une demande croissante dans l&amp;rsquo;aide à la rédaction, j&amp;rsquo;ai ajouté la corde d&amp;rsquo;écrivain public à mon arc, puis d&amp;rsquo;enseignant d&amp;rsquo;informatique pour débutants. J&amp;rsquo;ai associé ces divers métiers en tant qu&amp;rsquo;indépendant pendant près de quinze ans.&lt;/p&gt;</description>
 			</item>
 			<item>
-				<title>Philosophie de l&#39;auteur</title>
+				<title>Philosophie de mon jardin numérique</title>
 				<link>http://localhost:1313/philosophie/</link>
-				<pubDate>Fri, 26 Jun 2020 16:52:38 +0200</pubDate>
+				<pubDate>Fri, 26 Jun 2020 16:44:44 +0200</pubDate>
 				<guid>http://localhost:1313/philosophie/</guid>
-				<description>&lt;img src=&#34;http://localhost:1313/img/blog.jpg&#34;  alt=&#34;un blog&#34;  class=&#34;center&#34;  style=&#34;border-radius: 8px;&#34;  /&gt;&#xD;&#xA;&#xD;&#xA;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;em&gt;Un blog parmi tant d&amp;rsquo;autres. Un blog pas comme les autres. Pourquoi ? Parce qu&amp;rsquo;il est unique, parce que c&amp;rsquo;est le mien.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;h2 id=&#34;un-blog-rien-quun-blog&#34;&gt;Un blog, rien qu&amp;rsquo;un blog.&lt;/h2&gt;&#xA;&lt;p&gt;Je considère pour l&amp;rsquo;instant ce blog comme un carnet de notes, un journal&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;, mais aussi un &lt;a href=&#34;http://localhost:1313/about/#des-projets-avec-et-sans-lendemains&#34;&gt;laboratoire grandeur nature&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Ce blog aura un autre esprit que mon autre blog : il ne sera pas (ou très peu) en lien avec &lt;a href=&#34;https://jeanmarcleresche.ch&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;réformé &amp;amp; connecté&lt;/a&gt;. Je ne sais pas s&amp;rsquo;il trouvera son audience, s&amp;rsquo;il ne parlera qu&amp;rsquo;à quelques visiteurs occasionnels, s&amp;rsquo;il deviendra une référence, me fera gagner de l&amp;rsquo;argent, atteindre la gloire ou me conduira, un jour à le fermer. Comme je ne sais pas, je me lance. Je m&amp;rsquo;y risque.&lt;/p&gt;</description>
+				<description>&lt;p&gt;&lt;em&gt;Image de couverture générée par ChatGPT&lt;/em&gt; •&#xA;&lt;strong&gt;&lt;em&gt;Mise à jour le 27 octobre 2026&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;em&gt;Un blog parmi tant d&amp;rsquo;autres. Un blog pas comme les autres. Pourquoi ? Parce qu&amp;rsquo;il est unique, parce que c&amp;rsquo;est le mien.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;h2 id=&#34;un-blog-dabord&#34;&gt;Un blog d&amp;rsquo;abord.&lt;/h2&gt;&#xA;&lt;p&gt;En publiant les premiers articles en 2020, j&amp;rsquo;ai considéré cet espace comme un blog, un journal sur lequel je publierais des articles finis que je ne toucherais plus. Avec le temps, j&amp;rsquo;ai pu constater que certains textes ne sont plus d&amp;rsquo;actualité ou ne correspondent à une réalité qui n&amp;rsquo;est plus. Bien sûr, ce sont des témoins d&amp;rsquo;une époque. Et il peut être intéressant de refaire le chemin pour voir toute l&amp;rsquo;évolution. J&amp;rsquo;avais aussi envie de faire évoluer cet espace, tout en me démarquant.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Qui suis-je… vaste question ! Restons-en à quelques faits</title>
@@ -236,6 +257,13 @@
 				<pubDate>Fri, 26 Jun 2020 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/posts/ma-petite-boite-a-outils/</guid>
 				<description>&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;em&gt;De bons outils font de bons ouvriers.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;À la mi-mars, Philippe Golaz a publié sur son blog &lt;a href=&#34;https://philippegolaz.ch/faire-eglise-sur-internet-a-lheure-du-coronavirus/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;L’Eglise sur internet à l’heure du coronavirus&lt;/a&gt;. Il y présente réflexions personnelles, plate-formes, outils et matériels pour &lt;em&gt;être Église autrement&lt;/em&gt;.&lt;/p&gt;&#xA;&lt;p&gt;En relisant ce billet, j&amp;rsquo;ai eu envie de partager ma &lt;strong&gt;boîte à outils&lt;/strong&gt;, celle du (modeste) blogueur que je suis.&lt;/p&gt;&#xA;&lt;h2 id=&#34;le-matériel&#34;&gt;Le matériel&lt;/h2&gt;&#xA;&lt;p&gt;Rien de bien extraordinaire ni d&amp;rsquo;onéreux.&lt;/p&gt;&#xA;&lt;p&gt;L&amp;rsquo;essentiel :&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Un carnet et un stylo (marque, modèle et format laissés à votre appréciation). C&amp;rsquo;est tout bête, mais ça ne prend pas de place et c&amp;rsquo;est utile pour écrire le début de quelque chose, la fin d&amp;rsquo;autre chose, une citation, une référence, un contact et tant d&amp;rsquo;infos pouvant se révéler utiles.&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.apple.com/chfr/macbook-pro/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Un MacBook Pro&lt;/a&gt;. Pas besoin du dernier modèle, le mien est âgé de 7 ans environ.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Ce qui suit est optionnel :&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title></title>
+				<link>http://localhost:1313/content/posts/100articles/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/content/posts/100articles/</guid>
+				<description></description>
 			</item>
 	</channel>
 </rss>
