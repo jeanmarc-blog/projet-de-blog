@@ -1,0 +1,18 @@
+{{ $page := .page }}
+{{ $base := $page.File.ContentBaseName }}
+{{ $matches := slice }}
+{{ range site.RegularPages }}
+  {{ if and (ne . $page) (findRE (printf "[\"/(]%s[\"/)]" $base) .RawContent) }}
+    {{ $matches = $matches | append . }}
+  {{ end }}
+{{ end }}
+{{ if $matches }}
+<div class="backlinks">
+  <h3>Articles qui pointent ici</h3>
+  <ul>
+    {{ range $matches }}
+    <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+    {{ end }}
+  </ul>
+</div>
+{{ end }}

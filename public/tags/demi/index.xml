@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Mon, 26 Oct 2026 00:00:00 +0000</lastBuildDate>
+			<lastBuildDate>Thu, 29 Oct 2026 00:00:00 +0000</lastBuildDate>
 		
 			<atom:link href="http://localhost:1313/tags/demi/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>🌓 Écrire et mettre en forme, c&#39;est pas pareil</title>
+				<link>http://localhost:1313/posts/obsidian-et-word/</link>
+				<pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/posts/obsidian-et-word/</guid>
+				<description>&lt;blockquote&gt;&#xA;&lt;p&gt;Écrire un texte ou le mettre en forme, ce sont deux choses différentes, même si, depuis longtemps, l&amp;rsquo;utilisation courante et généralisée des traitements de textes nous ont fait croire le contraire.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;Depuis que j&amp;rsquo;ai relancé ce blog, lorsque j&amp;rsquo;écris un article, je me concentre sur le contenu. J&amp;rsquo;écris &amp;ldquo;au kilomètre&amp;rdquo;, sans trop me soucier de la mise en forme, à part les titres, le gras, l&amp;rsquo;italique que le langage &lt;em&gt;markdown&lt;/em&gt; me permet de formater rapidement au moyen de symboles facilement mémorisables. À la relecture, j&amp;rsquo;ajoute les liens vers d&amp;rsquo;autres articles ou pages ou d&amp;rsquo;autres sites. Là, je suis clairement dans la rédaction - &lt;em&gt;l&amp;rsquo;écriture&lt;/em&gt; - du texte.&lt;/p&gt;</description>
+			</item>
 			<item>
 				<title>🌓 Je n&#39;écrirai pas 100 articles en 100 jours</title>
 				<link>http://localhost:1313/posts/100articles/</link>
