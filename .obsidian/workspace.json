@@ -11,10 +11,14 @@
             "id": "8ac65dea022f6103",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "content/posts/obsidian-et-word.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nouvel onglet"
+              "title": "obsidian-et-word"
             }
           }
         ]
@@ -95,6 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "content/posts/obsidian-et-word.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,9 +200,12 @@
   },
   "active": "8ac65dea022f6103",
   "lastOpenFiles": [
+    "public/img/ecrire.jpg",
+    "themes/terminal/static/img/ecrire.jpg",
+    "content/posts/j'ai créé une page Actuel.md",
+    "content/posts/obsidian-et-word.md",
     "content/carnets/octobre 2026.md",
     "content/posts/100articles.md",
-    "content/posts/obsidian-et-word.md",
     "content/posts/_index.md",
     "posts/100 articles.md",
     "content/carnets/_index.md",
@@ -216,14 +224,12 @@
     "content/posts/publication-sur-netlify.md",
     "content/posts/relance-2026.md",
     "content/mon-parcours.md",
-    "content/posts/j'ai créé une page Actuel.md",
     "content/posts/de la discussion à un copier-coller.md",
     "content/posts/commentaires.md",
     "content/posts/facebook.md",
     "content/posts/ma-petite-reflexion.md",
     "content/posts/mesures.md",
     "content/posts/lancer-un-blog.md",
-    "content/posts/partages.md",
     "public/posts/100-articles/index.html",
     "public/posts/100-articles",
     "themes/terminal/static/img/explosion.jpg.~tmp",
@@ -240,7 +246,6 @@
     "themes/terminal/static/img/Colmar26.jpg",
     "Sans titre.base",
     "public/img/obsidiantitre.jpg",
-    "themes/terminal/static/img/obsidiantitre.jpg",
     "public/posts/obsidian/index.html"
   ]
 }
