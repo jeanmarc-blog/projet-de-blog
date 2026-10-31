@@ -1,7 +1,7 @@
 ---
 title: Écrire et mettre en forme, c'est pas pareil
 date: 2026-10-29
-draft: true
+draft: false
 tags:
   - écriture
   - blog
