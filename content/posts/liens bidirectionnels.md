@@ -3,7 +3,6 @@ title: Parce que tout est lié
 date: 2026-10-27
 draft: false
 tags:
-  - croissant
   - construction
   - jardin
 description: Je m'interroge sur la pertinence de liens bidirectionnels dans la mise en relation de mes articles.

@@ -3,7 +3,6 @@ title: Je n'écrirai pas 100 articles en 100 jours
 date: 2026-10-26
 draft: false
 tags:
-  - demi
   - écriture
   - blog
   - relance

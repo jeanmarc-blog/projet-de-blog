@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "e1ea2e7d33df9f91",
+        "id": "a90f11e71d599d0c",
         "type": "tabs",
         "children": [
           {
-            "id": "f0697a4f15f3af36",
+            "id": "8ac65dea022f6103",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/carnets/octobre 2026.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "octobre 2026"
+              "title": "Nouvel onglet"
             }
           }
         ]
@@ -99,7 +95,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/carnets/octobre 2026.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +113,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "themes/terminal/static/img/obsidiancapture.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -199,11 +193,16 @@
       "bases:Créer une nouvelle base": false
     }
   },
-  "active": "f0697a4f15f3af36",
+  "active": "8ac65dea022f6103",
   "lastOpenFiles": [
-    "content/posts/obsidian-et-word.md",
-    "content/posts/liens bidirectionnels.md",
+    "content/carnets/octobre 2026.md",
     "content/posts/100articles.md",
+    "content/posts/obsidian-et-word.md",
+    "content/posts/_index.md",
+    "posts/100 articles.md",
+    "content/carnets/_index.md",
+    "archetypes/default.md",
+    "content/posts/liens bidirectionnels.md",
     "content/posts/exemple.md",
     "Sans titre.canvas",
     "layouts/Article-projet-de-blog.md",
@@ -214,10 +213,8 @@
     "public/posts/100-articles-1",
     "content/posts/100 articles 1.md",
     "content/posts/100 articles.md",
-    "posts/100 articles.md",
     "content/posts/publication-sur-netlify.md",
     "content/posts/relance-2026.md",
-    "content/carnets/octobre 2026.md",
     "content/mon-parcours.md",
     "content/posts/j'ai créé une page Actuel.md",
     "content/posts/de la discussion à un copier-coller.md",
@@ -227,16 +224,13 @@
     "content/posts/mesures.md",
     "content/posts/lancer-un-blog.md",
     "content/posts/partages.md",
-    "content/posts/fausses-excuses.md",
     "public/posts/100-articles/index.html",
     "public/posts/100-articles",
-    "blog.md",
     "themes/terminal/static/img/explosion.jpg.~tmp",
     "themes/terminal/static/img/explosion.jpg",
     "themes/terminal/layouts/_default/render-link.html",
     "themes/terminal/layouts/_default/render-links.html",
     "themes/terminal/layouts/_default/Nouveau Document texte.txt",
-    "carnets.md",
     "public/img/Locarno.jpg",
     "themes/terminal/static/img/Locarno.jpg",
     "public/img/Rondchamp.jpg",

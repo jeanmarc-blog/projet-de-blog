@@ -1,34 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title>Blog on Mon carnet numérique</title>
+		<title>BLOG on Mon carnet numérique</title>
 		<link>http://localhost:1313/tags/blog/</link>
-		<description>Recent content in Blog on Mon carnet numérique</description>
+		<description>Recent content in BLOG on Mon carnet numérique</description>
 		<generator>Hugo</generator>
 		<language>fr</language>
 		
 		
 		
 		
-			<lastBuildDate>Sat, 31 Oct 2026 00:00:00 +0000</lastBuildDate>
+			<lastBuildDate>Thu, 29 Oct 2026 00:00:00 +0000</lastBuildDate>
 		
 			<atom:link href="http://localhost:1313/tags/blog/index.xml" rel="self" type="application/rss+xml" />
 			<item>
-				<title>un exemple pour la forme</title>
-				<link>http://localhost:1313/posts/exemple/</link>
-				<pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/posts/exemple/</guid>
-				<description>&lt;p&gt;Une petite note juste pour voir&lt;/p&gt;&#xA;&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;h2 id=&#34;contexte&#34;&gt;Contexte&lt;/h2&gt;&#xA;&lt;h2 id=&#34;développement&#34;&gt;Développement&lt;/h2&gt;&#xA;&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;&#xA;&lt;h3 id=&#34;pour-aller-plus-loin&#34;&gt;Pour aller plus loin&lt;/h3&gt;</description>
-			</item>
-			<item>
-				<title>🌓 Écrire et mettre en forme, c&#39;est pas pareil</title>
+				<title>Écrire et mettre en forme, c&#39;est pas pareil</title>
 				<link>http://localhost:1313/posts/obsidian-et-word/</link>
 				<pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/posts/obsidian-et-word/</guid>
-				<description>&lt;blockquote&gt;&#xA;&lt;p&gt;Écrire un texte ou le mettre en forme, ce sont deux choses différentes, même si, depuis longtemps, l&amp;rsquo;utilisation courante et généralisée des traitements de textes nous ont fait croire le contraire.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;Cet article fait suite à ma lecture du billet de &lt;a href=&#34;https://tcrouzet.com/2026/10/27/obsidian-contre-word/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Thierry Crouzet&lt;/a&gt;. Il y parle d&amp;rsquo;écrire avec LA référence que tout le monde utilise&amp;hellip; Peut-être à tort d&amp;rsquo;ailleurs : MS Word. Faites comme moi, demandez autour de vous, à des connaissances écrivains ou non, quel programme utilisent-ils pour rédiger leur texte. La réponse sera certainement unanime : Word. Et c&amp;rsquo;est peut-être là le problème.&lt;/p&gt;</description>
+				<description>&lt;blockquote&gt;&#xA;&lt;p&gt;Écrire un texte ou le mettre en forme, ce sont deux choses différentes, même si, depuis longtemps, l&amp;rsquo;utilisation courante et généralisée des traitements de textes nous ont fait croire le contraire.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;Cet article fait suite à ma lecture du billet de &lt;a href=&#34;https://tcrouzet.com/2026/10/27/obsidian-contre-word/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Thierry Crouzet&lt;/a&gt;. Il y parle d&amp;rsquo;écrire avec LA référence que tout le monde utilise peut-être à tort d&amp;rsquo;ailleurs : MS Word. Faites comme moi, demandez autour de vous, à des connaissances écrivains ou non, quel programme ils utilisent pour rédiger leur texte. La réponse sera certainement unanime : Word. Et c&amp;rsquo;est peut-être là le problème.&lt;/p&gt;</description>
 			</item>
 			<item>
-				<title>🌓 Je n&#39;écrirai pas 100 articles en 100 jours</title>
+				<title>Je n&#39;écrirai pas 100 articles en 100 jours</title>
 				<link>http://localhost:1313/posts/100articles/</link>
 				<pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/posts/100articles/</guid>
