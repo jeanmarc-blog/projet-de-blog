@@ -13,6 +13,10 @@
       {{ . }}
     </span>
     {{ end }}
+{{ with .Params.statut }}
+  <span class="post-statut">::
+{{ . }}</span>
+{{ end }}
   </div>
 
   {{ if .Params.tags }}

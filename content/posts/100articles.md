@@ -1,5 +1,5 @@
 ---
-title: 🌓 Je n'écrirai pas 100 articles en 100 jours
+title: Je n'écrirai pas 100 articles en 100 jours
 date: 2026-10-26
 draft: false
 tags:
@@ -9,6 +9,7 @@ tags:
   - relance
 description: Je préfère écrire quand j'en ressens l'envie ou le besoin et non pour essayer de gonfler des statistiques
 cover: /img/explosion.jpg
+statut: 🌔 abouti
 ---
 *Image de couverture créée par ChatGPT*
 ## Introduction

@@ -1,11 +1,12 @@
 ---
-title: 📒 Carnet du mois • Octobre 2026
-date: 2026-10-12
-draft: true
+title: Octobre 2026
+date: 2026-10-31
+draft: false
 tags:
   - CARNET
 description: Quelques réflexions du mois d'octobre rassemblées sous la forme d'un carnet
 cover: /img/machine.jpg
+statut: 📒 bilan
 ---
 > Chaque mois, je garde quelques traces écrites de ce qu'ont été les semaines passées. À terme, cela pourra devenir un vrai journal de bord. J'y rassemble quelques réflexions personnelles. Vous pourrez les découvrir dans [cette liste](/tags/carnet/).
 ## Prologue
@@ -46,7 +47,7 @@ Il m'est venu l'idée de vouloir changer la police d'écriture de ce blog. En ef
 
 ![La chapelle Le Corbusier à Rondchamp](/img/Rondchamp.jpg)
 La chapelle de Le Corbusier à Rondchamp (France)
-## 🧠 L'IA au quotidien
+## ⚙️L'IA au quotidien
 J'ai lu quelques articles autour de la polémique autour du roman *C'était ça ou mourir de [Thélyson Orélien](https://www.huffingtonpost.fr/culture/article/thelyson-orelien-dement-tout-usage-de-l-ia-et-denonce-les-nombreuses-attaques-racistes_329256.html). Pour rappel : à l'occasion de la rentrée littéraire de cet automne, l'auteur canado-haïtien était en lice dans les livres retenus par les Prix. Son premier roman cartonnait. Un compte sur X *"Balance ton Claude"* a prétendu que ce livre avait été écrit en très grande partie par l'IA. 
 
 Certains comités ont fait le choix de retirer ce livre des papables à une récompense. L'auteur se défend d'avoir eu recours à une IA, expliquant que son style est ancré dans une culture qui lui est propre. Les essais qui ont été faits à la suite de cette histoire ont montré que les détecteurs de textes humains ou IA ne sont pas unanimes et peuvent révéler autant de faux positifs que de faux négatifs (ça vous rappelle quelque chose ?) 

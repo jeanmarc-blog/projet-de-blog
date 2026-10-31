@@ -10,25 +10,32 @@
 		
 		
 		
-			<lastBuildDate>Thu, 29 Oct 2026 00:00:00 +0000</lastBuildDate>
+			<lastBuildDate>Sat, 31 Oct 2026 00:00:00 +0000</lastBuildDate>
 		
 			<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
 			<item>
-				<title>🌓 Écrire et mettre en forme, c&#39;est pas pareil</title>
+				<title>Octobre 2026</title>
+				<link>http://localhost:1313/carnets/octobre-2026/</link>
+				<pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/carnets/octobre-2026/</guid>
+				<description>&lt;blockquote&gt;&#xA;&lt;p&gt;Chaque mois, je garde quelques traces écrites de ce qu&amp;rsquo;ont été les semaines passées. À terme, cela pourra devenir un vrai journal de bord. J&amp;rsquo;y rassemble quelques réflexions personnelles. Vous pourrez les découvrir dans &lt;a href=&#34;http://localhost:1313/tags/carnet/&#34;&gt;cette liste&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;h2 id=&#34;prologue&#34;&gt;Prologue&lt;/h2&gt;&#xA;&lt;p&gt;En octobre, je reprends le format &lt;em&gt;Carnet&lt;/em&gt; que j&amp;rsquo;ai inauguré il y a plusieurs années. À l&amp;rsquo;époque, il me permettait de garder une trace de ce qui m&amp;rsquo;avait occupé. Aujourd&amp;rsquo;hui, il retrouve sa place, avec une forme renouvelée. Celui-ci paraîtra peut-être trop technique à des non-initiés, trop superficiel à des érudits. C&amp;rsquo;est un risque et une dimension que j&amp;rsquo;assume.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Écrire et mettre en forme, c&#39;est pas pareil</title>
 				<link>http://localhost:1313/posts/obsidian-et-word/</link>
 				<pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/posts/obsidian-et-word/</guid>
-				<description>&lt;blockquote&gt;&#xA;&lt;p&gt;Écrire un texte ou le mettre en forme, ce sont deux choses différentes, même si, depuis longtemps, l&amp;rsquo;utilisation courante et généralisée des traitements de textes nous ont fait croire le contraire.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;Depuis que j&amp;rsquo;ai relancé ce blog, lorsque j&amp;rsquo;écris un article, je me concentre sur le contenu. J&amp;rsquo;écris &amp;ldquo;au kilomètre&amp;rdquo;, sans trop me soucier de la mise en forme, à part les titres, le gras, l&amp;rsquo;italique que le langage &lt;em&gt;markdown&lt;/em&gt; me permet de formater rapidement au moyen de symboles facilement mémorisables. À la relecture, j&amp;rsquo;ajoute les liens vers d&amp;rsquo;autres articles ou pages ou d&amp;rsquo;autres sites. Là, je suis clairement dans la rédaction - &lt;em&gt;l&amp;rsquo;écriture&lt;/em&gt; - du texte.&lt;/p&gt;</description>
+				<description>&lt;blockquote&gt;&#xA;&lt;p&gt;Écrire un texte ou le mettre en forme, ce sont deux choses différentes, même si, depuis longtemps, l&amp;rsquo;utilisation courante et généralisée des traitements de textes nous ont fait croire le contraire.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;Cet article fait suite à ma lecture du billet de &lt;a href=&#34;https://tcrouzet.com/2026/10/27/obsidian-contre-word/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Thierry Crouzet&lt;/a&gt;. Il y parle d&amp;rsquo;écrire avec LA référence que tout le monde utilise&amp;hellip; Peut-être à tort d&amp;rsquo;ailleurs : MS Word. Faites comme moi, demandez autour de vous, à des connaissances écrivains ou non, quel programme utilisent-ils pour rédiger leur texte. La réponse sera certainement unanime : Word. Et c&amp;rsquo;est peut-être là le problème.&lt;/p&gt;</description>
 			</item>
 			<item>
-				<title>🌓 Parce que tout est lié</title>
+				<title>Parce que tout est lié</title>
 				<link>http://localhost:1313/posts/liens-bidirectionnels/</link>
 				<pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/posts/liens-bidirectionnels/</guid>
-				<description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;En parcourant le web et en dialoguant avec Gemini IA, il est apparu la notion de &amp;ldquo;liens bidirectionnels&amp;rdquo;. Je me suis intéressé à la pertinence de cette manière de relier des articles entre eux. Je vous propose un début de réflexion&lt;/p&gt;&#xA;&lt;h2 id=&#34;contexte&#34;&gt;Contexte&lt;/h2&gt;&#xA;&lt;p&gt;Quand j&amp;rsquo;écris un article dans &lt;a href=&#34;http://localhost:1313/posts/Obsidian/&#34;&gt;Obsidian&lt;/a&gt; je peux facilement pointer un texte, une phrase ou un paragraphe entier vers un autre article déjà paru. Le programme liste alors les autres articles qui mentionnent ce terme. J&amp;rsquo;ai donc une vision d&amp;rsquo;ensemble de comment mes notes et mes réflexions s&amp;rsquo;articulent les unes avec les autres.&lt;/p&gt;</description>
+				<description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;En parcourant le web et en dialoguant avec Gemini IA, il est apparu la notion de &amp;ldquo;liens bidirectionnels&amp;rdquo;. Je me suis intéressé à la pertinence de cette manière de relier des articles entre eux. Je vous propose un début de réflexion&lt;/p&gt;&#xA;&lt;h2 id=&#34;contexte&#34;&gt;Contexte&lt;/h2&gt;&#xA;&lt;p&gt;Quand j&amp;rsquo;écris un article dans &lt;a href=&#34;http://localhost:1313/posts/Obsidian/&#34;&gt;Obsidian&lt;/a&gt; je peux facilement pointer un texte, une phrase ou un paragraphe entier vers un autre article déjà paru. Mais comment rendre visible le lien depuis l&amp;rsquo;article précédent, sans devoir passer en revue toutes les notes déjà rédigées ?&lt;/p&gt;</description>
 			</item>
 			<item>
-				<title>🌓 Je n&#39;écrirai pas 100 articles en 100 jours</title>
+				<title>Je n&#39;écrirai pas 100 articles en 100 jours</title>
 				<link>http://localhost:1313/posts/100articles/</link>
 				<pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/posts/100articles/</guid>
@@ -40,13 +47,6 @@
 				<pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/posts/obsidian/</guid>
 				<description>&lt;p&gt;&lt;em&gt;Image générée par ChatGPT&lt;/em&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;J&amp;rsquo;ai découvert à nouveau un outil d&amp;rsquo;écriture que j&amp;rsquo;avais testé il y a plusieurs années, mais sans conviction. Aujourd&amp;rsquo;hui, &lt;em&gt;Obsidian&lt;/em&gt;, puisque c&amp;rsquo;est de lui qu&amp;rsquo;il s&amp;rsquo;agit, est devenu mon meilleur outil pour écrire sans distraction. Ce n&amp;rsquo;est pas un traitement de texte, mais l&amp;rsquo;essentiel y est. Je vous partage mon cheminement entre indifférence et vrai intérêt.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;Je n&amp;rsquo;ai jamais appris de langage informatique de programmation. J&amp;rsquo;ai plutôt découvert certaines pratiques par tâtonnements, par essais et par conclusion. Depuis la diffusion grand public de l&amp;rsquo;intelligence artificielle, mon apprentissage a pris une nouvelle tournure, avec un gain de temps, mais aussi et surtout plus de compréhension.&lt;/p&gt;</description>
-			</item>
-			<item>
-				<title>📒 Carnet du mois • Octobre 2026</title>
-				<link>http://localhost:1313/carnets/octobre-2026/</link>
-				<pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/carnets/octobre-2026/</guid>
-				<description>&lt;blockquote&gt;&#xA;&lt;p&gt;Chaque mois, je garde quelques traces écrites de ce qu&amp;rsquo;ont été les semaines passées. À terme, cela pourra devenir un vrai journal de bord. J&amp;rsquo;y rassemble quelques réflexions personnelles. Vous pourrez les découvrir dans &lt;a href=&#34;http://localhost:1313/tags/carnet/&#34;&gt;cette liste&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;h2 id=&#34;prologue&#34;&gt;Prologue&lt;/h2&gt;&#xA;&lt;p&gt;En octobre, je reprends le format &lt;em&gt;Carnet&lt;/em&gt; que j&amp;rsquo;ai inauguré il y a plusieurs années. À l&amp;rsquo;époque, il me permettait de garder une trace de ce qui m&amp;rsquo;avait occupé. Aujourd&amp;rsquo;hui, il retrouve sa place, avec une forme renouvelée. Celui-ci paraîtra peut-être trop technique à des non-initiés, trop superficiel à des érudits. C&amp;rsquo;est un risque et une dimension que j&amp;rsquo;assume.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Je relance ce blog en 2026</title>

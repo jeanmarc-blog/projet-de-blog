@@ -14,11 +14,11 @@
 		
 			<atom:link href="http://localhost:1313/tags/croissant/index.xml" rel="self" type="application/rss+xml" />
 			<item>
-				<title>🌒 Parce que tout est lié</title>
+				<title>🌓 Parce que tout est lié</title>
 				<link>http://localhost:1313/posts/liens-bidirectionnels/</link>
 				<pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/posts/liens-bidirectionnels/</guid>
-				<description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;En parcourant le web et en dialoguant avec Gemini IA, il est apparu la notion de &amp;ldquo;liens bidirectionnels&amp;rdquo;. Je me suis intéressé à la pertinence de cette manière de relier des articles entre eux. Je vous propose un début de réflexion&lt;/p&gt;&#xA;&lt;h2 id=&#34;contexte&#34;&gt;Contexte&lt;/h2&gt;&#xA;&lt;p&gt;Quand j&amp;rsquo;écris un article dans &lt;a href=&#34;http://localhost:1313/posts/Obsidian&#34;&gt;Obsidian&lt;/a&gt; je peux facilement pointer un texte, une phrase ou un paragraphe entier vers un autre article déjà paru. Le programme liste alors les autres articles qui mentionnent ce terme. J&amp;rsquo;ai donc une vision d&amp;rsquo;ensemble de comment mes notes et mes réflexions s&amp;rsquo;articulent les unes avec les autres.&lt;/p&gt;</description>
+				<description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;En parcourant le web et en dialoguant avec Gemini IA, il est apparu la notion de &amp;ldquo;liens bidirectionnels&amp;rdquo;. Je me suis intéressé à la pertinence de cette manière de relier des articles entre eux. Je vous propose un début de réflexion&lt;/p&gt;&#xA;&lt;h2 id=&#34;contexte&#34;&gt;Contexte&lt;/h2&gt;&#xA;&lt;p&gt;Quand j&amp;rsquo;écris un article dans &lt;a href=&#34;http://localhost:1313/posts/Obsidian/&#34;&gt;Obsidian&lt;/a&gt; je peux facilement pointer un texte, une phrase ou un paragraphe entier vers un autre article déjà paru. Le programme liste alors les autres articles qui mentionnent ce terme. J&amp;rsquo;ai donc une vision d&amp;rsquo;ensemble de comment mes notes et mes réflexions s&amp;rsquo;articulent les unes avec les autres.&lt;/p&gt;</description>
 			</item>
 	</channel>
 </rss>
