@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Tags on Mon carnet numérique</title>
-		<link>http://localhost:49674/tags/</link>
+		<link>http://localhost:1313/tags/</link>
 		<description>Recent content in Tags on Mon carnet numérique</description>
 		<generator>Hugo</generator>
 		<language>fr</language>
@@ -10,147 +10,154 @@
 		
 		
 		
-			<lastBuildDate>Mon, 09 Nov 2026 00:00:00 +0000</lastBuildDate>
+			<lastBuildDate>Tue, 10 Nov 2026 00:00:00 +0000</lastBuildDate>
 		
-			<atom:link href="http://localhost:49674/tags/index.xml" rel="self" type="application/rss+xml" />
-			<item>
-				<title>CARNET</title>
-				<link>http://localhost:49674/tags/carnet/</link>
-				<pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
-				<guid>http://localhost:49674/tags/carnet/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Blog</title>
-				<link>http://localhost:49674/tags/blog/</link>
-				<pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
-				<guid>http://localhost:49674/tags/blog/</guid>
-				<description></description>
-			</item>
+			<atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Écriture</title>
-				<link>http://localhost:49674/tags/%C3%A9criture/</link>
-				<pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
-				<guid>http://localhost:49674/tags/%C3%A9criture/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Construction</title>
-				<link>http://localhost:49674/tags/construction/</link>
-				<pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
-				<guid>http://localhost:49674/tags/construction/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Jardin</title>
-				<link>http://localhost:49674/tags/jardin/</link>
-				<pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
-				<guid>http://localhost:49674/tags/jardin/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>RELANCE</title>
-				<link>http://localhost:49674/tags/relance/</link>
-				<pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
-				<guid>http://localhost:49674/tags/relance/</guid>
+				<link>http://localhost:1313/tags/%C3%A9criture/</link>
+				<pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/%C3%A9criture/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>IA</title>
-				<link>http://localhost:49674/tags/ia/</link>
-				<pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
-				<guid>http://localhost:49674/tags/ia/</guid>
+				<link>http://localhost:1313/tags/ia/</link>
+				<pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/ia/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Littérature</title>
+				<link>http://localhost:1313/tags/litt%C3%A9rature/</link>
+				<pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/litt%C3%A9rature/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>CARNET</title>
+				<link>http://localhost:1313/tags/carnet/</link>
+				<pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/carnet/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Blog</title>
+				<link>http://localhost:1313/tags/blog/</link>
+				<pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/blog/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Construction</title>
+				<link>http://localhost:1313/tags/construction/</link>
+				<pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/construction/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Jardin</title>
+				<link>http://localhost:1313/tags/jardin/</link>
+				<pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/jardin/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Relance</title>
+				<link>http://localhost:1313/tags/relance/</link>
+				<pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/relance/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>EXPÉRIENCE</title>
-				<link>http://localhost:49674/tags/exp%C3%A9rience/</link>
+				<link>http://localhost:1313/tags/exp%C3%A9rience/</link>
 				<pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
-				<guid>http://localhost:49674/tags/exp%C3%A9rience/</guid>
+				<guid>http://localhost:1313/tags/exp%C3%A9rience/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>MOIS</title>
-				<link>http://localhost:49674/tags/mois/</link>
+				<link>http://localhost:1313/tags/mois/</link>
 				<pubDate>Wed, 31 Mar 2021 09:13:07 +0200</pubDate>
-				<guid>http://localhost:49674/tags/mois/</guid>
+				<guid>http://localhost:1313/tags/mois/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>PRATIQUE</title>
-				<link>http://localhost:49674/tags/pratique/</link>
+				<link>http://localhost:1313/tags/pratique/</link>
 				<pubDate>Tue, 24 Nov 2020 10:23:19 +0100</pubDate>
-				<guid>http://localhost:49674/tags/pratique/</guid>
+				<guid>http://localhost:1313/tags/pratique/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>PROJET</title>
-				<link>http://localhost:49674/tags/projet/</link>
+				<link>http://localhost:1313/tags/projet/</link>
 				<pubDate>Sat, 21 Nov 2020 10:17:04 +0100</pubDate>
-				<guid>http://localhost:49674/tags/projet/</guid>
+				<guid>http://localhost:1313/tags/projet/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>OUTILS</title>
-				<link>http://localhost:49674/tags/outils/</link>
+				<link>http://localhost:1313/tags/outils/</link>
 				<pubDate>Mon, 31 Aug 2020 15:32:37 +0200</pubDate>
-				<guid>http://localhost:49674/tags/outils/</guid>
+				<guid>http://localhost:1313/tags/outils/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>EXPRESSION</title>
-				<link>http://localhost:49674/tags/expression/</link>
+				<link>http://localhost:1313/tags/expression/</link>
 				<pubDate>Sun, 30 Aug 2020 18:26:53 +0200</pubDate>
-				<guid>http://localhost:49674/tags/expression/</guid>
+				<guid>http://localhost:1313/tags/expression/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>MOTIVATION</title>
-				<link>http://localhost:49674/tags/motivation/</link>
+				<link>http://localhost:1313/tags/motivation/</link>
 				<pubDate>Sun, 30 Aug 2020 18:26:53 +0200</pubDate>
-				<guid>http://localhost:49674/tags/motivation/</guid>
+				<guid>http://localhost:1313/tags/motivation/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>DIFFUSION</title>
-				<link>http://localhost:49674/tags/diffusion/</link>
+				<link>http://localhost:1313/tags/diffusion/</link>
 				<pubDate>Thu, 27 Aug 2020 11:06:42 +0200</pubDate>
-				<guid>http://localhost:49674/tags/diffusion/</guid>
+				<guid>http://localhost:1313/tags/diffusion/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>PARTAGE</title>
-				<link>http://localhost:49674/tags/partage/</link>
+				<link>http://localhost:1313/tags/partage/</link>
 				<pubDate>Sun, 02 Aug 2020 15:00:39 +0200</pubDate>
-				<guid>http://localhost:49674/tags/partage/</guid>
+				<guid>http://localhost:1313/tags/partage/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>RESEAU</title>
-				<link>http://localhost:49674/tags/reseau/</link>
+				<link>http://localhost:1313/tags/reseau/</link>
 				<pubDate>Sun, 02 Aug 2020 15:00:39 +0200</pubDate>
-				<guid>http://localhost:49674/tags/reseau/</guid>
+				<guid>http://localhost:1313/tags/reseau/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>GEEK</title>
-				<link>http://localhost:49674/tags/geek/</link>
+				<link>http://localhost:1313/tags/geek/</link>
 				<pubDate>Mon, 20 Jul 2020 00:00:00 +0000</pubDate>
-				<guid>http://localhost:49674/tags/geek/</guid>
+				<guid>http://localhost:1313/tags/geek/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>IDEES</title>
-				<link>http://localhost:49674/tags/idees/</link>
+				<link>http://localhost:1313/tags/idees/</link>
 				<pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
-				<guid>http://localhost:49674/tags/idees/</guid>
+				<guid>http://localhost:1313/tags/idees/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>CODE</title>
-				<link>http://localhost:49674/tags/code/</link>
+				<link>http://localhost:1313/tags/code/</link>
 				<pubDate>Fri, 26 Jun 2020 00:00:00 +0000</pubDate>
-				<guid>http://localhost:49674/tags/code/</guid>
+				<guid>http://localhost:1313/tags/code/</guid>
 				<description></description>
 			</item>
 	</channel>

@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Jardin on Mon carnet numérique</title>
-		<link>http://localhost:49674/tags/jardin/</link>
+		<link>http://localhost:1313/tags/jardin/</link>
 		<description>Recent content in Jardin on Mon carnet numérique</description>
 		<generator>Hugo</generator>
 		<language>fr</language>
@@ -12,13 +12,13 @@
 		
 			<lastBuildDate>Tue, 27 Oct 2026 00:00:00 +0000</lastBuildDate>
 		
-			<atom:link href="http://localhost:49674/tags/jardin/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:1313/tags/jardin/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Parce que tout est lié</title>
-				<link>http://localhost:49674/posts/liens-bidirectionnels/</link>
+				<link>http://localhost:1313/posts/liens-bidirectionnels/</link>
 				<pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
-				<guid>http://localhost:49674/posts/liens-bidirectionnels/</guid>
-				<description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;En parcourant le web et en dialoguant avec Gemini IA, il est apparu la notion de &amp;ldquo;liens bidirectionnels&amp;rdquo;. Je me suis intéressé à la pertinence de cette manière de relier des articles entre eux. Je vous propose un début de réflexion&lt;/p&gt;&#xA;&lt;h2 id=&#34;contexte&#34;&gt;Contexte&lt;/h2&gt;&#xA;&lt;p&gt;Quand j&amp;rsquo;écris un article dans &lt;a href=&#34;http://localhost:49674/posts/Obsidian/&#34;&gt;Obsidian&lt;/a&gt; je peux facilement pointer un texte, une phrase ou un paragraphe entier vers un autre article déjà paru. Mais comment rendre visible le lien depuis l&amp;rsquo;article précédent, sans devoir passer en revue toutes les notes déjà rédigées ?&lt;/p&gt;</description>
+				<guid>http://localhost:1313/posts/liens-bidirectionnels/</guid>
+				<description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;En parcourant le web et en dialoguant avec Gemini IA, il est apparu la notion de &amp;ldquo;liens bidirectionnels&amp;rdquo;. Je me suis intéressé à la pertinence de cette manière de relier des articles entre eux. Je vous propose un début de réflexion&lt;/p&gt;&#xA;&lt;h2 id=&#34;contexte&#34;&gt;Contexte&lt;/h2&gt;&#xA;&lt;p&gt;Quand j&amp;rsquo;écris un article dans &lt;a href=&#34;http://localhost:1313/posts/Obsidian/&#34;&gt;Obsidian&lt;/a&gt; je peux facilement pointer un texte, une phrase ou un paragraphe entier vers un autre article déjà paru. Mais comment rendre visible le lien depuis l&amp;rsquo;article précédent, sans devoir passer en revue toutes les notes déjà rédigées ?&lt;/p&gt;</description>
 			</item>
 	</channel>
 </rss>

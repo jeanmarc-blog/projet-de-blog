@@ -82,3 +82,15 @@ article a {
   margin-left: 0.4em;
   font-size: 0.9em;
 }
+
+/* Le badge "à lire aussi" en harmonie papier */
+.pagination__title-h {
+  background-color: transparent;  /* ou #FAF9F6, ou même #5a7d5a */
+  color: #4a6741;
+}
+/* Empêcher Disqus de pousser la page hors de l'écran */
+.post-comments,
+#disqus_thread {
+  max-width: 100%;
+  overflow-x: auto;
+}
