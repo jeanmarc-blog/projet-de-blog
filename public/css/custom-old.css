@@ -1,0 +1,97 @@
+/* Fond papier + texte doux */
+body {
+  background-color: #FAF9F6;
+  color: #333333;
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 18px;
+  line-height: 1.6;
+}
+
+/* Colonne de lecture centrée, pas trop large */
+main, .content {
+  max-width: 700px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+/* Liens vert sauge */
+a {
+  color: #5a7d5a;
+}
+
+:root {
+  /* Remplacer le bleu du thème par le vert sauge du jardin */
+  --accent: #5a7d5a;
+}
+/* Intégrer le bandeau titre au fond papier */
+.logo {
+  background-color: transparent;
+  color: #2C2C2C;
+}
+
+/* Supprimer le curseur décoratif qui clignote à côté du titre */
+.logo__cursor {
+  display: none;
+}
+
+/* Neutraliser le curseur / traits décoratifs du terminal */
+.logo__cursor,
+.logo__mark,
+.logo::after,
+.header::after {
+  display: none;
+}
+
+/* Supprimer les décorations de l'en-tête */
+.header__inner::before,
+.header__inner::after,
+.header::before,
+.header::after {
+  display: none;
+}
+
+/* Liens dans les articles, dates et tags */
+.posts a,
+.post a,
+.post-meta a,
+.post-meta,
+.posts-list a,
+article a {
+  color: #5a7d5a;
+}
+
+.post-cover {
+  border: 5pt solid #5a7d5a; /* cadre fin, vert sauge */
+  padding: 4px;
+}
+
+.logo {
+  font-family: "Palatino Linotype", Palatino, "Book Antiqua", Georgia, serif;
+  font-style: italic;
+  font-size: 1.6rem;
+  color: #4a6741;
+}
+
+.date-liste {
+  font-size: 0.8em;
+  color: #8a8a8a;
+  margin-left: 0.5em;
+}
+
+.statut {
+  margin-left: 0.4em;
+  font-size: 0.9em;
+}
+
+/* Le badge "à lire aussi" en harmonie papier */
+.pagination__title-h {
+  background-color: transparent;  /* ou #FAF9F6, ou même #5a7d5a */
+  color: #4a6741;
+}
+
+   /* Empêcher Disqus de pousser la page hors de l'écran */
+   .post-comments,
+   #disqus_thread {
+     max-width: 100%;
+     overflow-x: auto;
+   }

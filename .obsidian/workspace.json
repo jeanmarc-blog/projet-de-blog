@@ -1,32 +1,24 @@
 {
   "main": {
-    "id": "9891d8ebc4df01d0",
+    "id": "73e36a9948cb0db3",
     "type": "split",
     "children": [
       {
-        "id": "a81334e6b0835780",
+        "id": "2028a5b7d09276f7",
         "type": "tabs",
         "children": [
           {
-            "id": "dad97d9dd911e0b1",
+            "id": "781ef15b03314b67",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-<<<<<<< HEAD
                 "file": "content/philosophie.md",
-=======
-                "file": "content/posts/jai-lu-orelien.md",
->>>>>>> 2bf575108798d6a0aee670082e099cc2c689cd02
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-<<<<<<< HEAD
               "title": "philosophie"
-=======
-              "title": "jai-lu-orelien"
->>>>>>> 2bf575108798d6a0aee670082e099cc2c689cd02
             }
           }
         ]
@@ -35,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "82cc9e9fab34119b",
+    "id": "af435533a54a4b14",
     "type": "split",
     "children": [
       {
-        "id": "c64103778b0732f3",
+        "id": "9fe6357fabc7a48f",
         "type": "tabs",
         "children": [
           {
-            "id": "ed06475377e4da8f",
+            "id": "8cde0e0731e2ea93",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -58,7 +50,7 @@
             }
           },
           {
-            "id": "2dec1b25f78811c4",
+            "id": "847f2d1437e8cd7f",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -75,7 +67,7 @@
             }
           },
           {
-            "id": "5dd0591f2bbb8833",
+            "id": "b5802632975fb544",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -94,38 +86,39 @@
     "width": 300
   },
   "right": {
-    "id": "fdc0117e15578130",
+    "id": "e5c458da50db70f9",
     "type": "split",
     "children": [
       {
-        "id": "664269a4f2dceff2",
+        "id": "4e9b88f4c5c375a9",
         "type": "tabs",
         "children": [
           {
-            "id": "8240fa6cfcfd71ca",
+            "id": "146edfdcc86e0048",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/jai-lu-orelien.md",
+                "file": "content/philosophie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
-                "showSearch": true,
+                "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
               "title": "Rétroliens"
             }
           },
           {
-            "id": "d46bd511d3dea9e3",
+            "id": "ace8247a4e44a72c",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "content/philosophie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -134,7 +127,7 @@
             }
           },
           {
-            "id": "17b53036fc6e05cb",
+            "id": "178cdbbfe2cbf71f",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -149,7 +142,7 @@
             }
           },
           {
-            "id": "0b0723be317843f9",
+            "id": "b6b2c18b13516cf7",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -163,12 +156,12 @@
             }
           },
           {
-            "id": "b9dbb4674029e343",
+            "id": "94caf05e28a7d76e",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "themes/terminal/static/img/obsidiancapture.png",
+                "file": "content/philosophie.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -176,92 +169,28 @@
               "icon": "lucide-list",
               "title": "Plan"
             }
-          },
-          {
-            "id": "85309e44ec95af63",
-            "type": "leaf",
-            "state": {
-              "type": "file-properties",
-              "state": {
-                "file": "content/posts/100 articles.md"
-              },
-              "icon": "lucide-info",
-              "title": "Propriétés du fichier"
-            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "canvas:Créer un nouveau canvas": false,
       "switcher:Ouvrir le sélecteur rapide": false,
       "graph:Ouvrir la vue graphique": false,
+      "canvas:Créer un nouveau canvas": false,
       "daily-notes:Ouvrir la note quotidienne": false,
       "templates:Insérer le modèle": false,
       "command-palette:Ouvrir la palette de commandes": false,
       "bases:Créer une nouvelle base": false
     }
   },
-  "active": "dad97d9dd911e0b1",
+  "active": "781ef15b03314b67",
   "lastOpenFiles": [
-<<<<<<< HEAD
-    "about.md",
-    "content/philosophie.md",
-    "layouts/Article-projet-de-blog.md",
-    "content/posts/Liens bidirectionnels.md",
-    "Invalid date.md",
-=======
-    "public/tags/littérature/page/1/index.html",
-    "public/tags/littérature/page/1",
-    "public/tags/littérature/index.html",
-    "public/tags/littérature/index.xml",
-    "public/tags/littérature/page",
-    "public/tags/littérature",
-    "public/posts/jai-lu-orelien/index.html",
-    "public/posts/jai-lu-orelien",
-    "posts/facebook.md",
-    "content/posts/jai-lu-orelien.md",
-    "content/carnets/octobre-2026.md",
-    "content/posts/100articles.md",
-    "carnets/octobre-2026 3.md",
-    "carnets/octobre-2026 2.md",
-    "carnets/octobre-2026 1.md",
-    "carnets/octobre-2026.md",
-    "carnets/octobre.md",
-    "carnets",
-    "content/carnets/novembre-2026.md",
-    "content/carnets/_index.md",
-    "content/posts/obsidian-et-word.md",
-    "public/img/carnet-de-blog.png",
-    "themes/terminal/static/img/carnet-de-blog.png",
-    "public/carnets/novembre-2026/index.html",
-    "public/carnets/novembre-2026",
-    "public/img/carnet-de-blog.jpg",
-    "themes/terminal/static/img/carnet-de-blog.jpg",
-    "content/posts/liens bidirectionnels.md",
-    "content/contact.md",
-    "public/img/ecrire.jpg",
-    "themes/terminal/static/img/ecrire.jpg",
->>>>>>> 2bf575108798d6a0aee670082e099cc2c689cd02
-    "content/posts/j'ai créé une page Actuel.md",
-    "content/posts/_index.md",
-    "posts/100 articles.md",
-    "archetypes/default.md",
-    "content/posts/exemple.md",
-    "Sans titre.canvas",
-    "layouts/Article-projet-de-blog.md",
-    "archetypes/posts.md",
-    "content/philosophie.md",
-    "content/posts/Obsidian.md",
-    "content/posts/100 articles 1.md",
-    "content/posts/100 articles.md",
-    "themes/terminal/static/img/explosion.jpg",
-    "public/img/Locarno.jpg",
-    "themes/terminal/static/img/Locarno.jpg",
-    "public/img/Rondchamp.jpg"
+    "content/mon-parcours.md",
+    "content/philosophie.md"
   ]
 }

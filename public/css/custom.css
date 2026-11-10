@@ -88,9 +88,90 @@ article a {
   background-color: transparent;  /* ou #FAF9F6, ou même #5a7d5a */
   color: #4a6741;
 }
-/* Empêcher Disqus de pousser la page hors de l'écran */
-.post-comments,
-#disqus_thread {
-  max-width: 100%;
-  overflow-x: auto;
+
+   /* Empêcher Disqus de pousser la page hors de l'écran */
+   .post-comments,
+   #disqus_thread {
+     max-width: 100%;
+     overflow-x: auto;
+   }
+
+
+/* Adaptation des articles et des pages aux écrans de téléphone */
+@media screen and (max-width: 600px) {
+
+  /* Inclure les bordures et les marges internes dans les largeurs */
+  *,
+  *::before,
+  *::after {
+    box-sizing: border-box;
+  }
+
+  /* Garder les colonnes de contenu dans la largeur disponible */
+  html,
+  body,
+  main,
+  .content,
+  .post,
+  article,
+  .post-content {
+    min-width: 0;
+    max-width: 100%;
+  }
+
+  main,
+  .content {
+    width: 100%;
+    padding-left: 12px;
+    padding-right: 12px;
+  }
+
+  /* Les images et médias ne doivent jamais dépasser leur conteneur */
+  img,
+  video,
+  iframe,
+  embed,
+  object {
+    max-width: 100%;
+  }
+
+  img,
+  video {
+    height: auto;
+  }
+
+  /* Permettre aux titres et aux textes longs de revenir à la ligne */
+  h1,
+  h2,
+  h3,
+  h4,
+  p,
+  li,
+  a {
+    overflow-wrap: anywhere;
+  }
+
+  /* Réduire légèrement les grands titres sur téléphone */
+  h1 {
+    font-size: clamp(1.5rem, 7vw, 2rem);
+    line-height: 1.25;
+  }
+
+  h2 {
+    font-size: clamp(1.25rem, 6vw, 1.6rem);
+    line-height: 1.3;
+  }
+
+  /* Les blocs de code et tableaux peuvent défiler sans élargir la page */
+  pre,
+  table {
+    display: block;
+    max-width: 100%;
+    overflow-x: auto;
+  }
+
+  /* Le cadre des images reste compris dans la largeur disponible */
+  .post-cover {
+    max-width: 100%;
+  }
 }

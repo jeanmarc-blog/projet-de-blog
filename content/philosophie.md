@@ -1,21 +1,17 @@
 ---
-<<<<<<< HEAD
-title: Philosophie de l'auteur
-date: 2020-06-26T16:52:38+02:00
-draft: false
-cover: /img/cahier-jardin.jpg
----
-*Mise à jour le 27 octobre 2026*
-=======
 title: Philosophie de mon jardin numérique
 date: 2020-06-26T16:44:44+02:00
 draft: false
 cover: /img/cahier-jardin.jpg
-description: Qu'est-ce qui m'a amené à passer d'un blog "classique" à un jardin numérique ? Et quelle est la philosophie qui me guide dans ce projet ?
+description: Qu'est-ce 
 ---
+*Mise à jour le 27 octobre 2026*
+
+qui m'a amené à passer d'un blog "classique" à un jardin numérique ? Et quelle est la philosophie qui me guide dans ce projet ?
+
 *Image de couverture générée par ChatGPT* • 
 **_Mise à jour le 27 octobre 2026_**
->>>>>>> 2bf575108798d6a0aee670082e099cc2c689cd02
+
 
 > *Un blog parmi tant d'autres. Un blog pas comme les autres. Pourquoi ? Parce qu'il est unique, parce que c'est le mien.*
 
@@ -25,12 +21,9 @@ En publiant les premiers articles en 2020, j'ai considéré cet espace comme un 
 ### Un espace bien à moi
 Je l'ai aussi voulu, ce blog, dans un autre esprit que ce que je publiais ailleurs : il ne sera pas (ou très peu) en lien avec [réformé & connecté](https://jeanmarcleresche.ch) qui a une dimension spirituelle et théologique affichée.
 
-<<<<<<< HEAD
  C'est d'ailleurs le sens du mot [*blog*](https://www.journaldunet.fr/web-tech/dictionnaire-du-webmastering/1203251-blog-definition-et-acteurs/). Mais de journal *intime* ou *personnel*, le blog est devenu un vrai média, un moyen de réseauté, de lier et relier d'autres blogs avec le sien, de devenir *influenceur*.
-=======
 ### L'IA est devenue mon complice
 Entre temps, l'intelligence artificielle a pris son envol et est devenue accessible au grand public. Je l'ai donc utilisée pour m'aider à [relancer ce carnet](/posts/relance-2026/), en réglant des problèmes techniques. Il y a eu des réussites, des échecs, des doutes, une motivation renouvelée. Et je me prends à cultiver cet espace, comme d'autres font du jardinage. Je ne sais pas encore si j'ai la main verte !
->>>>>>> 2bf575108798d6a0aee670082e099cc2c689cd02
 
 ### Pas de pression, juste du plaisir
 Je ne sais pas non plus si mon carnet de notes trouvera son audience, s'il ne parlera qu'à quelques visiteurs occasionnels. Je doute qu'il devienne une référence, me fasse gagner de l'argent, atteigne la gloire. Ou un jour, de guerre lasse,  je me déciderai à le fermer. [En tout cas, je n'écrirai pas 100 articles en 100 jours](/posts/100articles/).
