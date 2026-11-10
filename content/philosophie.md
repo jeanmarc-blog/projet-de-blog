@@ -1,10 +1,10 @@
 ---
-title: "Philosophie de l'auteur"
+title: Philosophie de l'auteur
 date: 2020-06-26T16:52:38+02:00
-
 draft: false
+cover: /img/cahier-jardin.jpg
 ---
-{{< image src="/img/blog.jpg" alt="un blog" position="center" style="border-radius: 8px;" >}}
+*Mise à jour le 27 octobre 2026*
 
 > *Un blog parmi tant d'autres. Un blog pas comme les autres. Pourquoi ? Parce qu'il est unique, parce que c'est le mien.*
 
@@ -12,7 +12,7 @@ draft: false
 
 Je considère pour l'instant ce blog comme un carnet de notes, un journal[^1], mais aussi un [laboratoire grandeur nature](/about/#des-projets-avec-et-sans-lendemains).
 
-[^1]: C'est d'ailleurs le sens du mot [*blog*](https://www.journaldunet.fr/web-tech/dictionnaire-du-webmastering/1203251-blog-definition-et-acteurs/). Mais de journal *intime* ou *personnel*, le blog est devenu un vrai média, un moyen de réseauté, de lier et relier d'autres blogs avec le sien, de devenir *influenceur*.
+ C'est d'ailleurs le sens du mot [*blog*](https://www.journaldunet.fr/web-tech/dictionnaire-du-webmastering/1203251-blog-definition-et-acteurs/). Mais de journal *intime* ou *personnel*, le blog est devenu un vrai média, un moyen de réseauté, de lier et relier d'autres blogs avec le sien, de devenir *influenceur*.
 
 Ce blog aura un autre esprit que mon autre blog : il ne sera pas (ou très peu) en lien avec [réformé & connecté](https://jeanmarcleresche.ch). Je ne sais pas s'il trouvera son audience, s'il ne parlera qu'à quelques visiteurs occasionnels, s'il deviendra une référence, me fera gagner de l'argent, atteindre la gloire ou me conduira, un jour à le fermer. Comme je ne sais pas, je me lance. Je m'y risque.
 
