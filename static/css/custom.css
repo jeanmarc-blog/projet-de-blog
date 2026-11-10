@@ -88,9 +88,10 @@ article a {
   background-color: transparent;  /* ou #FAF9F6, ou même #5a7d5a */
   color: #4a6741;
 }
-/* Empêcher Disqus de pousser la page hors de l'écran */
-.post-comments,
-#disqus_thread {
-  max-width: 100%;
-  overflow-x: auto;
-}
+
+   /* Empêcher Disqus de pousser la page hors de l'écran */
+   .post-comments,
+   #disqus_thread {
+     max-width: 100%;
+     overflow-x: auto;
+   }
