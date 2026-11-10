@@ -1,1 +1,7 @@
-{}
+{
+  "showUnsupportedFiles": false,
+  "useMarkdownLinks": true,
+  "newLinkFormat": "absolute",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "posts"
+}

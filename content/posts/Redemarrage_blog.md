@@ -2,10 +2,9 @@
 title = "Redémarrer mon blog"
 date = "2026-09-22"
 author = "Jean-Marc Leresche"
-authorTwitter = "jleresche" #do not include @
 tags = ["RELANCE", "BLOG", "EXPÉRIENCE"]
 keywords = ["", ""]
-description = "En septembre 2026, je me remets à ce blog en comptant sur l'IA pour m'aider à évoluer positivement"
+description = "En octobre 2026, je me remets à ce blog en comptant sur l'IA pour m'aider à évoluer positivement"
 showFullContent = false
 draft = true
 +++
@@ -17,6 +16,7 @@ Je me réfère à trois IA d'abord, promues par des sociétés suisses ou en tou
 * [Euria d'Infomaniak](https://euria.infomaniak.com/)
 * [Apertus de l'EPFL](https://chat.publicai.co/auth?redirect=%2F)
 
+À l'usage, j'ai eu recours à [Copilot de Microsoft](https://copilot.com/fr-fr/).
 # Un langage agréable
 Écrire sur ce blog statique, c'est utiliser le langage [_markdown_](https://www.markdownlang.com/fr/) qui emploie quelques balises syntaxiques faciles à retenir. Cela permet de rédiger avec un minimum de distraction. C'est un mode de saisie que j'aime bien
 

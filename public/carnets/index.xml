@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>carnets on Mon carnet numérique</title>
+		<link>http://localhost:1313/carnets/</link>
+		<description>Recent content in carnets on Mon carnet numérique</description>
+		<generator>Hugo</generator>
+		<language>fr</language>
+		
+		
+		
+		
+			<lastBuildDate>Mon, 09 Nov 2026 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/carnets/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Novembre 2026</title>
+				<link>http://localhost:1313/carnets/novembre-2026/</link>
+				<pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/carnets/novembre-2026/</guid>
+				<description>&lt;blockquote&gt;&#xA;&lt;p&gt;Chaque mois, je garde quelques traces écrites de ce qu’ont été les semaines passées. À terme, cela pourra devenir un vrai journal de bord. J’y rassemble quelques réflexions personnelles. Vous pourrez les découvrir dans &lt;a href=&#34;http://localhost:1313/tags/carnet/&#34;&gt;cette liste&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;h2 id=&#34;prologue&#34;&gt;Prologue&lt;/h2&gt;&#xA;&lt;p&gt;La différence saute aux yeux: fini le fond noir et l’écriture un tantinet trop ordinateur des années 80. Place à un site tout beau tout neuf. Tout n’a pas été simple, mais le résultat est là et il me plaît. Au passage, ce carnet va adopter la &lt;a href=&#34;http://localhost:1313/philosophie/&#34;&gt;philosophie du jardin numérique&lt;/a&gt;.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Octobre 2026</title>
+				<link>http://localhost:1313/carnets/octobre-2026/</link>
+				<pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/carnets/octobre-2026/</guid>
+				<description>&lt;blockquote&gt;&#xA;&lt;p&gt;Chaque mois, je garde quelques traces écrites de ce qu&amp;rsquo;ont été les semaines passées. À terme, cela pourra devenir un vrai journal de bord. J&amp;rsquo;y rassemble quelques réflexions personnelles. Vous pourrez les découvrir dans &lt;a href=&#34;http://localhost:1313/tags/carnet/&#34;&gt;cette liste&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;h2 id=&#34;prologue&#34;&gt;Prologue&lt;/h2&gt;&#xA;&lt;p&gt;En octobre, je reprends le format &lt;em&gt;Carnet&lt;/em&gt; que j&amp;rsquo;ai inauguré il y a plusieurs années. À l&amp;rsquo;époque, il me permettait de garder une trace de ce qui m&amp;rsquo;avait occupé. Aujourd&amp;rsquo;hui, il retrouve sa place, avec une forme renouvelée. Celui-ci paraîtra peut-être trop technique à des non-initiés, trop superficiel à des érudits. C&amp;rsquo;est un risque et une dimension que j&amp;rsquo;assume.&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>

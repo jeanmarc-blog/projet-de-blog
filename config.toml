@@ -1,21 +1,24 @@
 baseurl = "https://carnetdeblog.netlify.app/"
-languageCode = "fr-fr"
 defaultContentLanguage = "fr"
 theme = "terminal"
 paginate = 3
 
 [params]
+# Indiquez le chemin relatif de votre fichier custom.css depuis le dossier assets ou static
   contentTypeName = "posts"
   themeColor = "blue"
+  favicon = "img/favicon/vert.png"
   showMenuItems = 7
   showLanguageSelector = false
   fullWidthTheme = false
   centerTheme = true
+  
+  
 
 [languages]
   [languages.fr]
-    languageName = "Français"
-    title = "Mon carnet de blog | Une expérience avec l'aide de l'IA"
+    label = "Français"
+    title = "Mon carnet numérique"
     keywords = ""
     copyright = ""
     menuMore = "En savoir plus"
@@ -23,7 +26,7 @@ paginate = 3
     readOtherPosts = "à lire aussi"
 
     [languages.fr.params.logo]
-      logoText = "Mon carnet de blog | Une expérience avec l'aide de l'IA"
+      logoText = "Mon carnet numérique | Une expérience avec l'aide de l'IA"
       logoHomeLink = "/"
 
     [languages.fr.menu]
@@ -31,6 +34,10 @@ paginate = 3
         identifier = "auteur"
         name = "auteur"
         url = "/about"
+      [[languages.fr.menu.main]]
+      	identifier = "blog"
+	name = "blog"
+	url = "/posts"
 
       [[languages.fr.menu.main]]
         identifier = "actuel"
@@ -43,23 +50,9 @@ paginate = 3
         url = "/contact"
 
       [[languages.fr.menu.main]]
-        identifier = "philosophie"
-        name = "philosophie"
-        url = "/philosophie"
+        identifier = "Carnets"
+        name = "carnets"
+        url = "/carnets/"
 
-      [[languages.fr.menu.main]]
-        identifier = "parcours"
-        name = "parcours"
-        url = "/mon-parcours"
-
-      [[languages.fr.menu.main]]
-        identifier = "perspectives"
-        name = "perspectives"
-        url = "/perspectives"
-
-      [[languages.fr.menu.main]]
-        identifier = "sources"
-        name = "sources"
-        url = "/sources"
 
 disqusShortname = "https-carnetdeblog-netlify-app"

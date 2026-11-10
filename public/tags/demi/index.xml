@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Demi on Mon carnet numérique</title>
+		<link>http://localhost:1313/tags/demi/</link>
+		<description>Recent content in Demi on Mon carnet numérique</description>
+		<generator>Hugo</generator>
+		<language>fr</language>
+		
+		
+		
+		
+			<lastBuildDate>Thu, 29 Oct 2026 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/tags/demi/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>🌓 Écrire et mettre en forme, c&#39;est pas pareil</title>
+				<link>http://localhost:1313/posts/obsidian-et-word/</link>
+				<pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/posts/obsidian-et-word/</guid>
+				<description>&lt;blockquote&gt;&#xA;&lt;p&gt;Écrire un texte ou le mettre en forme, ce sont deux choses différentes, même si, depuis longtemps, l&amp;rsquo;utilisation courante et généralisée des traitements de textes nous ont fait croire le contraire.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;Cet article fait suite à ma lecture du billet de &lt;a href=&#34;https://tcrouzet.com/2026/10/27/obsidian-contre-word/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Thierry Crouzet&lt;/a&gt;. Il y parle d&amp;rsquo;écrire avec LA référence que tout le monde utilise&amp;hellip; Peut-être à tort d&amp;rsquo;ailleurs : MS Word. Faites comme moi, demandez autour de vous, à des connaissances écrivains ou non, quel programme utilisent-ils pour rédiger leur texte. La réponse sera certainement unanime : Word. Et c&amp;rsquo;est peut-être là le problème.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>🌓 Je n&#39;écrirai pas 100 articles en 100 jours</title>
+				<link>http://localhost:1313/posts/100articles/</link>
+				<pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/posts/100articles/</guid>
+				<description>&lt;p&gt;&lt;em&gt;Image de couverture créée par ChatGPT&lt;/em&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;Il y a quelques jours, je suis tombé sur des blogs incitant à écrire un article par jour pendant 100 jours, à l&amp;rsquo;image de &lt;a href=&#34;https://boxing-tennis.com/100-articles-en-100-jours/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Boxing Tennis&lt;/a&gt; ou celui de &lt;a href=&#34;https://www.jcdichant.com/un-article-par-jour-pendant-100-jours-chiffres-problemes-succes/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jean-Christophe Dichant&lt;/a&gt; mais il y en a pléthore. Ces articles donnent sans doute de bonnes raisons. Mais&amp;hellip;&lt;/p&gt;&#xA;&lt;p&gt;Mais, je ne vais pas relever ce défi, parce que je ne veux pas m&amp;rsquo;imposer une telle pression. Je privilégierai un rythme qui m&amp;rsquo;est propre. Il y aura peut-être plusieurs articles en quelques jours et aucun en une autre période. Cela n&amp;rsquo;est pas grave, du moment que j&amp;rsquo;y trouve mon plaisir, car c&amp;rsquo;est bien cela qui me motive.&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>

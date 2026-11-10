@@ -3,7 +3,9 @@ title: ""
 date:
 draft: true
 tags:
-summary: ""
+description: ""
+cover:
+statut:
 ---
 
 ## Introduction
@@ -13,3 +15,5 @@ summary: ""
 ## Développement
 
 ## Conclusion
+
+### Pour aller plus loin
