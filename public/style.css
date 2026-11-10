@@ -1,0 +1,68 @@
+/* =================================
+   CARNET NUMÉRIQUE
+   Identité visuelle
+   ================================= */
+
+/* Police Lora */
+
+@import url('https://fonts.googleapis.com/css2?family=Lora:wght@400;500;600;700&display=swap');
+
+
+/* Palette de couleurs */
+
+:root {
+    --background: #F5F0E6;
+    --foreground: #344F6B;
+    --accent: #477A9E;
+}
+
+
+/* Fond et typographie générale */
+
+body {
+    background-color: #F5F0E6 !important;
+    color: #344F6B !important;
+    font-family: 'Lora', Georgia, serif !important;
+}
+
+
+/* Titres */
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Lora', Georgia, serif !important;
+    color: #29445F !important;
+}
+
+
+/* Paragraphes */
+
+p {
+    color: #344F6B;
+    line-height: 1.8;
+}
+
+
+/* Liens */
+
+a {
+    color: #477A9E !important;
+}
+
+a:hover {
+    color: #29445F !important;
+}
+
+
+/* Séparateurs */
+
+hr {
+    border-color: #D8D0C2;
+}
+
+
+/* Blocs de code : conserver l'esprit informatique */
+
+pre, code {
+    font-family: monospace !important;
+}
+

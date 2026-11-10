@@ -23,7 +23,7 @@ Vous pouvez m'envoyer un message électronique à cette [adresse](mailto:jm.lere
 Il est possible que vous trouviez mon nom sur des réseaux sociaux, mais je n'y suis plus actif du tout.
 
 
-## Pour être tout à fait transparent, voici mes coordonnées :
+## Pour être tout à fait transparent, voici mes coordonnées :
 
 Jean-Marc Leresche  
 Les Prises 6  

@@ -4,12 +4,16 @@ theme = "terminal"
 paginate = 3
 
 [params]
+# Indiquez le chemin relatif de votre fichier custom.css depuis le dossier assets ou static
   contentTypeName = "posts"
   themeColor = "blue"
+  favicon = "img/favicon/vert.png"
   showMenuItems = 7
   showLanguageSelector = false
   fullWidthTheme = false
   centerTheme = true
+  
+  
 
 [languages]
   [languages.fr]

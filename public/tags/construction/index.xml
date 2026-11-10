@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Construction on Mon carnet numérique</title>
-		<link>http://localhost:1313/tags/construction/</link>
+		<link>http://localhost:49674/tags/construction/</link>
 		<description>Recent content in Construction on Mon carnet numérique</description>
 		<generator>Hugo</generator>
 		<language>fr</language>
@@ -12,26 +12,26 @@
 		
 			<lastBuildDate>Tue, 27 Oct 2026 00:00:00 +0000</lastBuildDate>
 		
-			<atom:link href="http://localhost:1313/tags/construction/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:49674/tags/construction/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Parce que tout est lié</title>
-				<link>http://localhost:1313/posts/liens-bidirectionnels/</link>
+				<link>http://localhost:49674/posts/liens-bidirectionnels/</link>
 				<pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/posts/liens-bidirectionnels/</guid>
-				<description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;En parcourant le web et en dialoguant avec Gemini IA, il est apparu la notion de &amp;ldquo;liens bidirectionnels&amp;rdquo;. Je me suis intéressé à la pertinence de cette manière de relier des articles entre eux. Je vous propose un début de réflexion&lt;/p&gt;&#xA;&lt;h2 id=&#34;contexte&#34;&gt;Contexte&lt;/h2&gt;&#xA;&lt;p&gt;Quand j&amp;rsquo;écris un article dans &lt;a href=&#34;http://localhost:1313/posts/Obsidian/&#34;&gt;Obsidian&lt;/a&gt; je peux facilement pointer un texte, une phrase ou un paragraphe entier vers un autre article déjà paru. Mais comment rendre visible le lien depuis l&amp;rsquo;article précédent, sans devoir passer en revue toutes les notes déjà rédigées ?&lt;/p&gt;</description>
+				<guid>http://localhost:49674/posts/liens-bidirectionnels/</guid>
+				<description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;En parcourant le web et en dialoguant avec Gemini IA, il est apparu la notion de &amp;ldquo;liens bidirectionnels&amp;rdquo;. Je me suis intéressé à la pertinence de cette manière de relier des articles entre eux. Je vous propose un début de réflexion&lt;/p&gt;&#xA;&lt;h2 id=&#34;contexte&#34;&gt;Contexte&lt;/h2&gt;&#xA;&lt;p&gt;Quand j&amp;rsquo;écris un article dans &lt;a href=&#34;http://localhost:49674/posts/Obsidian/&#34;&gt;Obsidian&lt;/a&gt; je peux facilement pointer un texte, une phrase ou un paragraphe entier vers un autre article déjà paru. Mais comment rendre visible le lien depuis l&amp;rsquo;article précédent, sans devoir passer en revue toutes les notes déjà rédigées ?&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Je relance ce blog en 2026</title>
-				<link>http://localhost:1313/posts/relance-2026/</link>
+				<link>http://localhost:49674/posts/relance-2026/</link>
 				<pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/posts/relance-2026/</guid>
+				<guid>http://localhost:49674/posts/relance-2026/</guid>
 				<description>&lt;p&gt;&lt;em&gt;Image de couverture générée par IA (Copilot)&lt;/em&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;J&amp;rsquo;ai lancé ce blog en 2020, en pleine crise du Covid, alors que j&amp;rsquo;avais plus de temps pour moi. J&amp;rsquo;ai essayé de comprendre ce que je faisais en alignant du code dans le terminal de mon mac. À cette époque, l&amp;rsquo;intelligence artificielle grand public n&amp;rsquo;en était qu&amp;rsquo;à ses balbutiements et je me suis découragé, j&amp;rsquo;ai laissé ce blog, tenté de le relancé à plusieurs reprises et sans conviction.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>De la discussion à un copier-coller</title>
-				<link>http://localhost:1313/posts/de-la-discussion-%C3%A0-un-copier-coller/</link>
+				<link>http://localhost:49674/posts/de-la-discussion-%C3%A0-un-copier-coller/</link>
 				<pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/posts/de-la-discussion-%C3%A0-un-copier-coller/</guid>
+				<guid>http://localhost:49674/posts/de-la-discussion-%C3%A0-un-copier-coller/</guid>
 				<description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction.&lt;/h2&gt;&#xA;&lt;p&gt;Il y a quelques jours, j&amp;rsquo;ai eu envie de créer une page intitulée &lt;em&gt;Blog&lt;/em&gt; sur mon carnet. L&amp;rsquo;idée était de lister les articles déjà parus, puisque la page d&amp;rsquo;accueil ne montrait que les 5 derniers. J&amp;rsquo;aurais pu, évidemment, allonger la liste des articles sur cette page. C&amp;rsquo;est d&amp;rsquo;ailleurs la première solution que l&amp;rsquo;IA m&amp;rsquo;a suggérée. Mais, je voulais une page dédiée.&lt;/p&gt;&#xA;&lt;h2 id=&#34;premières-tentatives&#34;&gt;Premières tentatives.&lt;/h2&gt;&#xA;&lt;p&gt;Le flux de discussion m&amp;rsquo;a d&amp;rsquo;abord conduit à créer une page en html dans le dossier &lt;em&gt;content&lt;/em&gt; -&amp;gt; &lt;em&gt;posts&lt;/em&gt; de mon dépôt sur mon disque dur, qui rassemble les articles de mon blog. Puis à y insérer quelques lignes. Le premier résultat a été les articles entiers mis bout à bout. C&amp;rsquo;était un premier pas, mais je souhaitais une &lt;strong&gt;liste à puces&lt;/strong&gt;, plus élégante, à mon sens. Et c&amp;rsquo;est là que les choses se sont un peu gâtées avec l&amp;rsquo;IA qui me proposait du code que j&amp;rsquo;entrais . Je relançais le blog et le résultat n&amp;rsquo;était pas là. Il y avait des puces, mais les titres des articles n&amp;rsquo;étaient pas cliquables. Cela ne me servait donc à rien ! J&amp;rsquo;essayais, au moyen de captures d&amp;rsquo;écran de montrer le problème et l&amp;rsquo;IA ne cessait de prétendre qu&amp;rsquo;on était à une ligne de la solution… Sauf que cette ligne, je ne l&amp;rsquo;ai jamais vue et que la solution me paraissait hors de (ma) portée.&lt;/p&gt;</description>
 			</item>
 	</channel>

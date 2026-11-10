@@ -7,7 +7,7 @@ tags:
   - jardin
 description: Je m'interroge sur la pertinence de liens bidirectionnels dans la mise en relation de mes articles.
 cover:
-statut: 🌓 en développement
+statut: 🌿 en développement
 ---
 
 ## Introduction

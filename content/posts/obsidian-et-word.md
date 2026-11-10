@@ -7,7 +7,7 @@ tags:
   - blog
 description: J'explore la différence entre un outil d'écriture et un traitement de texte.
 cover: /img/ecrire.jpg
-statut: 🌓 en développement
+statut: 🌿 en développement
 ---
 > Écrire un texte ou le mettre en forme, ce sont deux choses différentes, même si, depuis longtemps, l'utilisation courante et généralisée des traitements de textes nous ont fait croire le contraire.
 ## Introduction

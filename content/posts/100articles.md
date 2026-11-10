@@ -8,7 +8,7 @@ tags:
   - relance
 description: Je préfère écrire quand j'en ressens l'envie ou le besoin et non pour essayer de gonfler des statistiques
 cover: /img/explosion.jpg
-statut: 🌔 abouti
+statut: 🪴abouti
 ---
 *Image de couverture créée par ChatGPT*
 ## Introduction
