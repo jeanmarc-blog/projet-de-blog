@@ -5,12 +5,11 @@ draft: false
 cover: /img/cahier-jardin.jpg
 description: Qu'est-ce 
 ---
-*Mise à jour le 27 octobre 2026*
 
-qui m'a amené à passer d'un blog "classique" à un jardin numérique ? Et quelle est la philosophie qui me guide dans ce projet ?
 
-*Image de couverture générée par ChatGPT* • 
-**_Mise à jour le 27 octobre 2026_**
+Qu’est-ce qui m'a amené à passer d'un blog "classique" à un jardin numérique ? Et quelle est la philosophie qui me guide dans ce projet ?
+
+*Image de couverture générée par ChatGPT* • **_Mise à jour le 27 octobre 2026_**
 
 
 > *Un blog parmi tant d'autres. Un blog pas comme les autres. Pourquoi ? Parce qu'il est unique, parce que c'est le mien.*

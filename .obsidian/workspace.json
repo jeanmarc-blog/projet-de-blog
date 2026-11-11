@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/philosophie.md",
+                "file": "content/posts/jai-lu-orelien.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "philosophie"
+              "title": "jai-lu-orelien"
             }
           }
         ]
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/philosophie.md",
+                "file": "content/posts/jai-lu-orelien.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/philosophie.md",
+                "file": "content/posts/jai-lu-orelien.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/philosophie.md",
+                "file": "content/posts/jai-lu-orelien.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -169,13 +169,25 @@
               "icon": "lucide-list",
               "title": "Plan"
             }
+          },
+          {
+            "id": "2315337d43ebd58b",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "content/posts/jai-lu-orelien.md"
+              },
+              "icon": "lucide-info",
+              "title": "Propriétés du fichier"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -190,7 +202,15 @@
   },
   "active": "781ef15b03314b67",
   "lastOpenFiles": [
-    "content/mon-parcours.md",
-    "content/philosophie.md"
+    "content/posts/Bangs.md",
+    "public/img/livres.jpg",
+    "themes/terminal/static/img/livres.jpg",
+    "public/posts/bangs/index.html",
+    "public/posts/bangs",
+    "public/posts/sans-titre/index.html",
+    "public/posts/sans-titre",
+    "content/posts/jai-lu-orelien.md",
+    "content/philosophie.md",
+    "content/mon-parcours.md"
   ]
 }
