@@ -49,3 +49,4 @@ Et vous, si vous utilisez Obsidian, quels usages en faites-vous ? Partagez vos r
 
 - [relance de mon blog en 2026](/posts/relance-2026/) qui explique les outils que j'utilise.
 - [ma page 'Actuel'](/actuel/) qui partage mes réflexions du moment.
+- [Obsidian - Prenez vos notes sans dépendre de personne - Korben](https://korben.info/obsidian-editeur-notes-markdown.html)

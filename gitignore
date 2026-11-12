@@ -1,0 +1,8 @@
+# Notes de lecture privées (jamais publiées)
+notes-lectures/
+
+# S'il est partagé entre plusieurs machines, plus de sécurité
+**/notes-lectures/
+
+# Fichier système
+.DS_Store

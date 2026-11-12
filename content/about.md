@@ -1,18 +1,29 @@
 ---
-title: "Qui suis-je… vaste question ! Restons-en à quelques faits"
+title: Qui est l'auteur de ce blog ?
 date: 2020-06-26T16:44:44+02:00
 draft: false
 ---
-{{< image src="/img/geek.jpg" alt="Un geek en devenir ça ressemble à ça" position="center" style="border-radius: 8px;" >}}
+*Mise à jour le 12 novembre 2026*
 
-> *Qui es-tu, toi qui me demandes qui je suis ?*
 
-## Un geek en devenir
-Je suis Jean-Marc Leresche, un *geek* en devenir qui s'intéresse à plein de choses en lien avec l'internet, les réseaux sociaux, les blogs et nouvellement avec les [sites statiques](/perspectives/). L'informatique et l'internet m'intéressent. Je me suis longtemps tourné vers la bureautique, les suites Microsoft Office, LibreOffice, précédemement il y a eu [MS-Works](https://fr.wikipedia.org/wiki/Microsoft_Works). Aujourd'hui, je tente et je teste le blog au moyen d'un site statique. J'ai déjà une expérience [Wordpress](https:jeanmarcleresche.ch).
+> *Quelques mots pour au sujet de l’auteur de ce carnet numérique.*
 
-*"En devenir"* signifie que j'apprends, que j'évolue, que je teste, que je renonce, que je recommence, que j'abandonne, que je persévère... Rien n'est vraiment définitif, rien n'est vraiment acquis *une bonne fois pour toutes*.
+## Curieux de nature
+Je suis Jean-Marc Leresche, j’ai la cinquantaine bien entamée, je suis marié et je m’intéresse à plein de choses en lien avec internet, [les blogs](/posts/mes-blogs/) et les moyens d’expression sur le web. Si j’ai succombé à l’appel des réseaux sociaux, je n’y suis plus. Le caractère éphémère et le manque de transparence et de cadre m’y ont fait renoncer. Je m’en porte très bien.
 
-## Des projets avec et sans lendemains
-Certaines initiatives vont perdurer, d'autres vont disparaître. C'est normal, puisque je suis un *laborantin* qui cherche, qui confirme, qui infirme. Et tout cela se passe à l'échelle 1:1, sur ce blog. Les choses évoluent et vont évoluer. Vite ou lentement, ce sera selon mes humeurs du moment.
+J’essaie de suivre les évolutions informatiques en général  et la démocratisation de l’intelligence artificielle  donne une nouvelle dimension à cet univers. 
 
-{{< image src="/img/labo.jpg" alt="Un blog, c'est un laboratoire" position="center" style="border-radius: 8px;" >}}
+Je me suis longtemps tourné vers les outils de bureautique.  J'ai déjà une autre expérience d’un blog sous [Wordpress](https:jeanmarcleresche.ch). Aujourd'hui, en automne 2026, [je reprends ce blog au moyen d'un site statique](/posts/relance-2026/) et j’en perce peu à peu les secrets, assisté par des IA qui m’aident dans le codage. 
+
+## L’écriture au centre
+Que ce soit dans mon métier de diacre, engagé dans une Église réformée cantonale de Suisse romande, dans mes loisirs et mes centres d’intérêt, [j’aime lire](/posts/jai-lu-orelien/) et l’écriture occupe une place très importante. 
+Que ce soit la rédaction de prédications, de méditations, d’articles, de billets de blog, de nouvelles, de romans, j’aime écrire. Je ne sais pas si c’est un besoin, une passion ou autre chose, mais l’écriture m’appelle et ce blog est un espace dédié pour y répondre à cet appel.
+
+## Créativité et réflexions
+Dans ce que j’appelle mon *carnet numérique*, je consigne des idées, des réflexions ; je laisse libre cours à ma créativité, sans trop me soucier des statistiques. Bien sûr, je suis heureux quand un résultat pointe vers un de mes billets, mais je n’en fais pas un but en soi.
+
+J’écris, je crée, je trouve du plaisir et cela me suffit.
+
+
+
+
