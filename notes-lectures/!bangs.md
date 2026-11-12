@@ -18,3 +18,10 @@ Les recherches sont plus ciblées et les résultats pertinents sont moins noyés
 
 # Inconvénients
 Je risque de passer à côté de liens qui pourraient être intéressés, mais autres que les cibles que j’ai indiquées au navigateurs.
+
+## Ce que je crois avoir compris
+C’est une économie de frappes et de clics. Dans une recherche conventionnelle, je tape d’abord l’adresse d’un moteur de recherche (Google, Duckduck Go, …) À l’intérieur, je tape l’objet de ma recherche et je scrolle l’ensemble des résutats provenant de différentes sources jusqu’à trouver la page qui serait la plus pertinente pour répondre à ma requête (biographie, liste de livres, site d’achat…)
+
+Les !bangs me permettent __sans moteur de page de recherche__ de passer d’un type de recherche à un autre recherche  : après avoir lu la page Wikipédia, je veux trouver des images, puis des livres disponibles à la vente.
+
+Avec les !bangs, je limite la recherche et donc l’affichage à un type de site connu (par exemple, Wikipedia, Google images ou news…) sans me noyer dans un océan de liens.

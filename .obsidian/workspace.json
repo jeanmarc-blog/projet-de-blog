@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/about.md",
+                "file": "notes-lectures/!bangs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "about"
+              "title": "!bangs"
             }
           }
         ],
@@ -218,8 +218,8 @@
   },
   "active": "3fb8083e46ea3f1f",
   "lastOpenFiles": [
-    "perspectives.md",
     "content/about.md",
+    "perspectives.md",
     "content/posts/Obsidian.md",
     "about.md",
     "notes-lectures/!bangs.md",
