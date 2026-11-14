@@ -8,7 +8,7 @@ tags:
   - CARNET
   - OUTILS
 description: La découverte des !bangs sur mon navigateur facilite la recherche, vraiment ?
-cover:
+cover: /img/bang.jpg
 statut: 🪴abouti
 ---
 *Mise à jour le 14 novembre 2026.*
