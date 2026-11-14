@@ -16,7 +16,7 @@ La rentrée littéraire et la distribution des prix littéraires ont été boule
 
 ## Contexte
 On se souvient que l’auteur canadien et d’origine haïtienne,[ Thélyson Orélien](https://fr.wikipedia.org/wiki/Th%C3%A9lyson_Or%C3%A9lien) a sorti son premier roman [*C’était ça ou mourir*](https://fr.wikipedia.org/wiki/C%27%C3%A9tait_%C3%A7a_ou_mourir) courant 2026. D’abord encensé par les critiques, qualifié de roman de l’année, son livre a ensuite été la cible d’attaques: l’auteur ne le serait que partiellement, ayant eu recours à l’intelligence artificielle. Et tout s’enchaîne: les accusations, les démentis de l’auteur, son mea culpa (mentionnant au passage des plagiats précédents), le retrait du livre et de son auteur des candidats aux récompenses et enfin la rupture de son contrat avec son éditeur Les Éditions du Boréal.
-##Développement
+
 Ce qui m’a convaincu d’aller au-delà des préjugés, c’est ce billet de Thierry Crouzet: [Éloge de Thelyson Orélien](https://tcrouzet.com/2026/10/22/eloge-thelyson-orelien/), l’un des seuls peut-être à ne pas lapider l’auteur.
 
 ## Juger par moi-même

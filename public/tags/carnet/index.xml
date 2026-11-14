@@ -14,11 +14,11 @@
 		
 			<atom:link href="http://localhost:1313/tags/carnet/index.xml" rel="self" type="application/rss+xml" />
 			<item>
-				<title>Et Bangs, c&#39;est trouvé !</title>
+				<title>Et !bang, c&#39;est trouvé !</title>
 				<link>http://localhost:1313/posts/bangs/</link>
 				<pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/posts/bangs/</guid>
-				<description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;Je viens de découvrir une fonctionnalité intéressante dans mon navigateur internet &lt;em&gt;Brave&lt;/em&gt; : les Bangs. Ils me permettent de cibler les recherches en les limitant, par exemple, à Wikipedia, Youtube, à des images…&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://support.brave.app/hc/fr/articles/4410152384781-Quelles-bangs-puis-je-utiliser-dans-le-moteur-de-recherche-Brave&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Un site pour commencer à propos des Bangs sur le moteur de recherche Brave&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;J’en dirai plus bientôt.&lt;/p&gt;&#xA;&lt;h2 id=&#34;contexte&#34;&gt;Contexte&lt;/h2&gt;&#xA;&lt;h2 id=&#34;développement&#34;&gt;Développement&lt;/h2&gt;&#xA;&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;&#xA;&lt;h3 id=&#34;pour-aller-plus-loin&#34;&gt;Pour aller plus loin&lt;/h3&gt;</description>
+				<description>&lt;p&gt;&lt;em&gt;Mise à jour le 14 novembre 2026.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;Je viens de découvrir une fonctionnalité intéressante dans mon navigateur internet &lt;em&gt;Brave&lt;/em&gt; : les Bangs. Ils me permettent de cibler les recherches en les limitant, par exemple, à Wikipedia, Youtube, à des images… Formule magique, vraie aide ou truc de &lt;em&gt;geek&lt;/em&gt; ? Je fais le point sur ma pratique de quelques jours.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://support.brave.app/hc/fr/articles/4410152384781-Quelles-bangs-puis-je-utiliser-dans-le-moteur-de-recherche-Brave&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Un site pour commencer à propos des Bangs sur le moteur de recherche Brave&lt;/a&gt;&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Novembre 2026</title>
