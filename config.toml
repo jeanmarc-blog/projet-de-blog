@@ -54,5 +54,16 @@ paginate = 3
         name = "carnets"
         url = "/carnets/"
 
+      [[languages.fr.menu.main]]
+        identifier = "Rechercher"
+        name = "rechercher"
+        url = "/recherche/"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+
 
 disqusShortname = "https-carnetdeblog-netlify-app"
