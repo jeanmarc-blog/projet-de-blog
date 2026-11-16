@@ -66,6 +66,8 @@ paginate = 3
     [markup.goldmark.renderer]
       unsafe = true
 
+[frontmatter]
+  lastmod = ["lastmod", ":fileModTime", ":default"]
 
 
 disqusShortname = "https-carnetdeblog-netlify-app"
