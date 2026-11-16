@@ -14,9 +14,9 @@
     {{ with .Params.statut }}
       <span class="post-statut"> — {{ . }}</span>
     {{ end }}
-    {{ if .Params.lastmod }}
-      <span class="post-lastmod"> — taillé le {{ .Lastmod.Format "02.01.2006" }}</span>
-    {{ end }}
+    {{ with .Params.révision }}
+  <span class="post-lastmod"> — taillé le {{ (time .).Format "02.01.2006" }}</span>
+{{ end }}
   </div>
 
   {{ if .Params.tags }}

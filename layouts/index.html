@@ -17,9 +17,20 @@
 	➡️ <a href="/posts/">Liste de tous les billets</a>
 </p>
 
-<p>
-	💡 Il est aussi possible de parcourir ce jardin par thèmes <a href="/tags/ia/">ia</a> • <a href="/tags/écriture/">écriture</a> • <a href="/tags/outils">outils</a>
+  <h2>Dernières tailles du jardin</h2>
 
+   <ul>
+     {{ $articles := where .Site.RegularPages "Section" "posts" }}
+     {{ $tailles := where $articles "Params.révision" "!=" nil }}
+     {{ range ($tailles.ByParam "révision").Reverse | first 2 }}
+     <li>
+      <a href="{{ .RelPermalink }}">{{ .Title }}</a> mis à jour le         {{ (time .Params.révision).Format "02.01.2006" }}
+     </li>
+  {{ end }}
+</ul>
+
+<p>
+  💡 Il est aussi possible de parcourir ce jardin par thèmes <a href="/tags/ia/">ia</a> • <a href="/tags/écriture/">écriture</a> • <a href="/tags/outils">outils</a>
 </p>
 
 <h2>Un contenu hétéroclite</h2>

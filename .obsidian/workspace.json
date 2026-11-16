@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/Bangs.md",
+                "file": "content/posts/jai-lu-orelien.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bangs"
+              "title": "jai-lu-orelien"
             }
           }
         ]
@@ -203,6 +203,8 @@
   },
   "active": "781ef15b03314b67",
   "lastOpenFiles": [
+    "content/posts/Bangs.md",
+    "content/posts/novembre.md",
     "content/posts/100articles.md",
     "content/posts/jai-lu-orelien.md",
     "posts/2026-11-16.md",
@@ -212,7 +214,6 @@
     "archetypes/posts.md",
     "posts/facebook.md",
     "public/img/thelyson.jpg",
-    "content/posts/Bangs.md",
     "content/about.md",
     "content/posts/fevrier.md",
     "content/posts/fausses-excuses.md",

@@ -9,7 +9,7 @@ tags:
 description: Une réflexion sur ma lecture du livre de Thélyson Orélien "C'était ça ou mourir"
 cover: /img/thelyson.jpg
 statut: 🪴abouti
-lastmod: 2026-11-16
+révision: 2026-11-16
 ---
 *Image de couverture : image générée par Gemini*
 ## Introduction

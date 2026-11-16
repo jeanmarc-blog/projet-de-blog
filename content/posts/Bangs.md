@@ -9,7 +9,7 @@ tags:
 description: La découverte des !bangs sur mon navigateur facilite la recherche, vraiment ?
 cover: /img/bang.jpg
 statut: 🌿 en développement
-lastmod: 2026-11-15
+révision: 2026-11-15
 ---
 
 *Image générée par Gemini* 
