@@ -18,22 +18,6 @@
 </p>
 
 <p>
-
-<div class="recent-updates">
-  <h2>Dernières mises à jour</h2>
-  <ul>
-    {{ $articles := where .Site.RegularPages "Section" "posts" }}
-{{ range (where $articles "Params.lastmod" "!=" nil).ByLastmod.Reverse | first 2 }}
-      <li>
-        <a href="{{ .RelPermalink }}">{{ .Title }}</a>
-        <span class="date"> (le {{ .Lastmod.Format "02.01.2006" }})</span>
-      </li>
-    {{ end }}
-  </ul>
-</div>
-</p>
-
-<p>
 	💡 Il est aussi possible de parcourir ce jardin par thèmes <a href="/tags/ia/">ia</a> • <a href="/tags/écriture/">écriture</a> • <a href="/tags/outils">outils</a>
 
 </p>

@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Littérature on Mon carnet numérique</title>
-		<link>http://localhost:1313/tags/litt%C3%A9rature/</link>
+		<link>http://localhost:49675/tags/litt%C3%A9rature/</link>
 		<description>Recent content in Littérature on Mon carnet numérique</description>
 		<generator>Hugo</generator>
 		<language>fr</language>
@@ -12,13 +12,13 @@
 		
 			<lastBuildDate>Mon, 16 Nov 2026 00:00:00 +0000</lastBuildDate>
 		
-			<atom:link href="http://localhost:1313/tags/litt%C3%A9rature/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:49675/tags/litt%C3%A9rature/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>J&#39;ai lu &#39;C&#39;était ça ou mourir&#39; et j&#39;ai aimé</title>
-				<link>http://localhost:1313/posts/jai-lu-orelien/</link>
+				<link>http://localhost:49675/posts/jai-lu-orelien/</link>
 				<pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/posts/jai-lu-orelien/</guid>
-				<description>&lt;p&gt;&lt;em&gt;Image de couverture : image générée par Gemini&lt;/em&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;La rentrée littéraire et la distribution des prix littéraires ont été bouleversées par ce qui est devenu &lt;em&gt;l’Affaire Thélyson Orélien&lt;/em&gt;. J’en parle dans mon &lt;a href=&#34;http://localhost:1313/carnets/octobre-2026/#lia-au-quotidien&#34;&gt;Carnet d’octobre&lt;/a&gt;. J’ai hésité à lire ce roman. Je me suis rendu plusieurs fois à la librairie, mais je l’ai laissé sur le rayon. Et puis un jour, j’ai craqué. Je l’ai acheté, je l’ai lu et… J’ai aimé!&lt;/p&gt;</description>
+				<guid>http://localhost:49675/posts/jai-lu-orelien/</guid>
+				<description>&lt;p&gt;&lt;em&gt;Image de couverture : image générée par Gemini&lt;/em&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;La rentrée littéraire et la distribution des prix littéraires ont été bouleversées par ce qui est devenu &lt;em&gt;l’Affaire Thélyson Orélien&lt;/em&gt;. J’en parle dans mon &lt;a href=&#34;http://localhost:49675/carnets/octobre-2026/#lia-au-quotidien&#34;&gt;Carnet d’octobre&lt;/a&gt;. J’ai hésité à lire ce roman. Je me suis rendu plusieurs fois à la librairie, mais je l’ai laissé sur le rayon. Et puis un jour, j’ai craqué. Je l’ai acheté, je l’ai lu et… J’ai aimé!&lt;/p&gt;</description>
 			</item>
 	</channel>
 </rss>
