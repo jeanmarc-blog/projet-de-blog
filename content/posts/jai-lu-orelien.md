@@ -7,10 +7,11 @@ tags:
   - IA
   - littérature
 description: Une réflexion sur ma lecture du livre de Thélyson Orélien "C'était ça ou mourir"
-cover: /img/livres.jpg
+cover: /img/thelyson.jpg
 statut: 🪴abouti
+lastmod: 2026-11-16
 ---
-*Image de couverture : photo personnelle*
+*Image de couverture : image générée par Gemini*
 ## Introduction
 La rentrée littéraire et la distribution des prix littéraires ont été bouleversées par ce qui est devenu *l’Affaire Thélyson Orélien*. J’en parle dans mon [Carnet d’octobre](/carnets/octobre-2026/#lia-au-quotidien). J’ai hésité à lire ce roman. Je me suis rendu plusieurs fois à la librairie, mais je l’ai laissé sur le rayon. Et puis un jour, j’ai craqué. Je l’ai acheté, je l’ai lu et… J’ai aimé!
 
@@ -43,3 +44,4 @@ Cela déplace un peu le débat. Il ne s’agit pas tant de savoir si Thélyson O
 ### Pour aller plus loin
 - Un épisode du [Point J de la RTS](https://www.rts.ch/audio-podcast/2026/audio/affaire-thelyson-orelien-l-ia-peut-elle-ecrire-un-livre-29404665.html) : Écrire un livre avec une IA laisse-t-il encore une place à l’humain ?
 - Un article de [The Conversation](https://theconversation.com/pourquoi-penser-quun-texte-a-ete-ecrit-par-une-ia-change-notre-maniere-de-le-lire-293979) : pourquoi savoir qu’un livre a pu être écrit avec une IA change-t-il notre manière de le lire ?
+- Un billet sous la forme d’un bilan par Thierry Crouzet : [Affaire Orélien : anatomie d’un scandale littéraire](https://tcrouzet.com/2026/11/15/affaire-orelien-bilan/)

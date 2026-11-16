@@ -3,7 +3,7 @@
 <p><em>Un carnet personnel cultivé comme un jardin avec quelques semences d'IA et beaucoup de curiosité.</em></p>
 
 <h2>Bienvenue</h2>
-<p>Je suis <a href="/about/">Jean-Marc Leresche</a> et ceci est mon <em>carnet numérique</em>. Je le conçois comme une expérience de co-construction entre l'intelligence humaine et <a href="/tags/ia/">l'intelligence artificielle</a>. Est-ce que c'est seulement possible ? Souhaitable ? Pertinent ? J'explore ces pistes sans pression.</p>
+<p>Je suis <a href="/about/">Jean-Marc Leresche</a> et ceci est mon <em>carnet numérique</em>. Je le conçois comme une expérience de co-construction entre l'intelligence humaine et l'intelligence artificielle. Est-ce que c'est seulement possible ? Souhaitable ? Pertinent ? J'explore ces pistes sans pression.</p>
 
  <h2>Articles récents</h2>
 
@@ -15,6 +15,22 @@
 
 <p>
 	➡️ <a href="/posts/">Liste de tous les billets</a>
+</p>
+
+<p>
+
+<div class="recent-updates">
+  <h2>Dernières mises à jour</h2>
+  <ul>
+    {{ $articles := where .Site.RegularPages "Section" "posts" }}
+{{ range (where $articles "Params.lastmod" "!=" nil).ByLastmod.Reverse | first 2 }}
+      <li>
+        <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+        <span class="date"> (le {{ .Lastmod.Format "02.01.2006" }})</span>
+      </li>
+    {{ end }}
+  </ul>
+</div>
 </p>
 
 <p>

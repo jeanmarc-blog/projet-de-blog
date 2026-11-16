@@ -5,14 +5,14 @@ draft: false
 tags:
   - écriture
   - jardin
-  - CARNET
-  - OUTILS
+  - outils
 description: La découverte des !bangs sur mon navigateur facilite la recherche, vraiment ?
 cover: /img/bang.jpg
 statut: 🌿 en développement
+lastmod: 2026-11-15
 ---
 
-*Image générée par Gemini* • Mise à jour le 14 novembre 2026. 
+*Image générée par Gemini* 
 
 ## Introduction
 Je viens de découvrir une fonctionnalité intéressante dans mon navigateur internet *Brave* : les Bangs. Ils me permettent de cibler les recherches en les limitant, par exemple, à Wikipédia, Youtube, à des images… Formule magique, vraie aide ou truc de *geek* ? Je fais le point sur ma pratique de quelques jours.

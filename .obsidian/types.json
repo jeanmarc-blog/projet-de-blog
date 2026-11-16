@@ -5,6 +5,7 @@
     "tags": "tags",
     "date": "date",
     "hideComments": "checkbox",
-    "disableComments": "checkbox"
+    "disableComments": "checkbox",
+    "lastmod": "date"
   }
 }

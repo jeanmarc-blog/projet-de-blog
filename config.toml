@@ -12,6 +12,8 @@ paginate = 3
   showLanguageSelector = false
   fullWidthTheme = false
   centerTheme = true
+  showLastUpdated = true
+  updatedDatePrefix = "Taillé le"
   
   
 
