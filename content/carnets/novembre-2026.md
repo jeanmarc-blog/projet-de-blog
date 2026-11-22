@@ -64,6 +64,19 @@ Je trouve que ça en jette et que ça rend la lecture plus agréable, que ça fa
 
 Ça a été le dernier beau week-end avant l’arrivée de la pluie, de la bise et de la première neige. À n’en pas douter, novembre s’est installé.
 
+## Mardi 17
+🌐*En consultant le web*
+
+Aujourd’hui, je découvre quelques sites qui ont une page « actuel » et au hasard de mes recherches, je tombe sur ce billet : [Pourquoi vous devriez lancer un blog · Le journal de Themimitoof](https://themimitoof.fr/pourquoi-vous-devriez-lancer-un-blog/) et cela me rappelle que j’avais écrit, il y a plusieurs années sur ce même site un article assez proche [lancer un blog](/posts/lancer-un-blog/). Ça date de plus de 6 ans, mais les intuitions étaient là et elles sont bonnes. Elles le sont toujours. 
+
+En parlant de la page « Actuel », je m’y suis essayé, mais sans grande conviction et le retour à un carnet que je rédige au jour le jour remplit parfaitement ce rôle et cela me donne encor la liberté de ne pas avoir à « remplir » une pleine page.
+
+## Mercredi 18
+
+🔍 *Pour mes recherches sur le web*
+
+Je découvre les !bangs. Une fonctionnalité  avec le moteur duckduckgo qui permet de cibler directement des recherches sur de nombreux sites. J’en parle dans cet [article](/posts/Bangs/).
+
 ## Dimanche 22 
 🔥*À la maison*
 

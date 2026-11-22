@@ -203,9 +203,11 @@
   },
   "active": "781ef15b03314b67",
   "lastOpenFiles": [
+    "posts/lancer-un-blog.md",
+    "content/carnets/novembre-2026.md",
+    "content/posts/lancer-un-blog.md",
     "content/contact.md",
     "static/img/contact2026.jpg",
-    "content/carnets/novembre-2026.md",
     "static/img/nov26/arbres.jpg",
     "public/img/nov26/moulin.jpg",
     "public/img/moulin.jpg",
@@ -247,7 +249,6 @@
     "content/posts/relance-2026.md",
     "content/posts/reprise-du-blog.md",
     "content/philosophie.md",
-    "notes-lectures/!bangs.md",
-    "perspectives.md"
+    "notes-lectures/!bangs.md"
   ]
 }
