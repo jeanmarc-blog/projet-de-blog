@@ -181,3 +181,20 @@ article a {
   font-style: italic;
   color: #4a6741;
 }
+
+/* Correction du menu mobile */
+
+@media screen and (max-width: 600px) {
+
+  .menu {
+    right: 0;
+    max-width: 220px;
+  }
+
+  .menu__inner,
+  .menu__sub-inner {
+    width: auto;
+    max-width: 220px;
+  }
+
+}

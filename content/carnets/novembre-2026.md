@@ -9,19 +9,19 @@ cover: /img/nov26/feuilles.jpg
 ---
 
 ## Dimanche 1er 
-✏️*Prologue* 
+✏️ *Prologue* 
 
 La différence saute aux yeux: fini le fond noir et l’écriture un tantinet trop ordinateur des années 80. Place à un site tout beau tout neuf. Tout n’a pas été simple, mais le résultat est là et il me plaît. Au passage, ce carnet va adopter la [philosophie du jardin numérique](/philosophie/). C’est en tout cas l’objectif de ce début de mois, mais ça va évoluer.
 
 
 ## Jeudi 5 
-🤔*quelques découvertes*
+🤔 *quelques découvertes*
 
 Comme j’ai passé beaucoup de temps à mettre la présentation de mon carnet en route, le rythme d’écriture en a un peu souffert. Mais, maintenant, tout est en ordre et je pourrai me consacrer à ce qui me plaît vraiment. 
 
 Au passage, j’ai aussi découvert un programme complémentaire (ou *plug-in*) dans [*Obsidian*](/posts/Obsidian/) qui me permet d’ouvrir *Antidote* pour la vérification orthographique et syntaxique de mes articles. En dialoguant avec Copilot, j’ai compris qu’au lieu de vouloir *tout* refondre d’un coup, il est plus motivant de travailler par petites touches, à l’image d’un peintre qui fait évoluer son œuvre au fil des jours. 
 ## Lundi 9 
-⚙️*attention, c’est technique… Un peu*
+⚙️ *attention, c’est technique… Un peu*
 
 En travaillant à la mise à jour de mon carnet numérique, j’en ai appris un peu plus sur le fonctionnement du système *hugo*: il se compose de deux couches que *hugo* lit en partant de la racine vers le thème: tout ce qui se trouve dans le dossier *themes* sont des fichiers-modèles en quelque sorte et qui sont actifs, s’il n’y a pas d’autres indications à la racine du site. 
 
@@ -52,7 +52,7 @@ J’ai donc eu recours à Lumo.ai, le programme de Proton (entreprise suisse qui
 Je trouve que ça en jette et que ça rend la lecture plus agréable, que ça fait moins *truc technique rebutant*.
 
 ## Samedi 14 
-📷*Balade et quelques instantanés*
+📷 *Balade et quelques instantanés*
 
 
 ![La brume annonce que l’automne prend ses quartiers.](/img/nov26/creuxduvan.jpg)
@@ -65,7 +65,7 @@ Je trouve que ça en jette et que ça rend la lecture plus agréable, que ça fa
 Ça a été le dernier beau week-end avant l’arrivée de la pluie, de la bise et de la première neige. À n’en pas douter, novembre s’est installé.
 
 ## Mardi 17
-🌐*En consultant le web*
+🌐 *En consultant le web*
 
 Aujourd’hui, je découvre quelques sites qui ont une page « actuel » et au hasard de mes recherches, je tombe sur ce billet : [Pourquoi vous devriez lancer un blog · Le journal de Themimitoof](https://themimitoof.fr/pourquoi-vous-devriez-lancer-un-blog/) et cela me rappelle que j’avais écrit, il y a plusieurs années sur ce même site un article assez proche [lancer un blog](/posts/lancer-un-blog/). Ça date de plus de 6 ans, mais les intuitions étaient là et elles sont bonnes. Elles le sont toujours. 
 
@@ -78,7 +78,7 @@ En parlant de la page « Actuel », je m’y suis essayé, mais sans grande co
 Je découvre les !bangs. Une fonctionnalité  avec le moteur duckduckgo qui permet de cibler directement des recherches sur de nombreux sites. J’en parle dans cet [article](/posts/Bangs/).
 
 ## Dimanche 22 
-🔥*À la maison*
+🔥 *À la maison*
 
 Ce matin, la météo n’incite qu’à une chose : rester chez soi. J’en profite pour me remettre à ce carnet et à le faire évoluer, toujours avec le *précieux* concours de l’IA. 
 ## Le mois prochain
