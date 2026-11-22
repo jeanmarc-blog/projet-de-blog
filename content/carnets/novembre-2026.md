@@ -1,7 +1,7 @@
 ---
 title: Novembre 2026
 date: 2026-11-01
-draft: true
+draft: false
 tags:
   - CARNET
 description: Quelques réflexions du mois de novembre au jour le jour
