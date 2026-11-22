@@ -2,6 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/contact/</loc>
+    <lastmod>2026-11-22T11:10:23+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2026-11-22T11:18:01+01:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/%C3%A9criture/</loc>
     <lastmod>2026-11-16T18:24:29+01:00</lastmod>
   </url><url>
@@ -11,14 +17,11 @@
     <loc>http://localhost:1313/tags/jardin/</loc>
     <lastmod>2026-11-16T18:24:08+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2026-11-22T10:37:00+01:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/outils/</loc>
     <lastmod>2026-11-16T18:24:08+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2026-11-22T10:37:00+01:00</lastmod>
+    <lastmod>2026-11-22T11:18:01+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/ia/</loc>
     <lastmod>2026-11-16T18:24:29+01:00</lastmod>
@@ -30,10 +33,10 @@
     <lastmod>2026-11-16T18:24:29+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/carnet/</loc>
-    <lastmod>2026-11-22T10:37:00+01:00</lastmod>
+    <lastmod>2026-11-22T11:18:01+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/carnets/novembre-2026/</loc>
-    <lastmod>2026-11-22T10:37:00+01:00</lastmod>
+    <lastmod>2026-11-22T11:18:01+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/carnets/octobre-2026/</loc>
     <lastmod>2026-10-31T09:41:55+01:00</lastmod>
@@ -70,12 +73,6 @@
   </url><url>
     <loc>http://localhost:1313/actuel/</loc>
     <lastmod>2026-11-15T17:03:04+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/exp%C3%A9rience/</loc>
-    <lastmod>2026-10-09T13:59:10+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/redemarrage_blog/</loc>
-    <lastmod>2026-10-09T13:59:10+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/juillet/</loc>
     <lastmod>2026-09-28T08:42:14+02:00</lastmod>
@@ -151,9 +148,6 @@
   </url><url>
     <loc>http://localhost:1313/posts/hello-le-monde/</loc>
     <lastmod>2026-10-06T11:26:16+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/contact/</loc>
-    <lastmod>2026-11-07T21:02:24+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/geek/</loc>
     <lastmod>2026-10-27T16:07:32+01:00</lastmod>
