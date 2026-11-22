@@ -3,37 +3,37 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/tags/%C3%A9criture/</loc>
-    <lastmod>2026-11-16T00:00:00+00:00</lastmod>
+    <lastmod>2026-11-16T18:24:29+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/bangs/</loc>
-    <lastmod>2026-11-15T00:00:00+00:00</lastmod>
+    <lastmod>2026-11-16T18:24:08+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/jardin/</loc>
-    <lastmod>2026-11-15T00:00:00+00:00</lastmod>
+    <lastmod>2026-11-16T18:24:08+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-11-16T00:00:00+00:00</lastmod>
+    <lastmod>2026-11-22T10:37:00+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/outils/</loc>
-    <lastmod>2026-11-15T00:00:00+00:00</lastmod>
+    <lastmod>2026-11-16T18:24:08+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2026-11-16T00:00:00+00:00</lastmod>
+    <lastmod>2026-11-22T10:37:00+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/ia/</loc>
-    <lastmod>2026-11-16T00:00:00+00:00</lastmod>
+    <lastmod>2026-11-16T18:24:29+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/jai-lu-orelien/</loc>
-    <lastmod>2026-11-16T00:00:00+00:00</lastmod>
+    <lastmod>2026-11-16T18:24:29+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/litt%C3%A9rature/</loc>
-    <lastmod>2026-11-16T00:00:00+00:00</lastmod>
+    <lastmod>2026-11-16T18:24:29+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/carnet/</loc>
-    <lastmod>2026-11-15T17:43:33+01:00</lastmod>
+    <lastmod>2026-11-22T10:37:00+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/carnets/novembre-2026/</loc>
-    <lastmod>2026-11-10T08:54:49+01:00</lastmod>
+    <lastmod>2026-11-22T10:37:00+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/carnets/octobre-2026/</loc>
     <lastmod>2026-10-31T09:41:55+01:00</lastmod>
@@ -96,7 +96,7 @@
     <lastmod>2026-11-15T17:39:58+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/novembre/</loc>
-    <lastmod>2026-09-28T08:42:14+02:00</lastmod>
+    <lastmod>2026-11-16T18:23:58+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/mes-blogs/</loc>
     <lastmod>2026-10-06T11:26:21+02:00</lastmod>
@@ -147,7 +147,7 @@
     <lastmod>2026-10-06T11:26:39+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/sources/</loc>
-    <lastmod>2026-09-28T08:42:14+02:00</lastmod>
+    <lastmod>2026-11-19T17:26:33+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/hello-le-monde/</loc>
     <lastmod>2026-10-06T11:26:16+02:00</lastmod>
@@ -195,8 +195,5 @@
     <lastmod>2026-10-13T09:49:08+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
-  </url><url>
-    <loc>http://localhost:1313/recherche/</loc>
-    <lastmod>2026-11-15T17:16:23+01:00</lastmod>
   </url>
 </urlset>

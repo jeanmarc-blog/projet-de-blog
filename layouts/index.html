@@ -1,46 +1,41 @@
 {{ define "main" }}
+
 <div class="home-page">
-<p><em>Un carnet personnel cultivé comme un jardin avec quelques semences d'IA et beaucoup de curiosité.</em></p>
 
-<h2>Bienvenue</h2>
-<p>Je suis <a href="/about/">Jean-Marc Leresche</a> et ceci est mon <em>carnet numérique</em>. Je le conçois comme une expérience de co-construction entre l'intelligence humaine et l'intelligence artificielle. Est-ce que c'est seulement possible ? Souhaitable ? Pertinent ? J'explore ces pistes sans pression.</p>
+<h1>Carnet de Blog</h1>
 
-<p>Comme dans un jardin, je plante, je cultive, je soigne. Je taille là où c'est nécessaire. Et je laisserai le temps au temps.</p>
- 
-<h2>Articles récents</h2>
+<p><em>Un carnet numérique écrit au fil des jours depuis les Montagnes neuchâteloises.</em></p>
 
-    <ul>
-        {{ range first 5 (where .Site.RegularPages "Section" "posts") }}
-            <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
-        {{ end }}
-    </ul>
+<hr>
+
+<h2>📓 Carnet du mois</h2>
+
+<p><strong>Novembre 2026</strong></p>
 
 <p>
-	➡️ <a href="/posts/">Liste de tous les billets</a>
+Carnet ouvert le 1er novembre et enrichi au fil des jours.
 </p>
-
-  <h2>Notes mises à jour</h2>
-
-   <ul>
-     {{ $articles := where .Site.RegularPages "Section" "posts" }}
-     {{ $tailles := where $articles "Params.révision" "!=" nil }}
-     {{ range ($tailles.ByParam "révision").Reverse | first 2 }}
-     <li>
-      <a href="{{ .RelPermalink }}">{{ .Title }}</a> le         {{ (time .Params.révision).Format "02.01.2006" }}
-     </li>
-  {{ end }}
-</ul>
 
 <p>
-  💡 Il est aussi possible de parcourir ce jardin par thèmes <a href="/tags/ia/">ia</a> • <a href="/tags/écriture/">écriture</a> • <a href="/tags/outils">outils</a>
+<a href="/carnets/novembre-2026/">... Ouvrir le carnet</a>
 </p>
 
-<h2>Un contenu hétéroclite</h2>
-<p>Ce blog est un peu "fourre-tout" et c'est voulu ! Il s'inspire du concept de <a href="https://jardinjpr.org/jardin-numerique/annexes-du-jardin/jardin-numerique-definition/">jardin numérique</a>. 
-Vous y trouverez des idées un peu brutes, des articles en cours, d'autres achevés et des <a href="/carnets">carnets mensuels</a>.</br> 
-La page <a href="/philosophie">philosophie de mon jardin numérique</a> vous en dira un peu plus.</p>
+<hr>
 
-<p>J'y parle de sujets divers et variés autour du numérique, de l'écriture, de l'apprentissage au quotidien et de projets personnels qui me motivent.</p> 
-<p>Ma motivation est d'oser et de risquer. J'en dis un peu plus sur <a href="/actuel/">ma page Actuel</a>.
+<h2>📚 Archives</h2>
+
+<p>
+<a href="/posts/">... Consulter les archives</a>
+</p>
+
+<hr>
+
+<h2>👤 À propos</h2>
+
+<p>
+<a href="/about/">... Qui écrit ici ?</a>
+</p>
+
+</div>
 
 {{ end }}

@@ -27,6 +27,7 @@ paginate = 3
     readMore = "continuer"
     readOtherPosts = "à lire aussi"
 
+
     [languages.fr.params.logo]
       logoText = "Mon carnet numérique | Une expérience avec l'aide de l'IA"
       logoHomeLink = "/"
@@ -42,11 +43,6 @@ paginate = 3
 	url = "/posts"
 
       [[languages.fr.menu.main]]
-        identifier = "actuel"
-        name = "actuel"
-        url = "/actuel"
-
-      [[languages.fr.menu.main]]
         identifier = "contact"
         name = "contact"
         url = "/contact"
@@ -56,10 +52,11 @@ paginate = 3
         name = "carnets"
         url = "/carnets/"
 
-      [[languages.fr.menu.main]]
-        identifier = "Rechercher"
-        name = "rechercher"
-        url = "/recherche/"
+      [[langages.fr.menu.main]]
+  	identifier = "recherche"
+	name = "recherche"
+  	url = "/search/"
+   
 
 [markup]
   [markup.goldmark]
@@ -68,6 +65,3 @@ paginate = 3
 
 [frontmatter]
   lastmod = ["lastmod", ":fileModTime", ":default"]
-
-
-disqusShortname = "https-carnetdeblog-netlify-app"

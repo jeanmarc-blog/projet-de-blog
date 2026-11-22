@@ -175,3 +175,9 @@ article a {
     max-width: 100%;
   }
 }
+
+.post-reaction {
+ margin-top: 3rem;
+  font-style: italic;
+  color: #4a6741;
+}
