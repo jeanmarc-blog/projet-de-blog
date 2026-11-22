@@ -186,15 +186,13 @@ article a {
 
 @media screen and (max-width: 600px) {
 
-  .menu {
-    right: 0;
-    max-width: 220px;
+  .header {
+    margin-bottom: 2rem;
   }
 
-  .menu__inner,
-  .menu__sub-inner {
-    width: auto;
-    max-width: 220px;
+  .menu {
+    position: relative;
+    margin-bottom: 1rem;
   }
 
 }
