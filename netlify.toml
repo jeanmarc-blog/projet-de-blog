@@ -1,6 +1,4 @@
 [build]
-[context.branch-deploy]
-command = "hugo --gc --minify -b $DEPLOY_PRIME_URL && npx pagefind --site public"
 
 [context.production.environment]
  HUGO_VERSION = "0.74.1"
@@ -22,9 +20,6 @@ command = "hugo --gc --minify -b $DEPLOY_PRIME_URL && npx pagefind --site public
 
 [context.branch-deploy]
  command = "hugo --gc --minify -b $DEPLOY_PRIME_URL" && npx pagefind --site public
-
-[context.branch-deploy.environment]
- HUGO_VERSION = "0.74.1"
 
 [context.next.environment]
  HUGO_ENABLEGITINFO = "true"
