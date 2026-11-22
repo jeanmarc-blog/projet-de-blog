@@ -3,13 +3,12 @@ title = "Novembre 2020"
 date = "2020-11-25T10:26:22+01:00"
 author = "Jean-Marc"
 authorTwitter = "" #do not include @
-cover = "img/brouillard.jpg"
 tags = ["CARNET"]
 keywords = ["", ""]
 description = "Premier essai d'un carnet mensuel (déjà bien entamé, le mois). Il ne s'agit pas de m'étendre sur mes états d'âme, ma santé ni mon moral. Je connais des professionnels qui sauront m'écouter. Je souhaite plutôt faire un journal de mes activités dans le domaine du blog et revenir sur ce qui a été marquant dans le mot écoulé. Une sorte de newletter mensuelle."
 showFullContent = false
 +++
-*Commençons par quelques mots sur le choix de l'image ci-dessus. Le brouillard est synonyme de cette période de l'année et aussi de mon projet. Je distingue un chemin, je m'y engage, sans voir l'horizon. Un pas après l'autre, j'avance. Espérant aller dans la bonne direction et ne pas me perdre. Mais je l'avoue, je ne suis sûr de rien.*
+*Le brouillard est synonyme de cette période de l'année et aussi de mon projet. Je distingue un chemin, je m'y engage, sans voir l'horizon. Un pas après l'autre, j'avance. Espérant aller dans la bonne direction et ne pas me perdre. Mais je l'avoue, je ne suis sûr de rien.*
 
 ## Redémarrage : attention au départ
 Allez, c'est reparti! Ce blog reprend vie après quelques mois laissé  à l'abandon. Je dois me remettre aux manipulations pour publier ce nouveau billet. Mais, après un peu de tâtonnement, ça revient.

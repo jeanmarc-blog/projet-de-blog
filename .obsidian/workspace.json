@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/carnets/novembre-2026.md",
+                "file": "content/posts/mes-blogs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "novembre-2026"
+              "title": "mes-blogs"
             }
           }
         ]
@@ -203,7 +203,14 @@
   },
   "active": "781ef15b03314b67",
   "lastOpenFiles": [
+    "content/posts/mesures.md",
+    "content/posts/novembre.md",
+    "content/posts/mars.md",
+    "content/posts/juillet.md",
+    "content/posts/janvier.md",
+    "content/posts/fevrier.md",
     "posts/lancer-un-blog.md",
+    "posts/2026-11-16.md",
     "content/carnets/novembre-2026.md",
     "content/posts/lancer-un-blog.md",
     "content/contact.md",
@@ -235,20 +242,13 @@
     "content/actuel.md",
     "content/posts/jai-lu-orelien.md",
     "content/posts/Bangs.md",
-    "content/posts/novembre.md",
     "content/posts/100articles.md",
-    "posts/2026-11-16.md",
     "archetypes/default.md",
     "Sans titre.canvas",
     "archetypes/posts.md",
     "posts/facebook.md",
     "content/about.md",
-    "content/posts/fevrier.md",
     "content/posts/fausses-excuses.md",
-    "content/posts/decembre.md",
-    "content/posts/relance-2026.md",
-    "content/posts/reprise-du-blog.md",
-    "content/philosophie.md",
-    "notes-lectures/!bangs.md"
+    "content/posts/decembre.md"
   ]
 }

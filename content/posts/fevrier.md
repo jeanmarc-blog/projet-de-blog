@@ -3,7 +3,6 @@ title = "Février"
 date = "2021-02-28T14:51:17+01:00"
 author = "Jean-Marc"
 authorTwitter = "" #do not include @
-cover = "/img/fevrier.jpg"
 tags = ["BLOG", "CARNET", "MOIS"]
 keywords = ["", ""]
 description = "Février nous donne un avant-goût de printemps. Le soleil, la relative douce chaleur, les pollens qui chatouillent le nez… Tout cela annonce un renouveau. Pour ma pratique du blog, il y a aussi une envie de tester différentes choses. Pour l'instant, c'est encore à l'état de projets."

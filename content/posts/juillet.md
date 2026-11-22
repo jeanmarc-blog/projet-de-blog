@@ -3,7 +3,6 @@ title = "Juillet 2021"
 date = "2021-07-19T16:10:43+02:00"
 author = "Jean-Marc Leresche"
 authorTwitter = "" #do not include @
-cover = "img/reflechir.jpg"
 tags = ["CARNET", "BLOG"]
 keywords = ["", ""]
 description = "Un retour à ce blog laissé à l'abandon depuis quelques mois, parce que… Pour plein de bonnes raisons, ou pour d'autres qui n'en sont pas. Un billet à mi-juillet. Histoire de ne pas oublier."

@@ -3,7 +3,6 @@ title = "Janvier 2021"
 date = "2021-01-31T15:49:34+01:00"
 author = "Jean-Marc Leresche"
 authorTwitter = "" #do not include @
-cover = "/img/janvier.jpg"
 tags = ["CARNET", "MOIS", "BLOG"]
 keywords = ["", ""]
 description = "Janvier. Début d'une année qui commence comme la précédente a fini : sous le signe de l'incertitude, de la patience et de la confiance, malgré tout. Arriverons-nous à retrouver un semblant de vie où des gestes qui ont été interdits retrouvent enfin toute leur force et leur sens ? Je l'espère, je le souhaite."

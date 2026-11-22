@@ -81,6 +81,10 @@ Je découvre les !bangs. Une fonctionnalité  avec le moteur duckduckgo qui per
 🔥 *À la maison*
 
 Ce matin, la météo n’incite qu’à une chose : rester chez soi. J’en profite pour me remettre à ce carnet et à le faire évoluer, toujours avec le *précieux* concours de l’IA. 
+
+🎼 *Un moment hors du temps*
+
+Pour contrer la grisaille morose de ce dimanche, j’ai assisté à un concert-événement : [hommage à Hermann Goetz](https://acolelocle.ch/2026/11/02/hommage-a-hermann-goetz/). Deux chœurs s’associent pour interpréter un *« Psaume 137 »* jamais chanté en Suisse. 
 ## Le mois prochain
 J’ai envie d’écrire quelques billets autour de l’écriture. Sans que ce soit les titres définitifs, il m’en est venu quelques-uns, que je laisse là, histoire de ne pas les oublier:
 
