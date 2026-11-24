@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/mes-blogs.md",
+                "file": "content/carnets/novembre-2026.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "mes-blogs"
+              "title": "novembre-2026"
             }
           }
         ]
@@ -203,6 +203,11 @@
   },
   "active": "781ef15b03314b67",
   "lastOpenFiles": [
+    "content/posts/jai-lu-orelien.md",
+    "public/img/orelien.jpg",
+    "static/img/orelien.jpg",
+    "content/carnets/novembre-2026.md",
+    "content/posts/mes-blogs.md",
     "content/posts/mesures.md",
     "content/posts/novembre.md",
     "content/posts/mars.md",
@@ -211,7 +216,6 @@
     "content/posts/fevrier.md",
     "posts/lancer-un-blog.md",
     "posts/2026-11-16.md",
-    "content/carnets/novembre-2026.md",
     "content/posts/lancer-un-blog.md",
     "content/contact.md",
     "static/img/contact2026.jpg",
@@ -222,8 +226,6 @@
     "static/img/nov26/moulin.jpg",
     "public/img/nov26/creuxduvan.jpg",
     "static/img/nov26/creuxduvan.jpg",
-    "public/img/nov26/feuilles.jpg",
-    "static/img/nov26/feuilles.jpg",
     "public/img/nov26",
     "static/img/nov26",
     "public/img/Nouveau dossier",
@@ -240,15 +242,12 @@
     "layouts/search/search.html",
     "content/recherche.md",
     "content/actuel.md",
-    "content/posts/jai-lu-orelien.md",
     "content/posts/Bangs.md",
     "content/posts/100articles.md",
     "archetypes/default.md",
     "Sans titre.canvas",
     "archetypes/posts.md",
     "posts/facebook.md",
-    "content/about.md",
-    "content/posts/fausses-excuses.md",
-    "content/posts/decembre.md"
+    "content/about.md"
   ]
 }

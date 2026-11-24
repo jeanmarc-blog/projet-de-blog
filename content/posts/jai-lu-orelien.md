@@ -7,11 +7,11 @@ tags:
   - IA
   - littérature
 description: Une réflexion sur ma lecture du livre de Thélyson Orélien "C'était ça ou mourir"
-cover: /img/thelyson.jpg
+cover: /img/orelien.jpg
 statut: 🪴abouti
 révision: 2026-11-16
 ---
-*Image de couverture : image générée par Gemini*
+*Image de couverture : photo personnelle*
 ## Introduction
 La rentrée littéraire et la distribution des prix littéraires ont été bouleversées par ce qui est devenu *l’Affaire Thélyson Orélien*. J’en parle dans mon [Carnet d’octobre](/carnets/octobre-2026/#lia-au-quotidien). J’ai hésité à lire ce roman. Je me suis rendu plusieurs fois à la librairie, mais je l’ai laissé sur le rayon. Et puis un jour, j’ai craqué. Je l’ai acheté, je l’ai lu et… J’ai aimé!
 
