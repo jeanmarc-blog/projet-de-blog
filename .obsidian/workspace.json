@@ -201,12 +201,14 @@
       "bases:Créer une nouvelle base": false
     }
   },
-  "active": "781ef15b03314b67",
+  "active": "8cde0e0731e2ea93",
   "lastOpenFiles": [
+    "static/img/nov26/brouillard.jpg",
+    "philosophie.md",
+    "content/carnets/novembre-2026.md",
     "content/posts/jai-lu-orelien.md",
     "public/img/orelien.jpg",
     "static/img/orelien.jpg",
-    "content/carnets/novembre-2026.md",
     "content/posts/mes-blogs.md",
     "content/posts/mesures.md",
     "content/posts/novembre.md",
@@ -247,7 +249,6 @@
     "archetypes/default.md",
     "Sans titre.canvas",
     "archetypes/posts.md",
-    "posts/facebook.md",
-    "content/about.md"
+    "posts/facebook.md"
   ]
 }
