@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2028a5b7d09276f7",
+        "id": "d9155e5a7f0b0882",
         "type": "tabs",
         "children": [
           {
-            "id": "781ef15b03314b67",
+            "id": "ebc7e128d71c51c6",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -201,11 +201,14 @@
       "bases:Créer une nouvelle base": false
     }
   },
-  "active": "8cde0e0731e2ea93",
+  "active": "ebc7e128d71c51c6",
   "lastOpenFiles": [
+    "img(nov26/).md",
+    "content/carnets/novembre-2026.md",
+    "img(nov26",
+    "public/img/nov26/brouillard.jpg",
     "static/img/nov26/brouillard.jpg",
     "philosophie.md",
-    "content/carnets/novembre-2026.md",
     "content/posts/jai-lu-orelien.md",
     "public/img/orelien.jpg",
     "static/img/orelien.jpg",
@@ -226,8 +229,6 @@
     "public/img/moulin.jpg",
     "public/img/nov26/arbres.jpg",
     "static/img/nov26/moulin.jpg",
-    "public/img/nov26/creuxduvan.jpg",
-    "static/img/nov26/creuxduvan.jpg",
     "public/img/nov26",
     "static/img/nov26",
     "public/img/Nouveau dossier",
@@ -241,7 +242,6 @@
     "public/sans-titre",
     "content/sources.md",
     "content/search.md",
-    "layouts/search/search.html",
     "content/recherche.md",
     "content/actuel.md",
     "content/posts/Bangs.md",

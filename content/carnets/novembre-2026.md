@@ -5,14 +5,15 @@ draft: false
 tags:
   - CARNET
 description: Quelques réflexions du mois de novembre au jour le jour
-cover: /img/nov26/feuilles.jpg
+cover: /img/machine.jpg
 ---
 > *Si la saison change, la vocation de cet espace aussi : d’un blog initial, il est devenu, l’espace de quelques jours un jardin numérique pour ressembler, maintenant, à un carnet de curiosité, rédigé en direct et surtout sans pression. Maintenant, je cherche le bon ton, la bonne ligne éditoriale, je soumets ma rédaction à des IA pour récolter leurs avis et je constate que je leur fais trop confiance. Je reprends le contrôle !*
 
 
 ## ✏️ Prologue
 
-Il était une fois… Moi. Moi, qui aime écrire, promener mes doigts sur le clavier, me laisser bercer par le cliquetis des touches. Moi, qui aime partager ce qui traverse mon esprit, ce qui me questionne. Et la tenue de ce carnet fait partie de mes questionnements. C’est un peu un *« Je t’aime, moi non plus ! »*. J’y reviens avec enthousiasme et la ferme intention de lui donner une nouvelle forme, un nouveau contenu. Puis, je me lasse, je me convainc que tout cela ne sert à rien, n’est que poursuite du vent. Et je l’abandonne, sans tout à fait l’oublier. Et je reprends le clavier pour relancer quelque chose avec conviction… À voir jusqu’à quand cela durera. Il y a déjà des signes de lassitude.
+Il était une fois… Moi. Moi, qui aime écrire, promener mes doigts sur le clavier, me laisser bercer par le cliquetis des touches. Moi, qui aime partager ce qui traverse mon esprit, ce qui me questionne. Et la tenue de ce carnet fait partie de mes questionnements. C’est un peu un *« Je t’aime, moi non plus ! »*. J’y reviens avec enthousiasme et la ferme intention de lui donner une nouvelle forme, un nouveau contenu. Puis, je me lasse, je me convaincs que tout cela ne sert à rien, n’est que poursuite du vent. Et je l’abandonne, sans tout à fait l’oublier. Et je reprends le clavier pour relancer quelque chose avec conviction… À voir jusqu’à quand cela durera.
+
 
 ![Comme dans mes pensées, le brouillard s’invite chez nous](/img/nov26/brouillard.jpg)
 
@@ -24,7 +25,7 @@ La différence saute aux yeux: fini le fond noir et l’écriture un tantinet tr
 
 ## Quelques découvertes
 
-Au passage, j’ai aussi découvert un programme complémentaire (ou *plug-in*) dans [*Obsidian*](/posts/Obsidian/) qui me permet d’ouvrir *Antidote* pour la vérification orthographique et syntaxique de mes articles. Il faut encore que le reflexe de passer le texte au crible du correcteur devienne un réflexe justement. 
+Au passage, j’ai aussi approfondi ma connaissance d’[Obsidian](/posts/Obsidian/), notamment en activant le *plug-in* d’Antidote. Il me permet de lancer la vérification orthographique et syntaxique de mes articles. Il faut encore que le réflexe de passer le texte au crible du correcteur devienne un réflexe justement. Parce que, même si j’écris mon carnet tout au long du mois, c’est évident que sa forme doit être soignée.
 
 En dialoguant avec Copilot, j’ai compris qu’au lieu de vouloir *tout* refondre d’un coup, il est plus motivant de travailler par petites touches, à l’image d’un peintre qui fait évoluer son œuvre au fil des jours, en laissant l’inspiration le travailler. 
 
@@ -54,6 +55,8 @@ J’ai donc eu recours à Lumo.ai, le programme de Proton (entreprise suisse qui
 
 ![L’ancien look depuis le début](/img/carnet-de-blog.png/)
 
+*Voilà à quoi ressemblait mon carnet en octobre*
+
 Je trouve que ça en jette et que ça rend la lecture plus agréable, que ça fait moins *truc technique rebutant*.
 
 En parlant d’IA, j’ai lu le roman [*C’était ça ou mourir* de Thélyson Orélien](/posts/jai-lu-orelien/) et j’ai rédigé un billet à la fin de ma lecture. Ce n’est pas une critique littéraire, mais mon impression toute personnelle.
@@ -63,24 +66,33 @@ Aujourd’hui, je découvre quelques sites qui ont une page « actuel » et au
 
 En parlant de la page « Actuel », je m’y suis essayé, mais sans grande conviction et le retour à un carnet que je rédige au jour le jour remplit parfaitement ce rôle et cela me donne encore la liberté de ne pas avoir à « remplir » une pleine page.
 
-Je découvre encore les !bangs. Une fonctionnalité  avec le moteur duckduckgo qui permet de cibler directement des recherches sur de nombreux sites. J’en parle dans cet [article](/posts/Bangs/). Vais-je vraiment y recourir ? La question reste en suspens.
+Je découvre encore une manière simplifiée d’effectuer des recherches avec le  moteur duckduckgo : les !bangs. Une fonctionnalité qui permet de cibler directement la cible sur un site ou un type de site au lieu des nombreuses réponses d’une recherche générale. J’en parle dans cet [article](/posts/Bangs/). Vais-je vraiment y recourir ? La question reste en suspens.
 
 ![Au fil du vent sur les hauteurs des Ponts-de-Martel](/img/nov26/moulin.jpg)
 
 *L’œuvre d’un artiste du coin incite à prendre le large…* 
 
-## 📄L’écriture et juste de l’écriture
+## 📄  L’écriture et juste de l’écriture
 
 J’ai vraiment envie maintenant de me concentrer sur le contenu, des réflexions autour de l’écriture. Et la découverte récente d’un carnet physique tout beau tout neuf ouvre de nouvelles perspectives. Retrouver le plaisir de l’écriture manuscrite : tenir un stylo, un crayon ou un feutre (je n’ai pas encore arrêté mon choix) et le contact avec le papier. Mais, je n’ai pas encore sauté le pas d’écrire le premier mot ni la première phrase.
 
 Il y a cette peur de la page blanche ou cette angoisse de déprécier quelque chose qui a l’air encore parfait, mais qui est parfait parce qu’il n’est pas encore utilisé. Mon trait perfectionniste ressort : cette peur doit trouver son origine dans le fait de vouloir tout de suite réaliser quelque chose de bien, au moins.
 
-Mais au delà, il y a cette envie d’écrire, juste écrire, pour moi, pour toi qui liras peut-être un jour ces lignes, pour je ne sais quoi ni qui. L’envie tenace de poser des mots, de graver quelques idées dans le sable du temps qui en effacera certaines qui en gardera d’autres. Juste être dans cet instant de la joie d’écrire ces mots. 
+Mais au-delà, il y a cette envie d’écrire, juste écrire, pour moi, pour toi qui liras peut-être un jour ces lignes, pour je ne sais quoi ni qui. L’envie tenace de poser des mots, de tracer quelques idées dans le sable du temps qui en effacera certaines qui en gardera d’autres. Juste être dans cet instant de la joie - ou de la jouissance - d’écrire ces mots. 
+
 
 ## Ce que je retiens ou ai envie de retenir
 L’écriture m’est personnelle et je n’ai plus envie de la confier à un autre, encore moins à une intelligence artificielle qui me dira que c’est bien, mais que je pourrais encore affiner ceci ou cela. 
 
 J’écris ce qui me vient, ce que j’ai besoin de partager avec toute la discrétion de ne pas en dire trop, de ne pas entrouvrir la porte de l’intime. Partager ce qui peut l’être et garder pour moi pour ou de plus proche ce qui relève du trop personnel.
+
+
+Ce carnet de novembre pose les bases d’une nouvelle orientation à ce projet de site statique, créé il y a 6 ans et qui a connu des heurs et malheurs, des périodes intenses et de longues pauses. Je fais le choix de rien figer, de laisser toute orientation ouverte. Je verrai bien où cela me mènera.
+
+
+![Le feuillage d’automne, flamboyant, mais éphémère](/img/nov26/feuilles.jpg/)
+
+*Le feuillage d’automne, flamboyant, mais si éphémère.*
 
 ## Le mois prochain
 J’ai envie d’écrire quelques billets autour de l’écriture. Sans que ce soit les titres définitifs, il m’en est venu quelques-uns, que je laisse là, histoire de ne pas les oublier:
