@@ -176,7 +176,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "content/about.md"
+                "file": "content/carnets/novembre-2026.md"
               },
               "icon": "lucide-info",
               "title": "Propriétés du fichier"
@@ -187,8 +187,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -201,7 +200,7 @@
       "bases:Créer une nouvelle base": false
     }
   },
-  "active": "ebc7e128d71c51c6",
+  "active": "2315337d43ebd58b",
   "lastOpenFiles": [
     "img(nov26/).md",
     "content/carnets/novembre-2026.md",

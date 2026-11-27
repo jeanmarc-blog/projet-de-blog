@@ -7,7 +7,7 @@ tags:
 description: Quelques réflexions du mois de novembre au jour le jour
 cover: /img/machine.jpg
 ---
-> *Si la saison change, la vocation de cet espace aussi : d’un blog initial, il est devenu, l’espace de quelques jours un jardin numérique pour ressembler, maintenant, à un carnet de curiosité, rédigé en direct et surtout sans pression. Maintenant, je cherche le bon ton, la bonne ligne éditoriale, je soumets ma rédaction à des IA pour récolter leurs avis et je constate que je leur fais trop confiance. Je reprends le contrôle !*
+> *Si la saison change, la vocation de cet espace aussi : d’un blog initial, il est devenu, l’espace de quelques jours, un jardin numérique pour ressembler, maintenant, à un carnet de curiosité, rédigé en direct et surtout sans pression. Maintenant, je cherche le bon ton, la bonne ligne éditoriale, je soumets ma rédaction à des IA pour récolter leurs avis et je constate que je leur fais trop confiance. Je reprends le contrôle !*
 
 
 ## ✏️ Prologue
@@ -21,7 +21,7 @@ Il était une fois… Moi. Moi, qui aime écrire, promener mes doigts sur le cla
 
 ## Tenter un nouveau départ
 
-La différence saute aux yeux: fini le fond noir et l’écriture un tantinet trop ordinateur des années 80. Place à un site tout beau tout neuf. Tout n’a pas été simple, mais le résultat est là et il me plaît. Au passage, ce carnet a adopté la [philosophie du jardin numérique](/philosophie/). C’est en tout cas l’objectif de ce début de mois, mais ça va évoluer. Depuis quelques jours, je m’intéresse plutôt à la philosophie du carnet. Tout en gardant l’idée maîtresse que les textes vont évoluer dans le temps, sans que j’ai besoin de le mentionner clairement ; peut-être parfois par une date de mise à jour.
+La différence saute aux yeux: fini le fond noir et l’écriture un tantinet trop ordinateur des années 80. Place à un site tout beau tout neuf. Tout n’a pas été simple, mais le résultat est là et il me plaît. Au passage, ce carnet a adopté la [philosophie du jardin numérique](/philosophie/). C’est en tout cas l’objectif de ce début de mois, mais ça va évoluer. Depuis quelques jours, je m’intéresse plutôt à la philosophie du carnet. Tout en gardant l’idée maîtresse que les textes vont évoluer dans le temps, sans que j’aie besoin de le mentionner clairement ; peut-être parfois par une date de mise à jour.
 
 ## Quelques découvertes
 
@@ -84,21 +84,30 @@ Mais au-delà, il y a cette envie d’écrire, juste écrire, pour moi, pour toi
 ## Ce que je retiens ou ai envie de retenir
 L’écriture m’est personnelle et je n’ai plus envie de la confier à un autre, encore moins à une intelligence artificielle qui me dira que c’est bien, mais que je pourrais encore affiner ceci ou cela. 
 
-J’écris ce qui me vient, ce que j’ai besoin de partager avec toute la discrétion de ne pas en dire trop, de ne pas entrouvrir la porte de l’intime. Partager ce qui peut l’être et garder pour moi pour ou de plus proche ce qui relève du trop personnel.
+J’écris ce qui me vient, ce que j’ai besoin de partager avec toute la discrétion de ne pas en dire trop, de ne pas entrouvrir la porte de l’intime. Partager ce qui peut l’être et garder pour moi  ou pour de plus proches ce qui relève du trop personnel.
 
 
-Ce carnet de novembre pose les bases d’une nouvelle orientation à ce projet de site statique, créé il y a 6 ans et qui a connu des heurs et malheurs, des périodes intenses et de longues pauses. Je fais le choix de rien figer, de laisser toute orientation ouverte. Je verrai bien où cela me mènera.
+Ce carnet de novembre pose les bases d’une nouvelle orientation à ce projet de site statique, créé il y a 6 ans et qui a connu des heurs et malheurs, des périodes intenses et de longues pauses. Je fais le choix de ne rien figer, de laisser toute orientation ouverte. Je verrai bien où cela me mènera.
 
 
 ![Le feuillage d’automne, flamboyant, mais éphémère](/img/nov26/feuilles.jpg/)
 
 *Le feuillage d’automne, flamboyant, mais si éphémère.*
 
+## 🌀 Une impression de tourner en rond
+
+Ce matin, j’ai relu le premier jet du [carnet de novembre 2020](/posts/novembre/), ça fait un bail… Et ce qui m’occupait à l’époque me tracasse toujours aujourd’hui. Il y a l’écriture au centre et les doutes et la lassitude projetée de tenir dans le temps. Aujourd’hui, si ces questions sont toujours présentes, il y a quand même une évolution. Je me suis désabonné des réseaux sociaux et je renonce à une quelconque recherche de notoriété. L’IA m’a permis de donner une nouvelle présentation à mon blog et le carnet n’est plus un article parmi d’autres, mais le centre du contenu.
+
+Écrire sur l’écriture me donne l’impression de tourner en rond, de revenir au même point de départ et de raviver des angoisses et des frustrations. J’aimerais tenter autre chose et notamment la micronouvelle. Un très court récit possiblement illustré par une photo personnelle ou une citation. Histoire de sortir du cercle de l’écrivain qui réfléchit à sa manière d’écrire et écrit qu’il réfléchit à sa manière d’écrire…
+
 ## Le mois prochain
-J’ai envie d’écrire quelques billets autour de l’écriture. Sans que ce soit les titres définitifs, il m’en est venu quelques-uns, que je laisse là, histoire de ne pas les oublier:
+En plus d’un possible essai d’une micronouvelle, j’ai encore envie d’écrire quelques billets autour de l’écriture. Sans que ce soit les titres définitifs, il m’en est venu quelques-uns, que je laisse là, histoire de ne pas les oublier :
 
 - *Pour qui créons-nous?* qui posera la question du public qu’un auteur/artiste cherche à atteindre
 - *Anatomie d’une métamorphose*. Titre et contenu proposé par une IA pour synthétiser tout le chemin parcouru depuis la relance de mon carnet à la version actuelle.
 - *Je me suis laissé prendre au piège* où je vais expliciter mon rapport à l’IA.
 
 ### Pour aller plus loin
+- [le site d’Academic qui explique la micronouvelle](https://fr-academic.com/dic.nsf/frwiki/2044921) qui décrit les caractéristiques d’une micronouvelle
+- [Quelques routines des écrivains](https://maison-edition.fr/les-routines-decriture-decrivains-celebres) Car l’écriture est un entrainement au long cours
+- [Les nouvelles d’Harfang](https://nouvellesdharfang.blogspot.com/2015/01/tout-sur-la-micro-nouvelle.html) qui propose des textes au format court
